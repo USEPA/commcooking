@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: commcooking
+Version: 0.1
+Author-email: beidler.james@epa.gov
+Requires-Python: >=3.5
+License-File: LICENSE
+Requires-Dist: geopandas>=0.14.0
+Requires-Dist: pandas>=2.1.0
+Requires-Dist: pyrosm>=0.6.2

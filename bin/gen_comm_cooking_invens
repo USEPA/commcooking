@@ -1,0 +1,143 @@
+#!/usr/bin/env python3
+# Generate FF10 inventories for a list of OSM commercial cooking emissions output files
+# For very large regions (such as national) the point inventory may be too big to process through SMOKE/CMAQ
+
+import csv
+import pandas as pd
+
+def main():
+    # Put the name of an emissions output from the osm_comm_cooking script on each line
+    # Typically each line will be one state and this will make up the inventory
+    lst = 'osm_emissions_states.lst'
+    # Label to give the output inventory name
+    label = 'listos_osm_inv_nyc60'
+    # Year that the data represents
+    year = '2018'
+    #####################
+    emis = pd.DataFrame()
+    with open(lst) as f:
+        for fn in f:
+            print(f'Reading {fn}', flush=True)
+            emis = pd.concat((emis, read_food_emis(fn.strip())))
+    print(f'Read {len(emis)} records')
+    #### Cut NYC cooking PM by 60% as per regulations
+    nyc_counties = ('36005','36047','36061','36081','36085')
+    idx = (emis.region_cd.isin(nyc_counties)) & (emis.poll.str.startswith('PM'))
+    emis.loc[idx, 'ann_value'] = emis.loc[idx, 'ann_value'] * 0.4
+    ####
+    ff10 = FF10()
+    emis = emis.merge(ff10.sccs, on='device', how='left')
+    emis['calc_year'] = year
+    fn = f'ptinv_{label}_{year}.csv'
+    ff10.write_pt(fn, emis)
+    fn = f'arinv_{label}_{year}.csv'
+    ff10.write_ar(fn, emis)
+
+def read_food_emis(fn):
+    '''
+    Read the osm_comm_cooking output file, round, rename to FF10 type names
+    '''
+    dtype = {'region_cd': str, 'name': str, 'poll': str}
+    df = pd.read_csv(fn, dtype=dtype)
+    df.rename(columns={'lat': 'latitude', 'lon': 'longitude', 'name': 'facility_name'}, inplace=True)
+    df['latitude'] = df.latitude.round(6)
+    df['longitude'] = df.longitude.round(6)
+    df['ann_value'] = df.ann_value.round(8)
+    return df
+
+class FF10:
+
+    def __init__(self):
+        self.dtype = {'region_cd': str, 'tribal_code': str, 'facility_id': str, 'unit_id': str, 'rel_point_id': str,
+          'process_id': str, 'scc': str, 'poll': str, 'erptype': str, 'naics': str, 'll_datum': str,
+          'fac_source_type': str, 'unit_type_code': int, 'submitter_id': str, 'data_set_id': str,
+          'facil_category_code': str, 'oris_facility_code': str, 'oris_boiler_id': str, 'ipm_yn': str,
+          'calc_year': int, 'date_updated': int, 'zipcode': str, 'comment': str, 'alternate_id': str,
+          'agy_facility_id': str, 'agy_unit_id': str, 'agy_rel_point_id': str, 'agy_process_id': str,
+          'reg_codes': str, 'control_ids': str}
+        self.pt_cols = ('country_cd','region_cd','tribal_code','facility_id','unit_id','rel_point_id','process_id',
+          'agy_facility_id','agy_unit_id','agy_rel_point_id','agy_process_id','scc','poll','ann_value',
+          'ann_pct_red','facility_name','erptype','stkhgt','stkdiam','stktemp','stkflow','stkvel','naics',
+          'longitude','latitude','ll_datum','horiz_coll_mthd','design_capacity','design_capacity_units',
+          'reg_codes','fac_source_type','unit_type_code','control_ids','control_measures','current_cost',
+          'cumulative_cost','projection_factor','submitter_id','calc_method','data_set_id',
+          'facil_category_code','oris_facility_code','oris_boiler_id','ipm_yn','calc_year','date_updated',
+          'fug_height','fug_width_xdim','fug_length_ydim','fug_angle','zipcode','annual_avg_hours_per_year',
+          'jan_value','feb_value','mar_value','apr_value','may_value','jun_value','jul_value','aug_value',
+          'sep_value','oct_value','nov_value','dec_value','jan_pctred','feb_pctred','mar_pctred',
+          'apr_pctred','may_pctred','jun_pctred','jul_pctred','aug_pctred','sep_pctred','oct_pctred',
+          'nov_pctred','dec_pctred','comment')
+        self.ar_cols = ('country_cd','region_cd','tribal_code','census_tract_cd','shape_id','scc',
+          'emis_type','poll','ann_value','ann_pct_red','control_ids','control_measures',
+          'current_cost','cumulative_cost','projection_factor','reg_codes','calc_method',
+          'calc_year','date_updated','data_set_id','jan_value','feb_value','mar_value',
+          'apr_value','may_value','jun_value','jul_value','aug_value','sep_value','oct_value',
+          'nov_value','dec_value','jan_pctred','feb_pctred','mar_pctred','apr_pctred',
+          'may_pctred','jun_pctred','jul_pctred','aug_pctred','sep_pctred','oct_pctred',
+          'nov_pctred','dec_pctred','comment')
+        '''
+        Define stack parameters for commercial cooking to use in the point FF10 file
+        velocity = 41.667 ft/s (IMC-2009 section 506.3.4 min 500 ft/min
+        diameter = 0.667 ft (https://www.culinairesystems.com/files/ASHRAE_Article_Exhaust_Velocity.pdf)
+        temp = 150 F (https://www.culinairesystems.com/files/ASHRAE_Article_Exhaust_Velocity.pdf)
+        height = 15 ft (typical single story height)
+        '''
+        self.defaults = {'country_cd': 'US', 'erptype': 2, 'stkvel': 41.667, 'stkdiam': 0.667, 
+          'stktemp': 150, 'stkhgt': 15}
+        # Not bothering with NAICS at this point but could be included in the future
+        naics_tbl = [['family','722511'],['ethnic','722511'],['fast_food','722513'],
+          ['seafood','722513'],['steak_bbq','722513']]
+        self.naics = pd.DataFrame(naics_tbl, columns=['sic_cuisine','naics'])
+        # ccb and ucb 91116/4553   91135/4652 for 3000 and 91135/4651 everything else
+        # temporal 262/7/26
+        scc_tbl = [['ccb','2302002100'],['ucb','2302002200'],['dff','2302003000'],
+          ['fg','2302003100'],['cg','2302003200']]
+        self.sccs = pd.DataFrame(scc_tbl, columns=['device','scc'])
+
+    def write_pt(self, fn, df):
+        '''
+        Write the annual point inventory
+        '''
+        # Determine the unique restaurant locations for generating a facility ID
+        uniqrest = df[['region_cd','latitude','longitude','facility_name']].drop_duplicates()
+        uniqrest['facility_id'] = 'R'+uniqrest.index.astype(str).str.zfill(8)
+        df = df.merge(uniqrest, on=['region_cd','latitude','longitude','facility_name'], how='left')
+        print(f'IDed {len(df)} records')
+        df.rename(columns={'sic_cuisine': 'unit_id'}, inplace=True)
+        # Facility ID is a unique restaurant integer and the unit is the SIC cuisine
+        cols = ['region_cd','latitude','longitude','facility_name','facility_id','unit_id','scc',
+          'poll','calc_year']
+        df = df[cols+['ann_value',]].groupby(cols, as_index=False).sum()
+        # Filter out comment characters from restaurant names
+        df.facility_name = df.facility_name.str.replace('#','')
+        df.facility_name = df.facility_name.str.replace('!','')
+        for col, val in self.defaults.items():
+            df[col] = val
+        df['rel_point_id'] = df.facility_id
+        df['process_id'] = df.scc
+        year = df.calc_year.values[0]
+        for col in self.pt_cols:
+            if col not in list(df.columns):
+                df[col] = ''
+        with open(fn, 'w') as annual:
+            annual.write('#FORMAT=FF10_POINT\n#COUNTRY=US\n#YEAR=%s\n' %year)
+            df.to_csv(annual, index=False, columns=self.pt_cols, quoting=csv.QUOTE_NONNUMERIC)
+
+    def write_ar(self, fn, df):
+        '''
+        Write the annual area inventory
+        '''
+        cols = ['region_cd','scc','poll','calc_year']
+        df = df[cols+['ann_value',]].groupby(cols, as_index=False).sum()
+        for col, val in self.defaults.items():
+            df[col] = val
+        year = df.calc_year.values[0]
+        for col in self.ar_cols:
+            if col not in list(df.columns):
+                df[col] = ''
+        with open(fn, 'w') as annual:
+            annual.write('#FORMAT=FF10_NONPOINT\n#COUNTRY=US\n#YEAR=%s\n' %year)
+            df.to_csv(annual, index=False, columns=self.ar_cols, quoting=csv.QUOTE_NONNUMERIC)
+
+if __name__ == '__main__':
+    main()

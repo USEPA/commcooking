@@ -1,0 +1,343 @@
+cooking_device,food,poll_desc,poll,ef_orig,orig_units,ef,ef_units,ef_reference
+Conveyorized Char-broilers,Steak,Carbon Monoxide,CO,8.29,mg/kg,16.58,lbs./ton,Ref. 4; Table  2; Hamburger auto-char EFs
+Conveyorized Char-broilers,Steak,Volatile Organic Compounds,VOC,2.27,lb./1000 lb. ,4.55,lbs./ton,Ref. 5; Table XIII; VOC measured as ROG
+Conveyorized Char-broilers,Steak,Primary PM10,PM10-PRI,7.4,lb./1000 lb.,14.8,lbs./ton,Ref. 5; Table XIII
+Conveyorized Char-broilers,Steak,Primary PM2.5,PM25-PRI,7.3,lb./1000 lb.,14.6,lbs./ton,Ref. 5; Table XIII
+Conveyorized Char-broilers,Hamburger,Carbon Monoxide,CO,8.29,mg/kg,16.58,lbs./ton,Ref. 4; Table  2
+Conveyorized Char-broilers,Hamburger,Volatile Organic Compounds,VOC,2.27,lb./1000 lb.,4.55,lbs./ton,Ref. 5; Table XIII; VOC measured as ROG
+Conveyorized Char-broilers,Hamburger,Primary PM10,PM10-PRI,7.4,lb./1000 lb.,14.8,lbs./ton,Ref. 5; Table XIII
+Conveyorized Char-broilers,Hamburger,Primary PM2.5,PM25-PRI,7.3,lb./1000 lb.,14.6,lbs./ton,Ref. 5; Table XIII
+Conveyorized Char-broilers,Poultry,Carbon Monoxide,CO,4.84,mg/kg,9.68,lbs./ton,Ref. 4; Table  2; Chicken under-char EFs
+Conveyorized Char-broilers,Poultry,Volatile Organic Compounds,VOC,1.82,lb./1000 lb.,3.65,lbs./ton,Ref. 5; Table V; VOC measured as ROG
+Conveyorized Char-broilers,Poultry,Primary PM10,PM10-PRI,10.47,lb./1000 lb.,20.93,lbs./ton,Ref. 5; Table V
+Conveyorized Char-broilers,Poultry,Primary PM2.5,PM25-PRI,9.9,lb./1000 lb.,19.8,lbs./ton,Ref. 5; Table V
+Conveyorized Char-broilers,Pork,Carbon Monoxide,CO,4.84,mg/kg,9.68,lbs./ton,Ref. 4; Table  2; Chicken under-char EFs
+Conveyorized Char-broilers,Pork,Volatile Organic Compounds,VOC,1.82,lb./1000 lb.,3.65,lbs./ton,Ref. 5; Table V; VOC measured as ROG
+Conveyorized Char-broilers,Pork,Primary PM10,PM10-PRI,10.47,lb./1000 lb.,20.93,lbs./ton,Ref. 5; Table V
+Conveyorized Char-broilers,Pork,Primary PM2.5,PM25-PRI,9.9,lb./1000 lb.,19.8,lbs./ton,Ref. 5; Table V
+Conveyorized Char-broilers,Seafood,Volatile Organic Compounds,VOC,0.38,lb./1000 lb.,0.76,lbs./ton,Ref. 5; Table VI; VOC measured as ROG
+Conveyorized Char-broilers,Seafood,Primary PM10,PM10-PRI,3.27,lb./1000 lb.,6.53,lbs./ton,Ref. 5; Table VI
+Conveyorized Char-broilers,Seafood,Primary PM2.5,PM25-PRI,3.2,lb./1000 lb.,6.4,lbs./ton,Ref. 5; Table VI
+Underfired Char-broilers,Steak,Carbon Monoxide,CO,4.97,mg/kg,9.94,lbs./ton,Ref. 4; Table  2
+Underfired Char-broilers,Steak,Volatile Organic Compounds,VOC,0.86,lb./1000 lb.,1.71,lbs./ton,Ref. 5; Table XVII; VOC measured as ROG
+Underfired Char-broilers,Steak,Primary PM10,PM10-PRI,17.2,lb./1000 lb.,34.4,lbs./ton,Ref. 5; Table XVII
+Underfired Char-broilers,Steak,Primary PM2.5,PM25-PRI,16.8,lb./1000 lb.,33.6,lbs./ton,Ref. 5; Table XVII
+Underfired Char-broilers,Hamburger,Carbon Monoxide,CO,13.72,mg/kg,27.44,lbs./ton,Ref. 4; Table  2
+Underfired Char-broilers,Hamburger,Volatile Organic Compounds,VOC,3.94,lb./1000 lb.,7.89,lbs./ton,Ref. 5; Table IV; VOC measured as ROG
+Underfired Char-broilers,Hamburger,Primary PM10,PM10-PRI,32.67,lb./1000 lb.,65.33,lbs./ton,Ref. 5; Table IV
+Underfired Char-broilers,Hamburger,Primary PM2.5,PM25-PRI,31.9,lb./1000 lb.,63.8,lbs./ton,Ref. 5; Table IV
+Underfired Char-broilers,Poultry,Carbon Monoxide,CO,4.84,mg/kg,9.68,lbs./ton,Ref. 4; Table  2
+Underfired Char-broilers,Poultry,Volatile Organic Compounds,VOC,1.82,lb./1000 lb.,3.65,lbs./ton,Ref. 5; Table V; VOC measured as ROG
+Underfired Char-broilers,Poultry,Primary PM10,PM10-PRI,10.47,lb./1000 lb.,20.93,lbs./ton,Ref. 5; Table V
+Underfired Char-broilers,Poultry,Primary PM2.5,PM25-PRI,9.9,lb./1000 lb.,19.8,lbs./ton,Ref. 5; Table V
+Underfired Char-broilers,Pork,Carbon Monoxide,CO,4.84,mg/kg,9.68,lbs./ton,Ref. 4; Table  2; Chicken under-char EFs
+Underfired Char-broilers,Pork,Volatile Organic Compounds,VOC,1.82,lb./1000 lb.,3.65,lbs./ton,Ref. 5; Table V; VOC measured as ROG
+Underfired Char-broilers,Pork,Primary PM10,PM10-PRI,10.47,lb./1000 lb.,20.93,lbs./ton,Ref. 5; Table V
+Underfired Char-broilers,Pork,Primary PM2.5,PM25-PRI,9.9,lb./1000 lb.,19.8,lbs./ton,Ref. 5; Table V
+Underfired Char-broilers,Seafood,Volatile Organic Compounds,VOC,0.38,lb./1000 lb.,0.76,lbs./ton,Ref. 5; Table VI; VOC measured as ROG
+Underfired Char-broilers,Seafood,Primary PM10,PM10-PRI,3.27,lb./1000 lb.,6.53,lbs./ton,Ref. 5; Table VI
+Underfired Char-broilers,Seafood,Primary PM2.5,PM25-PRI,3.2,lb./1000 lb.,6.4,lbs./ton,Ref. 5; Table VI
+Underfired Char-broilers,Other,Carbon Monoxide,CO,4.97,mg/kg,9.94,lbs./ton,Ref. 4; Table  2; Steak under-char EFs
+Underfired Char-broilers,Other,Volatile Organic Compounds,VOC,0.86,lb./1000 lb.,1.71,lbs./ton,Ref. 5; Table XVII; VOC measured as ROG
+Underfired Char-broilers,Other,Primary PM10,PM10-PRI,17.2,lb./1000 lb.,34.4,lbs./ton,Ref. 5; Table XVII
+Underfired Char-broilers,Other,Primary PM2.5,PM25-PRI,16.8,lb./1000 lb.,33.6,lbs./ton,Ref. 5; Table XVII
+Deep-Fat Fryers,Poultry,Volatile Organic Compounds,VOC,0.12,lb./1000 lb.,0.25,lbs./ton,Ref. 5; Table VIII; VOC measured as ROG
+Deep-Fat Fryers,Pork,Volatile Organic Compounds,VOC,0.12,lb./1000 lb.,0.25,lbs./ton,Ref. 5; Table VIII; VOC measured as ROG
+Deep-Fat Fryers,Seafood,Volatile Organic Compounds,VOC,0.14,lb./1000 lb.,0.28,lbs./ton,Ref. 5; Table IX; VOC measured as ROG
+Deep-Fat Fryers,Potatoes,Volatile Organic Compounds,VOC,0.21,lb./1000 lb.,0.42,lbs./ton,Ref. 5; Table VII; VOC measured as ROG
+Flat Griddles,Steak,Carbon Monoxide,CO,0.38,mg/kg,0.76,lbs./ton,Ref. 4; Table  2; Hamburger flat griddle EFs
+Flat Griddles,Steak,Volatile Organic Compounds,VOC,0.07,lb./1000 lb.,0.14,lbs./ton,Ref. 5; Table X; VOC measured as ROG
+Flat Griddles,Steak,Primary PM10,PM10-PRI,5,lb./1000 lb.,10,lbs./ton,Ref. 5; Table X
+Flat Griddles,Steak,Primary PM2.5,PM25-PRI,3.80,lb./1000 lb.,7.6,lbs./ton,Ref. 5; Table X
+Flat Griddles,Hamburger,Carbon Monoxide,CO,0.38,mg/kg,0.76,lbs./ton,Ref. 4; Table  2
+Flat Griddles,Hamburger,Volatile Organic Compounds,VOC,0.07,lb./1000 lb.,0.14,lbs./ton,Ref. 5; Table X; VOC measured as ROG
+Flat Griddles,Hamburger,Primary PM10,PM10-PRI,5,lb./1000 lb.,10,lbs./ton,Ref. 5; Table X
+Flat Griddles,Hamburger,Primary PM2.5,PM25-PRI,3.80,lb./1000 lb.,7.6,lbs./ton,Ref. 5; Table X
+Flat Griddles,Poultry,Carbon Monoxide,CO,0.45,mg/kg,0.9,lbs./ton,Ref. 4; Table  2
+Flat Griddles,Poultry,Volatile Organic Compounds,VOC,0.4,lb./1000 lb.,0.79,lbs./ton,Ref. 5; Table XI; VOC measured as ROG
+Flat Griddles,Pork,Carbon Monoxide,CO,0.45,mg/kg,0.9,lbs./ton,Ref. 4; Table  2; Chicken griddle EFs
+Flat Griddles,Pork,Volatile Organic Compounds,VOC,0.4,lb./1000 lb.,0.79,lbs./ton,Ref. 5; Table XI; VOC measured as ROG
+Flat Griddles,Seafood,Volatile Organic Compounds,VOC,0.11,lb./1000 lb.,0.21,lbs./ton,Ref. 5; Table XII; VOC measured as ROG
+Flat Griddles,Other,Carbon Monoxide,CO,0.38,mg/kg,0.76,lbs./ton,Ref. 4; Table  2; Hamburger flat griddle EFs
+Flat Griddles,Other,Volatile Organic Compounds,VOC,0.07,lb./1000 lb.,0.14,lbs./ton,Ref. 5; Table X; VOC measured as ROG
+Flat Griddles,Other,Primary PM10,PM10-PRI,5,lb./1000 lb.,10,lbs./ton,Ref. 5; Table X
+Flat Griddles,Other,Primary PM2.5,PM25-PRI,3.80,lb./1000 lb.,7.6,lbs./ton,Ref. 5; Table X
+Clamshell Griddles,Steak,Volatile Organic Compounds,VOC,0.01,lb./1000 lb.,0.03,lbs./ton,Ref. 5; Table XVI; VOC measured as ROG
+Clamshell Griddles,Steak,Primary PM10,PM10-PRI,0.85,lb./1000 lb.,1.7,lbs./ton,Ref. 5; Table XVI
+Clamshell Griddles,Steak,Primary PM2.5,PM25-PRI,0.72,lb./1000 lb.,1.44,lbs./ton,Ref. 5; Table XVI
+Clamshell Griddles,Hamburger,Volatile Organic Compounds,VOC,0.01,lb./1000 lb.,0.03,lbs./ton,Ref. 5; Table XVI; VOC measured as ROG
+Clamshell Griddles,Hamburger,Primary PM10,PM10-PRI,0.85,lb./1000 lb.,1.7,lbs./ton,Ref. 5; Table XVI
+Clamshell Griddles,Hamburger,Primary PM2.5,PM25-PRI,0.72,lb./1000 lb.,1.44,lbs./ton,Ref. 5; Table XVI
+Clamshell Griddles,Poultry,Volatile Organic Compounds,VOC,0.08,lb./1000 lb.,0.15,lbs./ton,Calculated by dividing the Flat Griddle Poultry VOC EF by the ratio of the Flat Griddle to Clamshell Griddle Hamburger VOC EFs
+Clamshell Griddles,Pork,Volatile Organic Compounds,VOC,0.08,lb./1000 lb.,0.15,lbs./ton,Calculated by dividing the Flat Griddle Poultry VOC EF by the ratio of the Flat Griddle to Clamshell Griddle Hamburger VOC EFs
+Clamshell Griddles,Seafood,Volatile Organic Compounds,VOC,0.02,lb./1000 lb.,0.04,lbs./ton,Calculated by dividing the Flat Griddle Seafood VOC EF by the ratio of the Flat Griddle to Clamshell Griddle Hamburger VOC EFs
+Conveyorized Char-broilers,Steak,Acenaphthene,83329,0.28,mg/kg,0.00056,lbs./ton,Ref. 4; Table 2; Hamburger auto-char EFs
+Conveyorized Char-broilers,Steak,Acenaphthylene,208968,4.89,mg/kg,0.00978,lbs./ton,Ref. 4; Table 2; Hamburger auto-char EFs
+Conveyorized Char-broilers,Steak,Anthracene,120127,0.91,mg/kg,0.00182,lbs./ton,Ref. 4; Table 2; Hamburger auto-char EFs
+Conveyorized Char-broilers,Steak,Benz[a]anthracene,56553,0.22,mg/kg,0.00044,lbs./ton,Ref. 4; Table 2; Hamburger auto-char EFs
+Conveyorized Char-broilers,Steak,Benzo[a]Pyrene,50328,0.17,mg/kg,0.00034,lbs./ton,Ref. 4; Table 2; Hamburger auto-char EFs
+Conveyorized Char-broilers,Steak,"Benzo[g,h,i]Perylene",191242,0.16,mg/kg,0.00032,lbs./ton,Ref. 4; Table 2; Hamburger auto-char EFs
+Conveyorized Char-broilers,Steak,Biphenyl,92524,2.43,mg/kg,0.00486,lbs./ton,Ref. 4; Table 2; Hamburger auto-char EFs
+Conveyorized Char-broilers,Steak,Fluoranthene,206440,0.88,mg/kg,0.00176,lbs./ton,Ref. 4; Table 2; Hamburger auto-char EFs
+Conveyorized Char-broilers,Steak,Fluorene,86737,1.09,mg/kg,0.00218,lbs./ton,Ref. 4; Table 2; Hamburger auto-char EFs
+Conveyorized Char-broilers,Steak,"Indeno[1,2,3-c,d]Pyrene",193395,0.1,mg/kg,0.0002,lbs./ton,Ref. 4; Table 2; Hamburger auto-char EFs
+Conveyorized Char-broilers,Steak,Naphthalene,91203,23.04,mg/kg,0.04608,lbs./ton,Ref. 4; Table 2; Hamburger auto-char EFs
+Conveyorized Char-broilers,Steak,Phenanthrene,85018,4.88,mg/kg,0.00976,lbs./ton,Ref. 4; Table 2; Hamburger auto-char EFs
+Conveyorized Char-broilers,Steak,Pyrene,129000,1.15,mg/kg,0.0023,lbs./ton,Ref. 4; Table 2; Hamburger auto-char EFs
+Conveyorized Char-broilers,Steak,"PAH, Total",130498292,49.05,mg/kg,0.0981,lbs./ton,Ref. 4; Table 2; Hamburger auto-char EFs
+Conveyorized Char-broilers,Hamburger,Acenaphthene,83329,0.28,mg/kg,0.00056,lbs./ton,Ref. 4; Table 2
+Conveyorized Char-broilers,Hamburger,Acenaphthylene,208968,4.89,mg/kg,0.00978,lbs./ton,Ref. 4; Table 2
+Conveyorized Char-broilers,Hamburger,Anthracene,120127,0.91,mg/kg,0.00182,lbs./ton,Ref. 4; Table 2
+Conveyorized Char-broilers,Hamburger,Benz[a]anthracene,56553,0.22,mg/kg,0.00044,lbs./ton,Ref. 4; Table 2
+Conveyorized Char-broilers,Hamburger,Benzo[a]Pyrene,50328,0.17,mg/kg,0.00034,lbs./ton,Ref. 4; Table 2
+Conveyorized Char-broilers,Hamburger,"Benzo[g,h,i]Perylene",191242,0.16,mg/kg,0.00032,lbs./ton,Ref. 4; Table 2
+Conveyorized Char-broilers,Hamburger,Biphenyl,92524,2.43,mg/kg,0.00486,lbs./ton,Ref. 4; Table 2
+Conveyorized Char-broilers,Hamburger,Fluoranthene,206440,0.88,mg/kg,0.00176,lbs./ton,Ref. 4; Table 2
+Conveyorized Char-broilers,Hamburger,Fluorene,86737,1.09,mg/kg,0.00218,lbs./ton,Ref. 4; Table 2
+Conveyorized Char-broilers,Hamburger,"Indeno[1,2,3-c,d]Pyrene",193395,0.1,mg/kg,0.0002,lbs./ton,Ref. 4; Table 2
+Conveyorized Char-broilers,Hamburger,Naphthalene,91203,23.04,mg/kg,0.04608,lbs./ton,Ref. 4; Table 2
+Conveyorized Char-broilers,Hamburger,Phenanthrene,85018,4.88,mg/kg,0.00976,lbs./ton,Ref. 4; Table 2
+Conveyorized Char-broilers,Hamburger,Pyrene,129000,1.15,mg/kg,0.0023,lbs./ton,Ref. 4; Table 2
+Conveyorized Char-broilers,Hamburger,"PAH, Total",130498292,49.05,mg/kg,0.0981,lbs./ton,Ref. 4; Table 2
+Conveyorized Char-broilers,Poultry,4-nitrophenol,100027,0.0066,g/kg,0.0132,lbs./ton,"Ref. 6; Table 3-3; Average of marinated chicken test conditions, estimated emissions of meat only"
+Conveyorized Char-broilers,Poultry,Acenaphthene,83329,0.1,mg/kg,0.0002,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Conveyorized Char-broilers,Poultry,Acenaphthylene,208968,2.06,mg/kg,0.00412,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Conveyorized Char-broilers,Poultry,Acetaldehyde,75070,0.282,g/kg,0.564,lbs./ton,"Ref. 6; Table 3-4; Average of marinated chicken test conditions, estimated emissions of meat only"
+Conveyorized Char-broilers,Poultry,Acetophenone,98862,0.002425,g/kg,0.00485,lbs./ton,"Ref. 6; Table 3-3; Average of marinated chicken test conditions, estimated emissions of meat only"
+Conveyorized Char-broilers,Poultry,Anthracene,120127,0.88,mg/kg,0.00176,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Conveyorized Char-broilers,Poultry,Benz[a]anthracene,56553,0.34,mg/kg,0.00068,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Conveyorized Char-broilers,Poultry,Benzene,71432,0.504,g/kg,1.008,lbs./ton,"Ref. 6; Table 3-1; Average of marinated chicken test conditions, estimated emissions of meat only"
+Conveyorized Char-broilers,Poultry,Benzo[a]Pyrene,50328,0.1,mg/kg,0.0002,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Conveyorized Char-broilers,Poultry,"Benzo[g,h,i]Perylene",191242,0.09,mg/kg,0.00018,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Conveyorized Char-broilers,Poultry,Biphenyl,92524,0.91,mg/kg,0.00182,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Conveyorized Char-broilers,Poultry,Cresol/Cresylic Acid (Mixed Isomers),1319773,0.00511,g/kg,0.01022,lbs./ton,"Ref. 6; Table 3-3; Sum of cresol EFs for marinated chicken test conditions, estimated emissions of meat only"
+Conveyorized Char-broilers,Poultry,Dibutyl Phthalate,84742,0.00128,g/kg,0.00256,lbs./ton,"Ref. 6; Table 3-3; Average of marinated chicken test conditions, estimated emissions of meat only"
+Conveyorized Char-broilers,Poultry,Ethyl Benzene,100414,0.04,g/kg,0.08,lbs./ton,"Ref. 6; Table 3-1; Average of marinated chicken test conditions, estimated emissions of meat only"
+Conveyorized Char-broilers,Poultry,Ethylene Dichloride,107062,0.014,g/kg,0.028,lbs./ton,"REF. 6; Table 3-1; Average of marinated chicken test conditions,  estimated emissions of meat only"
+Conveyorized Char-broilers,Poultry,Fluoranthene,206440,1.28,mg/kg,0.00256,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Conveyorized Char-broilers,Poultry,Fluorene,86737,0.72,mg/kg,0.00144,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Conveyorized Char-broilers,Poultry,Formaldehyde,50000,0.393,g/kg,0.786,lbs./ton,"Ref. 6; Table 3-4; Average of marinated chicken test conditions, estimated emissions of meat only"
+Conveyorized Char-broilers,Poultry,"Indeno[1,2,3-c,d]Pyrene",193395,0.06,mg/kg,0.00012,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs 
+Conveyorized Char-broilers,Poultry,Naphthalene,91203,8.75,mg/kg,0.0175,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Conveyorized Char-broilers,Poultry,Phenanthrene,85018,3.46,mg/kg,0.00692,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Conveyorized Char-broilers,Poultry,Phenol,108952,0.02255,g/kg,0.0451,lbs./ton,"Ref. 6; Table 3-3; Average of marinated chicken test conditions, estimated emissions of meat only"
+Conveyorized Char-broilers,Poultry,Propionaldehyde,123386,0.0755,g/kg,0.151,lbs./ton,"Ref. 6; Table 3-4; Average of marinated chicken test conditions, estimated emissions of meat only"
+Conveyorized Char-broilers,Poultry,Pyrene,129000,1.8,mg/kg,0.0036,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Conveyorized Char-broilers,Poultry,Styrene,100425,0.1895,g/kg,0.379,lbs./ton,"Ref. 6; Table 3-1; Average of marinated chicken test conditions, estimated emissions of meat only"
+Conveyorized Char-broilers,Poultry,Toluene,108883,0.1995,g/kg,0.399,lbs./ton,"Ref. 6; Table 3-1; Average of marinated chicken test conditions, estimated emissions of meat only"
+Conveyorized Char-broilers,Poultry,"PAH, Total",130498292,28.35,mg/kg,0.0567,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Conveyorized Char-broilers,Poultry,Xylenes (Mixed Isomers),1330207,0.059,g/kg,0.118,lbs./ton,"Ref. 6; Table 3-1; Sum of xylene EFs for marinated chicken test conditions, estimated emissions of meat only"
+Conveyorized Char-broilers,Pork,4-nitrophenol,100027,0.0066,g/kg,0.0132,lbs./ton,"Ref. 6; Table 3-3; Average of marinated chicken test conditions, estimated emissions of meat only"
+Conveyorized Char-broilers,Pork,Acenaphthene,83329,0.1,mg/kg,0.0002,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Conveyorized Char-broilers,Pork,Acenaphthylene,208968,2.06,mg/kg,0.00412,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Conveyorized Char-broilers,Pork,Acetaldehyde,75070,0.282,g/kg,0.564,lbs./ton,"Ref. 6; Table 3-4; Average of marinated chicken test conditions, estimated emissions of meat only"
+Conveyorized Char-broilers,Pork,Acetophenone,98862,0.002425,g/kg,0.00485,lbs./ton,"Ref. 6; Table 3-3; Average of marinated chicken test conditions, estimated emissions of meat only"
+Conveyorized Char-broilers,Pork,Anthracene,120127,0.88,mg/kg,0.00176,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Conveyorized Char-broilers,Pork,Benz[a]anthracene,56553,0.34,mg/kg,0.00068,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Conveyorized Char-broilers,Pork,Benzene,71432,0.504,g/kg,1.008,lbs./ton,"Ref. 6; Table 3-1; Average of marinated chicken test conditions, estimated emissions of meat only"
+Conveyorized Char-broilers,Pork,Benzo[a]Pyrene,50328,0.1,mg/kg,0.0002,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Conveyorized Char-broilers,Pork,"Benzo[g,h,i]Perylene",191242,0.09,mg/kg,0.00018,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Conveyorized Char-broilers,Pork,Biphenyl,92524,0.91,mg/kg,0.00182,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Conveyorized Char-broilers,Pork,Cresol/Cresylic Acid (Mixed Isomers),1319773,0.00511,g/kg,0.01022,lbs./ton,"Ref. 6; Table 3-3; Sum of cresol EFs for marinated chicken test conditions, estimated emissions of meat only"
+Conveyorized Char-broilers,Pork,Dibutyl Phthalate,84742,0.00128,g/kg,0.00256,lbs./ton,"Ref. 6; Table 3-3; Average of marinated chicken test conditions, estimated emissions of meat only"
+Conveyorized Char-broilers,Pork,Ethyl Benzene,100414,0.04,g/kg,0.08,lbs./ton,"Ref. 6; Table 3-1; Average of marinated chicken test conditions, estimated emissions of meat only"
+Conveyorized Char-broilers,Pork,Ethylene Dichloride,107062,0.014,g/kg,0.028,lbs./ton,"Ref. 6; Table 3-1; Average of marinated chicken test conditions, estimated emissions of meat only"
+Conveyorized Char-broilers,Pork,Fluoranthene,206440,1.28,mg/kg,0.00256,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Conveyorized Char-broilers,Pork,Fluorene,86737,0.72,mg/kg,0.00144,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Conveyorized Char-broilers,Pork,Formaldehyde,50000,0.393,g/kg,0.786,lbs./ton,"Ref. 6; Table 3-4; Average of marinated chicken test conditions, estimated emissions of meat only"
+Conveyorized Char-broilers,Pork,"Indeno[1,2,3-c,d]Pyrene",193395,0.06,mg/kg,0.00012,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Conveyorized Char-broilers,Pork,Naphthalene,91203,8.75,mg/kg,0.0175,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Conveyorized Char-broilers,Pork,Phenanthrene,85018,3.46,mg/kg,0.00692,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Conveyorized Char-broilers,Pork,Phenol,108952,0.02255,g/kg,0.0451,lbs./ton,"Ref. 6; Table 3-3; Average of marinated chicken test conditions, estimated emissions of meat only"
+Conveyorized Char-broilers,Pork,Propionaldehyde,123386,0.0755,g/kg,0.151,lbs./ton,"Ref. 6; Table 3-4; Average of marinated chicken test conditions, estimated emissions of meat only"
+Conveyorized Char-broilers,Pork,Pyrene,129000,1.8,mg/kg,0.0036,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Conveyorized Char-broilers,Pork,Styrene,100425,0.1895,g/kg,0.379,lbs./ton,"Ref. 6; Table 3-1; Average of marinated chicken test conditions, estimated emissions of meat only"
+Conveyorized Char-broilers,Pork,Toluene,108883,0.1995,g/kg,0.399,lbs./ton,"Ref. 6; Table 3-1; Average of marinated chicken test conditions, estimated emissions of meat only"
+Conveyorized Char-broilers,Pork,"PAH, Total",130498292,28.35,mg/kg,0.0567,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Conveyorized Char-broilers,Pork,Xylenes (Mixed Isomers),1330207,0.059,g/kg,0.118,lbs./ton,"Ref. 6; Table 3-1; Sum of xylene EFs for marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Steak,Acenaphthene,83329,0.15,mg/kg,0.0003,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Steak,Acenaphthylene,208968,4.28,mg/kg,0.00856,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Steak,Acetaldehyde,75070,0.251,g/kg,0.502,lbs./ton,"Ref. 6; Table 3-4; Average of beef test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Steak,Acetophenone,98862,0.001829,g/kg,0.003658,lbs./ton,"Ref. 6; Table 3-3; Average of beef test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Steak,Anthracene,120127,1.03,mg/kg,0.00206,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Steak,Benzene,71432,0.3915,g/kg,0.783,lbs./ton,"Ref. 6; Table 3-1; Average of beef test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Steak,Benz[a]anthracene,56553,0.11,mg/kg,0.00022,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Steak,Benzo[a]Pyrene,50328,0.07,mg/kg,0.00014,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Steak,"Benzo[g,h,i]Perylene",191242,0.09,mg/kg,0.00018,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Steak,Biphenyl,92524,1.54,mg/kg,0.00308,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Steak,Cresol/Cresylic Acid (Mixed Isomers),1319773,0.0026825,g/kg,0.005365,lbs./ton,"Ref. 6; Table 3-3; Sum of cresol EFs for beef test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Steak,Dibutyl Phthalate,84742,0.0010255,g/kg,0.002051,lbs./ton,"Ref. 6; Table 3-3; Average of beef test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Steak,Ethyl Benzene,100414,0.026,g/kg,0.052,lbs./ton,"Ref. 6; Table 3-1; Average of beef test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Steak,Ethylene Dichloride,107062,0.0165,g/kg,0.033,lbs./ton,"Ref. 6; Table 3-1; Average of beef test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Steak,Fluoranthene,206440,1.28,mg/kg,0.00256,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Steak,Fluorene,86737,1.17,mg/kg,0.00234,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Steak,Formaldehyde,50000,0.337,g/kg,0.674,lbs./ton,"Ref. 6; Table 3-4; Average of beef test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Steak,"Indeno[1,2,3-c,d]Pyrene",193395,0.05,mg/kg,0.0001,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Steak,Naphthalene,91203,14.8,mg/kg,0.0296,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Steak,Phenanthrene,85018,5.31,mg/kg,0.01062,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Steak,Phenol,108952,0.01605,g/kg,0.0321,lbs./ton,"Ref. 6; Table 3-3; Average of beef test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Steak,Propionaldehyde,123386,0.0675,g/kg,0.135,lbs./ton,"Ref. 6; Table 3-4; Average of beef test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Steak,Pyrene,129000,1.56,mg/kg,0.00312,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Steak,Styrene,100425,0.151,g/kg,0.302,lbs./ton,"Ref. 6; Table 3-1; Average of beef test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Steak,Toluene,108883,0.1535,g/kg,0.307,lbs./ton,"Ref. 6; Table 3-1; Average of beef test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Steak,"PAH, Total",130498292,39.12,mg/kg,0.07824,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Steak,Xylenes (Mixed Isomers),1330207,0.045,g/kg,0.09,lbs./ton,"Ref. 6; Table 3-3; Sum of xylene EFs for beef test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Hamburger,Acenaphthene,83329,0.15,mg/kg,0.0003,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Hamburger,Acenaphthylene,208968,4.24,mg/kg,0.00848,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Hamburger,Anthracene,120127,0.94,mg/kg,0.00188,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Hamburger,Benz[a]anthracene,56553,0.22,mg/kg,0.00044,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Hamburger,Benzo[a]Pyrene,50328,0.15,mg/kg,0.0003,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Hamburger,"Benzo[g,h,i]Perylene",191242,0.17,mg/kg,0.00034,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Hamburger,Biphenyl,92524,1.72,mg/kg,0.00344,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Hamburger,Fluoranthene,206440,1.4,mg/kg,0.0028,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Hamburger,Fluorene,86737,1.26,mg/kg,0.00252,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Hamburger,"Indeno[1,2,3-c,d]Pyrene",193395,0.09,mg/kg,0.00018,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Hamburger,Naphthalene,91203,19.11,mg/kg,0.03822,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Hamburger,Phenanthrene,85018,4.88,mg/kg,0.00976,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Hamburger,"PAH, Total",130498292,45.6,mg/kg,0.0912,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Hamburger,Pyrene,129000,1.9,mg/kg,0.0038,lbs./ton,Ref. 4; Table 2
+Underfired Char-broilers,Poultry,4-nitrophenol,100027,0.0066,g/kg,0.0132,lbs./ton,"Ref. 6; Table 3-3; Average of marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Poultry,Acenaphthene,83329,0.1,mg/kg,0.0002,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Poultry,Acenaphthylene,208968,2.06,mg/kg,0.00412,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Poultry,Acetaldehyde,75070,0.282,g/kg,0.564,lbs./ton,"Ref. 6; Table 3-4; Average of marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Poultry,Acetophenone,98862,0.002425,g/kg,0.00485,lbs./ton,"Ref. 6; Table 3-3; Average of marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Poultry,Anthracene,120127,0.88,mg/kg,0.00176,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Poultry,Benz[a]anthracene,56553,0.34,mg/kg,0.00068,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Poultry,Benzene,71432,0.504,g/kg,1.008,lbs./ton,"Ref. 6; Table 3-1; Average of marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Poultry,Benzo[a]Pyrene,50328,0.1,mg/kg,0.0002,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Poultry,"Benzo[g,h,i]Perylene",191242,0.09,mg/kg,0.00018,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Poultry,Biphenyl,92524,0.91,mg/kg,0.00182,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Poultry,Cresol/Cresylic Acid (Mixed Isomers),1319773,0.00511,g/kg,0.01022,lbs./ton,"Ref. 6; Table 3-3; Sum of cresol EFs for marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Poultry,Dibutyl Phthalate,84742,0.00128,g/kg,0.00256,lbs./ton,"Ref. 6; Table 3-3; Average of marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Poultry,Ethyl Benzene,100414,0.04,g/kg,0.08,lbs./ton,"Ref. 6; Table 3-1; Average of marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Poultry,Ethylene Dichloride,107062,0.014,g/kg,0.028,lbs./ton,"Ref. 6; Table 3-1; Average of marinated chicken test conditions,  estimated emissions of meat only"
+Underfired Char-broilers,Poultry,Fluoranthene,206440,1.28,mg/kg,0.00256,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Poultry,Fluorene,86737,0.72,mg/kg,0.00144,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Poultry,Formaldehyde,50000,0.393,g/kg,0.786,lbs./ton,"Ref. 6; Table 3-4; Average of marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Poultry,"Indeno[1,2,3-c,d]Pyrene",193395,0.06,mg/kg,0.00012,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Poultry,Naphthalene,91203,8.75,mg/kg,0.0175,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Poultry,Phenanthrene,85018,3.46,mg/kg,0.00692,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Poultry,Phenol,108952,0.02255,g/kg,0.0451,lbs./ton,"Ref. 6; Table 3-3; Average of marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Poultry,Propionaldehyde,123386,0.0755,g/kg,0.151,lbs./ton,"Ref. 6; Table 3-4; Average of marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Poultry,Pyrene,129000,1.8,mg/kg,0.0036,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Poultry,Styrene,100425,0.1895,g/kg,0.379,lbs./ton,"Ref. 6; Table 3-1; Average of marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Poultry,Toluene,108883,0.1995,g/kg,0.399,lbs./ton,"Ref. 6; Table 3-1; Average of marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Poultry,"PAH, Total",130498292,28.35,mg/kg,0.0567,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Poultry,Xylenes (Mixed Isomers),1330207,0.059,g/kg,0.118,lbs./ton,"Ref. 6; Table 3-1; Sum of xylene EFs for marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Pork,4-nitrophenol,100027,0.0066,g/kg,0.0132,lbs./ton,"Ref. 6; Table 3-3; Average of marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Pork,Acenaphthene,83329,0.1,mg/kg,0.0002,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Pork,Acenaphthylene,208968,2.06,mg/kg,0.00412,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Pork,Acetaldehyde,75070,0.282,g/kg,0.564,lbs./ton,"Ref. 6; Table 3-4; Average of marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Pork,Acetophenone,98862,0.002425,g/kg,0.00485,lbs./ton,"Ref. 6; Table 3-3; Average of marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Pork,Anthracene,120127,0.88,mg/kg,0.00176,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Pork,Benz[a]anthracene,56553,0.34,mg/kg,0.00068,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Pork,Benzene,71432,0.504,g/kg,1.008,lbs./ton,"Ref. 6; Table 3-1; Average of marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Pork,Benzo[a]Pyrene,50328,0.1,mg/kg,0.0002,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Pork,"Benzo[g,h,i]Perylene",191242,0.09,mg/kg,0.00018,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Pork,Biphenyl,92524,0.91,mg/kg,0.00182,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Pork,Cresol/Cresylic Acid (Mixed Isomers),1319773,0.00511,g/kg,0.01022,lbs./ton,"Ref. 6; Table 3-3; Sum of cresol EFs for marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Pork,Dibutyl Phthalate,84742,0.00128,g/kg,0.00256,lbs./ton,"Ref. 6; Table 3-3; Average of marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Pork,Ethyl Benzene,100414,0.04,g/kg,0.08,lbs./ton,"Ref. 6; Table 3-1; Average of marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Pork,Ethylene Dichloride,107062,0.014,g/kg,0.028,lbs./ton,"Ref. 6; Table 3-1; Average of marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Pork,Fluoranthene,206440,1.28,mg/kg,0.00256,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Pork,Fluorene,86737,0.72,mg/kg,0.00144,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Pork,Formaldehyde,50000,0.393,g/kg,0.786,lbs./ton,"Ref. 6; Table 3-4; Average of marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Pork,"Indeno[1,2,3-c,d]Pyrene",193395,0.06,mg/kg,0.00012,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Pork,Naphthalene,91203,8.75,mg/kg,0.0175,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Pork,Phenanthrene,85018,3.46,mg/kg,0.00692,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Pork,Phenol,108952,0.02255,g/kg,0.0451,lbs./ton,"Ref. 6; Table 3-3; Average of marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Pork,Propionaldehyde,123386,0.0755,g/kg,0.151,lbs./ton,"Ref. 6; Table 3-4; Average of marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Pork,Pyrene,129000,1.8,mg/kg,0.0036,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Pork,Styrene,100425,0.1895,g/kg,0.379,lbs./ton,"Ref. 6; Table 3-1; Average of marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Pork,Toluene,108883,0.1995,g/kg,0.399,lbs./ton,"Ref. 6; Table 3-1; Average of marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Pork,"PAH, Total",130498292,28.35,mg/kg,0.0567,lbs./ton,Ref. 4; Table 2; Chicken under-char EFs
+Underfired Char-broilers,Pork,Xylenes (Mixed Isomers),1330207,0.059,g/kg,0.118,lbs./ton,"Ref. 6; Table 3-1; Sum of xylene EFs for marinated chicken test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Other,Acenaphthene,83329,0.15,mg/kg,0.0003,lbs./ton,Ref. 4; Table 2; Steak under-char EFs
+Underfired Char-broilers,Other,Acenaphthylene,208968,4.28,mg/kg,0.00856,lbs./ton,Ref. 4; Table 2; Steak under-char EFs
+Underfired Char-broilers,Other,Acetaldehyde,75070,0.251,g/kg,0.502,lbs./ton,"Ref. 6; Table 3-4; Average of beef test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Other,Acetophenone,98862,0.001829,g/kg,0.003658,lbs./ton,"Ref. 6; Table 3-3; Average of beef test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Other,Anthracene,120127,1.03,mg/kg,0.00206,lbs./ton,Ref. 4; Table 2; Steak under-char EFs
+Underfired Char-broilers,Other,Benzene,71432,0.3915,g/kg,0.783,lbs./ton,"Ref. 6; Table 3-1; Average of beef test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Other,Benz[a]anthracene,56553,0.11,mg/kg,0.00022,lbs./ton,Ref. 4; Table 2; Steak under-char EFs
+Underfired Char-broilers,Other,Benzo[a]Pyrene,50328,0.07,mg/kg,0.00014,lbs./ton,Ref. 4; Table 2; Steak under-char EFs
+Underfired Char-broilers,Other,"Benzo[g,h,i]Perylene",191242,0.09,mg/kg,0.00018,lbs./ton,Ref. 4; Table 2; Steak under-char EFs
+Underfired Char-broilers,Other,Biphenyl,92524,1.54,mg/kg,0.00308,lbs./ton,Ref. 4; Table 2; Steak under-char EFs
+Underfired Char-broilers,Other,Cresol/Cresylic Acid (Mixed Isomers),1319773,0.0026825,g/kg,0.005365,lbs./ton,"Ref. 6; Table 3-3; Sum of cresol EFs for beef test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Other,Dibutyl Phthalate,84742,0.0010255,g/kg,0.002051,lbs./ton,"Ref. 6; Table 3-3; Average of beef test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Other,Ethyl Benzene,100414,0.026,g/kg,0.052,lbs./ton,"Ref. 6; Table 3-1; Average of beef test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Other,Ethylene Dichloride,107062,0.0165,g/kg,0.033,lbs./ton,"Ref. 6; Table 3-1; Average of beef test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Other,Fluoranthene,206440,1.28,mg/kg,0.00256,lbs./ton,Ref. 4; Table 2; Steak under-char EFs
+Underfired Char-broilers,Other,Fluorene,86737,1.17,mg/kg,0.00234,lbs./ton,Ref. 4; Table 2; Steak under-char EFs
+Underfired Char-broilers,Other,Formaldehyde,50000,0.337,g/kg,0.674,lbs./ton,"Ref. 6; Table 3-4; Average of beef test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Other,"Indeno[1,2,3-c,d]Pyrene",193395,0.05,mg/kg,0.0001,lbs./ton,Ref. 4; Table 2; Steak under-char EFs
+Underfired Char-broilers,Other,Naphthalene,91203,14.8,mg/kg,0.0296,lbs./ton,Ref. 4; Table 2; Steak under-char EFs
+Underfired Char-broilers,Other,Phenanthrene,85018,5.31,mg/kg,0.01062,lbs./ton,Ref. 4; Table 2; Steak under-char EFs
+Underfired Char-broilers,Other,Phenol,108952,0.01605,g/kg,0.0321,lbs./ton,"Ref. 6; Table 3-3; Average of beef test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Other,Propionaldehyde,123386,0.0675,g/kg,0.135,lbs./ton,"Ref. 6; Table 3-4; Average of beef test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Other,Pyrene,129000,1.56,mg/kg,0.00312,lbs./ton,Ref. 4; Table 2; Steak under-char EFs
+Underfired Char-broilers,Other,Styrene,100425,0.151,g/kg,0.302,lbs./ton,"Ref. 6; Table 3-1; Average of beef test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Other,Toluene,108883,0.1535,g/kg,0.307,lbs./ton,"Ref. 6; Table 3-1; Average of beef test conditions, estimated emissions of meat only"
+Underfired Char-broilers,Other,"PAH, Total",130498292,39.12,mg/kg,0.07824,lbs./ton,Ref. 4; Table 2; Steak under-char EFs
+Underfired Char-broilers,Other,Xylenes (Mixed Isomers),1330207,0.045,g/kg,0.09,lbs./ton,"Ref. 6; Table 3-3; Sum of xylene EFs for beef test conditions, estimated emissions of meat only"
+Flat Griddles,Steak,Acenaphthene,83329,0.02,mg/kg,0.00004,lbs./ton,Ref. 4; Table 2; Hamburger griddle EFs
+Flat Griddles,Steak,Acenaphthylene,208968,0.16,mg/kg,0.00032,lbs./ton,Ref. 4; Table 2; Hamburger griddle EFs
+Flat Griddles,Steak,Anthracene,120127,0.17,mg/kg,0.00034,lbs./ton,Ref. 4; Table 2; Hamburger griddle EFs
+Flat Griddles,Steak,Benz[a]anthracene,56553,0.07,mg/kg,0.00014,lbs./ton,Ref. 4; Table 2; Hamburger griddle EFs
+Flat Griddles,Steak,Benzo[a]Pyrene,50328,0.02,mg/kg,0.00004,lbs./ton,Ref. 4; Table 2; Hamburger griddle EFs
+Flat Griddles,Steak,Biphenyl,92524,0.06,mg/kg,0.00012,lbs./ton,Ref. 4; Table 2; Hamburger griddle EFs
+Flat Griddles,Steak,Fluoranthene,206440,0.86,mg/kg,0.00172,lbs./ton,Ref. 4; Table 2; Hamburger griddle EFs
+Flat Griddles,Steak,Fluorene,86737,0.21,mg/kg,0.00042,lbs./ton,Ref. 4; Table 2; Hamburger griddle EFs
+Flat Griddles,Steak,Naphthalene,91203,0.61,mg/kg,0.00122,lbs./ton,Ref. 4; Table 2; Hamburger griddle EFs
+Flat Griddles,Steak,Phenanthrene,85018,2.07,mg/kg,0.00414,lbs./ton,Ref. 4; Table 2; Hamburger griddle EFs
+Flat Griddles,Steak,Pyrene,129000,1.15,mg/kg,0.0023,lbs./ton,Ref. 4; Table 2; Hamburger griddle EFs
+Flat Griddles,Steak,"PAH, Total",130498292,7.96,mg/kg,0.01592,lbs./ton,Ref. 4; Table 2; Hamburger griddle EFs
+Flat Griddles,Hamburger,Acenaphthene,83329,0.02,mg/kg,0.00004,lbs./ton,Ref. 4; Table 2
+Flat Griddles,Hamburger,Acenaphthylene,208968,0.16,mg/kg,0.00032,lbs./ton,Ref. 4; Table 2
+Flat Griddles,Hamburger,Anthracene,120127,0.17,mg/kg,0.00034,lbs./ton,Ref. 4; Table 2
+Flat Griddles,Hamburger,Benz[a]anthracene,56553,0.07,mg/kg,0.00014,lbs./ton,Ref. 4; Table 2
+Flat Griddles,Hamburger,Benzo[a]Pyrene,50328,0.02,mg/kg,0.00004,lbs./ton,Ref. 4; Table 2
+Flat Griddles,Hamburger,Biphenyl,92524,0.06,mg/kg,0.00012,lbs./ton,Ref. 4; Table 2
+Flat Griddles,Hamburger,Fluoranthene,206440,0.86,mg/kg,0.00172,lbs./ton,Ref. 4; Table 2
+Flat Griddles,Hamburger,Fluorene,86737,0.21,mg/kg,0.00042,lbs./ton,Ref. 4; Table 2
+Flat Griddles,Hamburger,Naphthalene,91203,0.61,mg/kg,0.00122,lbs./ton,Ref. 4; Table 2
+Flat Griddles,Hamburger,Phenanthrene,85018,2.07,mg/kg,0.00414,lbs./ton,Ref. 4; Table 2
+Flat Griddles,Hamburger,Pyrene,129000,1.15,mg/kg,0.0023,lbs./ton,Ref. 4; Table 2
+Flat Griddles,Hamburger,"PAH, Total",130498292,7.96,mg/kg,0.01592,lbs./ton,Ref. 4; Table 2
+Flat Griddles,Poultry,Acenaphthene,83329,0.05,mg/kg,0.0001,lbs./ton,Ref. 4; Table 2
+Flat Griddles,Poultry,Acenaphthylene,208968,0.13,mg/kg,0.00026,lbs./ton,Ref. 4; Table 2
+Flat Griddles,Poultry,Anthracene,120127,0.44,mg/kg,0.00088,lbs./ton,Ref. 4; Table 2
+Flat Griddles,Poultry,Benz[a]anthracene,56553,0.12,mg/kg,0.00024,lbs./ton,Ref. 4; Table 2
+Flat Griddles,Poultry,Benzo[a]Pyrene,50328,0.01,mg/kg,0.00002,lbs./ton,Ref. 4; Table 2
+Flat Griddles,Poultry,Biphenyl,92524,0.13,mg/kg,0.00026,lbs./ton,Ref. 4; Table 2
+Flat Griddles,Poultry,Fluoranthene,206440,0.62,mg/kg,0.00124,lbs./ton,Ref. 4; Table 2
+Flat Griddles,Poultry,Fluorene,86737,0.18,mg/kg,0.00036,lbs./ton,Ref. 4; Table 2
+Flat Griddles,Poultry,Naphthalene,91203,1,mg/kg,0.002,lbs./ton,Ref. 4; Table 2
+Flat Griddles,Poultry,Phenanthrene,85018,1.87,mg/kg,0.00374,lbs./ton,Ref. 4; Table 2
+Flat Griddles,Poultry,Pyrene,129000,0.82,mg/kg,0.00164,lbs./ton,Ref. 4; Table 2
+Flat Griddles,Poultry,"PAH, Total",130498292,9.51,mg/kg,0.01902,lbs./ton,Ref. 4; Table 2
+Flat Griddles,Pork,Acenaphthene,83329,0.05,mg/kg,0.0001,lbs./ton,Ref. 4; Table 2; Chicken griddle EFs
+Flat Griddles,Pork,Acenaphthylene,208968,0.13,mg/kg,0.00026,lbs./ton,Ref. 4; Table 2; Chicken griddle EFs
+Flat Griddles,Pork,Anthracene,120127,0.44,mg/kg,0.00088,lbs./ton,Ref. 4; Table 2; Chicken griddle EFs
+Flat Griddles,Pork,Benz[a]anthracene,56553,0.12,mg/kg,0.00024,lbs./ton,Ref. 4; Table 2; Chicken griddle EFs
+Flat Griddles,Pork,Benzo[a]Pyrene,50328,0.01,mg/kg,0.00002,lbs./ton,Ref. 4; Table 2; Chicken griddle EFs
+Flat Griddles,Pork,"Benzo[g,h,i]Perylene",191242,0,mg/kg,0,lbs./ton,Ref. 4; Table 2; Chicken griddle EFs
+Flat Griddles,Pork,Biphenyl,92524,0.13,mg/kg,0.00026,lbs./ton,Ref. 4; Table 2; Chicken griddle EFs
+Flat Griddles,Pork,Fluoranthene,206440,0.62,mg/kg,0.00124,lbs./ton,Ref. 4; Table 2; Chicken griddle EFs
+Flat Griddles,Pork,Fluorene,86737,0.18,mg/kg,0.00036,lbs./ton,Ref. 4; Table 2; Chicken griddle EFs
+Flat Griddles,Pork,"Indeno[1,2,3-c,d]Pyrene",193395,0,mg/kg,0,lbs./ton,Ref. 4; Table 2; Chicken griddle EFs
+Flat Griddles,Pork,Naphthalene,91203,1,mg/kg,0.002,lbs./ton,Ref. 4; Table 2; Chicken griddle EFs
+Flat Griddles,Pork,Phenanthrene,85018,1.87,mg/kg,0.00374,lbs./ton,Ref. 4; Table 2; Chicken griddle EFs
+Flat Griddles,Pork,Pyrene,129000,0.82,mg/kg,0.00164,lbs./ton,Ref. 4; Table 2; Chicken griddle EFs
+Flat Griddles,Pork,"PAH, Total",130498292,9.51,mg/kg,0.01902,lbs./ton,Ref. 4; Table 2; Chicken griddle EFs
+Flat Griddles,Other,Acenaphthene,83329,0.02,mg/kg,0.00004,lbs./ton,Ref. 4; Table 2; Hamburger griddle EFs
+Flat Griddles,Other,Acenaphthylene,208968,0.16,mg/kg,0.00032,lbs./ton,Ref. 4; Table 2; Hamburger griddle EFs
+Flat Griddles,Other,Anthracene,120127,0.17,mg/kg,0.00034,lbs./ton,Ref. 4; Table 2; Hamburger griddle EFs
+Flat Griddles,Other,Benz[a]anthracene,56553,0.07,mg/kg,0.00014,lbs./ton,Ref. 4; Table 2; Hamburger griddle EFs
+Flat Griddles,Other,Benzo[a]Pyrene,50328,0.02,mg/kg,0.00004,lbs./ton,Ref. 4; Table 2; Hamburger griddle EFs
+Flat Griddles,Other,Biphenyl,92524,0.06,mg/kg,0.00012,lbs./ton,Ref. 4; Table 2; Hamburger griddle EFs
+Flat Griddles,Other,Fluoranthene,206440,0.86,mg/kg,0.00172,lbs./ton,Ref. 4; Table 2; Hamburger griddle EFs
+Flat Griddles,Other,Fluorene,86737,0.21,mg/kg,0.00042,lbs./ton,Ref. 4; Table 2; Hamburger griddle EFs
+Flat Griddles,Other,Naphthalene,91203,0.61,mg/kg,0.00122,lbs./ton,Ref. 4; Table 2; Hamburger griddle EFs
+Flat Griddles,Other,Phenanthrene,85018,2.07,mg/kg,0.00414,lbs./ton,Ref. 4; Table 2; Hamburger griddle EFs
+Flat Griddles,Other,Pyrene,129000,1.15,mg/kg,0.0023,lbs./ton,Ref. 4; Table 2; Hamburger griddle EFs
+Flat Griddles,Other,"PAH, Total",130498292,7.96,mg/kg,0.01592,lbs./ton,Ref. 4; Table 2; Hamburger griddle EFs

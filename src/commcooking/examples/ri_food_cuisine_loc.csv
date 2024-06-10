@@ -1,0 +1,1013 @@
+brand,operator,official_name,name,region_cd,addr:housenumber,addr:street,addr:city,addr:state,addr:postcode,lon,lat,amenity,cuisine,id,version,timestamp,primary_cuisine,comment,secondary_cuisine,sic_cuisine
+,,,International Pizza,44009,,,,,,-71.52457427978517,41.48550033569337,fast_food,,316087555,3,1330123779,international,filled from name: international,,fast_food
+,,,Albie's Place,44009,,,,,,-71.52449798583984,41.48569107055664,fast_food,,316087569,2,1330123779,,nan,,fast_food
+Dunkin',,,Dunkin',44005,1735,Stafford Road,Tiverton,RI,02878,-71.14744567871094,41.62627410888674,fast_food,donut;coffee_shop,357268939,7,1715212301,donut,nan,coffee_shop,noemit
+,,,Kingston Pizza,44009,,,,,,-71.52379608154295,41.4831199645996,restaurant,,451897231,1,1248974453,pizza,filled from name: pizza,,noemit
+Subway,,,Subway,44009,,,,,,-71.5241470336914,41.485969543457,fast_food,sandwich,471635562,5,1708985323,sandwich,nan,,fast_food
+,,,Bagelz,44009,,,,,,-71.52437591552734,41.48601150512696,restaurant,regional,471635563,1,1250804986,regional,nan,,family
+,,,Caliente Mexican Grill,44009,,,,,,-71.5241928100586,41.485767364501896,restaurant,mexican,471635564,2,1629164586,mexican,nan,,ethnic
+,,,Davos Calzones and Wraps,44009,,,,,,-71.52435302734375,41.48546600341799,fast_food,regional,471635565,4,1546588006,regional,nan,,fast_food
+,,,Rhode House,44009,,,,,,-71.52378845214844,41.48591232299803,restaurant,burger,471635566,2,1523486357,burger,nan,,family
+,,,Mia's Kitchen,44009,,,,,,-71.5236282348633,41.48583602905274,restaurant,burger,471635567,3,1523486357,burger,nan,,family
+,,,Krazy Fusion Cafe,44009,,,,,,-71.52371215820312,41.485713958740234,restaurant,,471635568,4,1523486357,fusion,filled from name: fusion,,family
+Dunkin',,,Dunkin',44009,120,Fortin Road,Kingston,RI,02881,-71.52469635009766,41.48494720458981,fast_food,donut;coffee_shop,496102139,8,1715212301,donut,nan,coffee_shop,noemit
+,,,Peking Tokyo,44009,,,,,,-71.52489471435547,41.48496627807616,restaurant,,496102140,1,1252933043,,; gapfilled with family,,family
+McDonald's,,,McDonald's,44007,736,Branch Avenue,Providence,RI,02904,-71.42864227294922,41.85332107543944,fast_food,burger,540539926,6,1715255911,burger,nan,,fast_food
+Dunkin',,,Dunkin',44005,159,East Main Road,Middletown,RI,02842,-71.29551696777344,41.51770782470703,fast_food,donut;coffee_shop,565300029,9,1715212301,donut,nan,coffee_shop,noemit
+,,,Dusty's,44009,,,,,,-71.8265151977539,41.38322067260742,fast_food,,714489096,1,1272685535,,nan,,fast_food
+,,,Mario's,44009,,,,,,-71.82623291015625,41.38327407836915,restaurant,,714489100,1,1272685535,,; gapfilled with family,,family
+,,,Bayou BBQ,44009,,,,,,-71.82536315917969,41.38346099853512,restaurant,,714489115,1,1272685535,bbq,filled from name: bbq,,steak_bbq
+,,,Vetrano's,44009,,,,,,-71.81956481933594,41.370395660400355,restaurant,,714489138,2,1446046060,,; gapfilled with family,,family
+,,,Prime Time Café,09011,,,,,,-71.83135223388672,41.37792968749998,restaurant,,715025293,1,1272703221,,; gapfilled with family,,family
+,,,Bogue's Alley,09011,,,,,,-71.83160400390625,41.378009796142585,restaurant,,715025295,1,1272703221,,; gapfilled with family,,family
+,,,Pizza Place,44009,,,,,,-71.83004760742188,41.37714004516603,restaurant,,715051039,1,1272704340,pizza,filled from name: pizza,,noemit
+,,,Surf Cantina,44009,,,,,,-71.82991790771484,41.38025665283205,restaurant,,715577158,3,1712674799,,; gapfilled with family,,family
+,,,The Red Parrot,44005,348,Thames Street,Newport,RI,02840,-71.31462860107422,41.48418426513674,restaurant,,850367228,2,1659289306,,; gapfilled with family,,family
+,,,,44009,,,,,,-71.43375396728516,41.473255157470696,restaurant,,1280112592,1,1305103718,,; gapfilled with family,,family
+Ceviches by Divino,,,Ceviches by Divino,44007,1000,Chapel Valley Boulevard,,,02920,-71.46088409423828,41.756122589111314,restaurant,peruvian,1508021112,3,1704080745,peruvian,nan,,ethnic
+Dunkin',,,Dunkin',44007,630,Reservoir Avenue,Cranston,RI,02910,-71.44000244140625,41.78150177001957,fast_food,donut;coffee_shop,1559387091,9,1715212301,donut,nan,coffee_shop,noemit
+,,,Baja's,44007,624,Reservoir Avenue,Cranston,RI,02910,-71.4398193359375,41.78169250488279,restaurant,mexican;american,1559387094,3,1570719954,mexican,nan,american,ethnic
+Chipotle,,Chipotle Mexican Grill,Chipotle,44007,87,Hillside Road,Cranston,RI,02920,-71.45886993408203,41.761787414550774,fast_food,mexican,1588769272,6,1715207420,mexican,nan,,fast_food
+Five Guys,,Five Guys Burgers and Fries,Five Guys,44003,300,Quaker Lane,Warwick,RI,02886,-71.49813079833984,41.68847274780272,fast_food,burger,1602366504,5,1715049991,burger,nan,,fast_food
+Panera Bread,,,Panera Bread,44003,1000,Division Street,East Greenwich,RI,02818,-71.49494934082031,41.6619338989258,fast_food,sandwich;bakery,1602372363,6,1715164482,sandwich,nan,bakery,fast_food
+,,,Spike's Junkyard Dogs,44003,,,,,,-71.40718841552734,41.732303619384744,fast_food,,1602378480,1,1327335605,,nan,,fast_food
+D'Angelo Grilled Sandwiches,,,D'Angelo Grilled Sandwiches,44003,,,,,,-71.47640991210938,41.7301902770996,fast_food,sandwich,1602511136,2,1696437137,sandwich,nan,,fast_food
+,,,Asian Dynasty,44003,,,,,,-71.47628784179688,41.73008346557622,restaurant,chinese,1602511149,2,1696769950,chinese,nan,,ethnic
+,,,Walt's Roast Beef,44003,,,,,,-71.48915863037111,41.71056747436525,fast_food,burger,1602511163,1,1327343493,burger,nan,,fast_food
+Dunkin',,,Dunkin',44007,602,Killingly Street,Johnston,RI,02919,-71.47265625,41.8273315429687,fast_food,donut;coffee_shop,1606090556,7,1715212301,donut,nan,coffee_shop,noemit
+,,,Federal Tavern,44003,,,,,,-71.43534851074219,41.72592926025395,restaurant,,1641242467,2,1357513951,,; gapfilled with family,,family
+,,,J. Grays Tavern,44007,,,,,,-71.40775299072266,41.91984176635745,restaurant,,1749952433,1,1336844336,,; gapfilled with family,,family
+,,,Paul's Pizza,44007,,,,,,-71.39957427978516,41.925296783447266,fast_food,,1750053898,2,1514465590,pizza,filled from name: pizza,,noemit
+Wendy's,,,Wendy's,44007,850,Manton Avenue,Providence,RI,02909,-71.46726989746094,41.83361053466793,fast_food,burger,1753863990,4,1715689924,burger,nan,,fast_food
+Dunkin',,,Dunkin',44007,579,Atwells Avenue,Providence,RI,02909,-71.43604278564455,41.82479858398437,fast_food,donut;coffee_shop,1924405651,6,1715212301,donut,nan,coffee_shop,noemit
+Subway,,,Subway,44007,,,,,,-71.4361343383789,41.82479858398437,fast_food,sandwich,1924405652,4,1708985323,sandwich,nan,,fast_food
+,,,Vasilios Pizza,44007,,,,,,-71.43653869628906,41.824829101562514,fast_food,,1924405653,1,1348185172,pizza,filled from name: pizza,,noemit
+,,,Andreas,44007,,,,,,-71.40093231201172,41.82907867431647,restaurant,greek,1957901744,3,1713199663,greek,nan,,ethnic
+,,,Meeting Street Cafe,44007,,,,,,-71.40121459960938,41.82943344116208,restaurant,sandwich,1957901862,1,1349927148,sandwich,nan,,family
+,,,Flatbread Company,44007,161,Cushing Street,Providence,RI,,-71.4003677368164,41.829654693603516,restaurant,pizza,1957903802,3,1713701755,pizza,nan,,noemit
+Uno Pizzeria & Grill,,,Uno Pizzeria & Grill,44003,,,,,,-71.48069763183594,41.72571563720701,restaurant,pizza,1966838372,2,1709558358,pizza,nan,,noemit
+,,,Cool Licks Ice Cream,44007,,,,,,-71.47315216064453,41.85451126098631,fast_food,,2378132765,1,1373301253,,nan,,fast_food
+,,,Wine and Cheese,44007,,,,,,-71.47577667236328,41.855255126953146,restaurant,,2378132779,1,1373301253,wine,filled from name: wine,,noemit
+Dunkin',,,Dunkin',44007,1009,Smith Street,Providence,RI,02908,-71.44494628906251,41.84265899658207,fast_food,donut;coffee_shop,2378144206,3,1715212301,donut,nan,coffee_shop,noemit
+,,,Big Tony's,44007,,,,,,-71.44711303710938,41.843780517578125,restaurant,,2378144244,3,1556026607,,; gapfilled with family,,family
+,,,The Lodge,44007,,,,,,-71.44080352783203,41.90510559082033,restaurant,,2378434170,1,1373318726,,; gapfilled with family,,family
+Dunkin',,,Dunkin',44007,1871,Mineral Spring Avenue,North Providence,RI,02904,-71.46553039550781,41.86108779907227,fast_food,donut;coffee_shop,2379477121,3,1715212301,donut,nan,coffee_shop,noemit
+,,,Siena,44007,,,,,,-71.52944946289062,41.86956787109375,restaurant,,2392292762,1,1374456396,,; gapfilled with family,,family
+,,,Chelo's,44007,,,,,,-71.5271530151367,41.871574401855476,restaurant,,2392295655,1,1374457676,,; gapfilled with family,,family
+,,,Tortilla Flats,44007,,,,,,-71.40137481689453,41.83588027954101,restaurant,mexican,2402579129,1,1375284454,mexican,nan,,ethnic
+Dunkin',,,Dunkin',44007,251,Smith Street,Providence,RI,02908,-71.4200897216797,41.83327484130864,fast_food,donut;coffee_shop,2408815028,6,1715212301,donut,nan,coffee_shop,noemit
+Little Caesars,,,Little Caesars,44007,,,,,,-71.42919921875,41.83649063110349,fast_food,pizza,2408815895,4,1706794226,pizza,nan,,noemit
+Subway,,,Subway,44007,,,,,,-71.4290008544922,41.837162017822266,fast_food,sandwich,2408817609,3,1704577775,sandwich,nan,,fast_food
+Popeyes,,Popeyes Louisiana Kitchen,Popeyes,44007,,,,,,-71.42919158935548,41.83625793457027,fast_food,chicken,2408817612,3,1704577775,chicken,nan,,fast_food
+Subway,,,Subway,44007,,,,,,-71.44578552246094,41.84306335449224,fast_food,sandwich,2408828894,4,1708985325,sandwich,nan,,fast_food
+Chipotle,,Chipotle Mexican Grill,Chipotle,44007,,,,,,-71.52130889892578,41.87068939208984,fast_food,mexican,2417264384,4,1704577775,mexican,nan,,fast_food
+Panera Bread,,,Panera Bread,44007,,,,,,-71.52130889892578,41.8704681396485,fast_food,sandwich;bakery,2417264386,6,1704577775,sandwich,nan,bakery,fast_food
+,,,,44007,,,,,,-71.38247680664062,41.886013031005845,restaurant,,2434068153,1,1377618514,,; gapfilled with family,,family
+,,,Trinity Brewhouse,44007,186,Fountain Street,Providence,RI,02903,-71.41682434082031,41.8223648071289,pub,,2460658472,5,1698628258,,nan,,family
+,,,Bravo Brasserie,44007,,,,,,-71.41613006591797,41.82189178466796,restaurant,french,2460659381,2,1637398106,french,nan,,ethnic
+Chipotle,,Chipotle Mexican Grill,Chipotle,44003,1800,Post Road,Warwick,RI,02886,-71.43648529052736,41.73166656494141,fast_food,mexican,2462121099,5,1715207420,mexican,nan,,fast_food
+Dunkin',,,Dunkin' Donuts,44003,2128,Elmwood Avenue,Warwick,RI,02888,-71.42224121093751,41.74955749511721,fast_food,donut;coffee_shop,2462126713,8,1715212301,donut,nan,coffee_shop,noemit
+Jersey Mike's Subs,,,Jersey Mike's Subs,44003,,,,,,-71.4040756225586,41.75393295288087,fast_food,sandwich,2462126714,3,1710853403,sandwich,nan,,fast_food
+Subway,,,Subway,44003,,,,,,-71.42249298095703,41.74821472167971,fast_food,sandwich,2462126715,4,1708985325,sandwich,nan,,fast_food
+,,,Aiden's Pub,44001,,,,,,-71.27734375,41.66934204101566,pub,,2472619316,2,1696356438,pub,filled from name: pub,,family
+,,,Crusty's Pizza,44003,,,,,,-71.40837097167969,41.74004364013677,restaurant,pizza,2477898787,1,1380560379,pizza,nan,,noemit
+Dunkin',,,Dunkin' Donuts,44003,35,West Shore Road,Warwick,RI,02889,-71.40625,41.733234405517585,fast_food,donut;coffee_shop,2477898790,9,1715212301,donut,nan,coffee_shop,noemit
+Subway,,,Subway,44003,,,,,,-71.4089126586914,41.732894897460916,fast_food,sandwich,2477898797,3,1708985325,sandwich,nan,,fast_food
+,,,Cafe Zelda,44005,,,,,,-71.31411743164062,41.47842025756835,restaurant,,2478097998,1,1380568483,cafe,filled from name: cafe,,family
+,,,The North End Pizzeria,44005,3030,East Main Road,Portsmouth,,02871,-71.24671173095705,41.6107635498047,restaurant,pizza,2555551928,2,1386259549,pizza,nan,,noemit
+,,,Ace's Pizza,44005,,,Jamestown,,02835,-71.37477111816406,41.49526214599609,restaurant,pizza,2629299334,1,1390178250,pizza,nan,,noemit
+,,,Basil's Pizza,44007,1270,Cranston Street,,,02920,-71.45190429687499,41.79101181030274,restaurant,pizza,2698216579,1,1393782242,pizza,nan,,noemit
+Papa Gino's,,,Papa Gino's,44007,1750,Diamond Hill Road,,,02895,-71.47415924072266,42.015617370605476,restaurant,pizza,2728970086,2,1696614252,pizza,nan,,noemit
+,,,The Malted Barley,44009,42,High St.,,,02891,-71.8302459716797,41.37885284423828,pub,,2745939253,1,1395866288,,nan,,family
+D'Angelo Grilled Sandwiches,,,D'Angelo Grilled Sandwiches,44003,795,Tiogue Avenue,,,,-71.5643310546875,41.68193817138675,fast_food,sandwich,2775973792,6,1697192613,sandwich,nan,,fast_food
+,,,Garden Grille Cafe,44007,727,East Avenue,Pawtucket,,02860,-71.39138793945312,41.858165740966804,restaurant,,2917588727,2,1672267037,grill,filled from name: grill,,family
+,,,Blount Clam Shack,44007,,,,,,-71.35945892333984,41.757328033447266,fast_food,seafood,2973467558,2,1485809467,seafood,nan,,fast_food
+Chipotle,,Chipotle Mexican Grill,Chipotle,44007,235,Thayer Street,Providence,RI,02906,-71.40050506591797,41.828254699706946,fast_food,mexican,3011781355,5,1715207420,mexican,nan,,fast_food
+,,,Den Den Café Asiana,44007,161,Benefit Street,Providence,,02903,-71.4081039428711,41.82874679565431,restaurant,korean;japanese,3011787730,3,1672885187,korean,nan,japanese,ethnic
+Subway,,,Subway,44003,,,,,,-71.48627471923828,41.718597412109354,fast_food,sandwich,3042128805,5,1708985325,sandwich,nan,,fast_food
+,,,Wasabi,44003,,,,,,-71.49060058593751,41.70507812499998,restaurant,japanese,3042128807,1,1408997987,japanese,nan,,ethnic
+,,,Dee's Deli,44007,1296,Cranston Street,Cranston,RI,02920,-71.45352172851562,41.79060745239257,restaurant,deli,3131289761,3,1686249271,deli,nan,,family
+Dunkin',,,Dunkin',44003,1582,Warwick Avenue,Warwick,RI,02889,-71.39750671386719,41.71139907836913,fast_food,donut;coffee_shop,3131299087,6,1715212301,donut,nan,coffee_shop,noemit
+,,,Cumberland House of Pizza,44007,,,,,,-71.44331359863281,41.957981109619155,restaurant,,3131305308,1,1413386885,pizza,filled from name: pizza,,noemit
+,,,Egg's Up,44007,,,,,,-71.44345092773438,41.95819854736324,restaurant,,3131308588,2,1557108723,,; gapfilled with family,,family
+,,,Mizu,44003,2276,Old Warwick Avenue,Warwick,,02889,-71.39912414550781,41.71534347534179,restaurant,japanese,3131337597,2,1432274441,japanese,nan,,ethnic
+,,,Picasso's Pizza,44003,2323,Warwick Avenue,Warwick,,02889,-71.39949798583986,41.713321685790966,restaurant,pizza;bar,3131337598,2,1668119550,pizza,; gapfilled with family,bar,family
+Dunkin',,,Dunkin',44003,275,Cowesett Avenue,West Warwick,RI,02893,-71.50741577148438,41.68454742431634,fast_food,donut;coffee_shop,3199169167,7,1715212301,donut,nan,coffee_shop,noemit
+Domino's,,,Domino's,44003,1745,Main Street,West Warwick,RI,02893,-71.52586364746094,41.68279647827153,fast_food,pizza,3199183834,3,1715210071,pizza,nan,,noemit
+,,,La Crêperie,44007,87,Fones Alley,Providence,RI,02906,-71.40021514892578,41.827785491943324,restaurant,crepe,3221185251,4,1698628480,crepe,nan,,noemit
+,,,Spiccli's,44007,,,,,,-71.4560775756836,41.95117568969731,restaurant,,3375013990,1,1425053133,,; gapfilled with family,,family
+,,,,44007,,,,,,-71.45410919189453,41.95128631591795,restaurant,,3379713233,1,1425312254,,; gapfilled with family,,family
+,,,Whistle Stop Redstaurant,44007,,,,,,-71.45652770996094,41.95465087890623,restaurant,,3383442568,1,1425499853,,; gapfilled with family,,family
+Dunkin',,,Dunkin',44007,189,Sockanosset Cross Road,Cranston,RI,02920,-71.45785522460938,41.75688171386723,fast_food,donut;coffee_shop,3391245593,8,1715212301,donut,nan,coffee_shop,noemit
+,,,,44007,,,,,,-71.4017105102539,41.820316314697244,restaurant,,3474118217,2,1429824394,,; gapfilled with family,,family
+,,,Soban,44007,,,,,,-71.40095520019531,41.82933425903318,restaurant,korean,3474120649,5,1713198345,korean,nan,,ethnic
+,,,Berk's;Shanghai,44007,,,,,,-71.40095520019531,41.829254150390646,restaurant,,3474120650,3,1604267486,,; gapfilled with family,,family
+,,,Matunuck Oyster Bar,44009,,,,,,-71.52632904052734,41.38636398315426,restaurant,,3485303380,1,1430258325,oyster,filled from name: oyster,,seafood
+,,,4 Seasons,44007,361,Reservoir Avenue,Providence,RI,02907,-71.4327163696289,41.78815841674806,restaurant,,3534417042,1,1432249410,,; gapfilled with family,,family
+,,,Cisco's Pizza,44007,361,Reservoir Avenue,Providence,RI,02907,-71.4325180053711,41.78802108764649,restaurant,pizza,3534417043,1,1432249410,pizza,nan,,noemit
+,,,Ebisu,44007,38,Pontiac Avenue,Providence,RI,02907,-71.4313430786133,41.78770065307618,restaurant,japanese,3534417046,2,1709581436,japanese,nan,,ethnic
+,,,Jade Island Restraunt,44007,292,Reservoir Avenue,Providence,RI,02907,-71.43048858642578,41.78878402709956,restaurant,chinese,3534417049,1,1432249411,chinese,nan,,ethnic
+,,,Excellent Pizza,44007,255,Reservoir Avenue,Providence,RI,02907,-71.43004608154297,41.78976058959961,restaurant,,3534417052,2,1567713790,pizza,filled from name: pizza,,noemit
+Wendy's,,,Wendy's,44007,110,Garfield Avenue,Cranston,RI,02920,-71.44108581542969,41.79924774169925,fast_food,burger,3540456775,5,1715689924,burger,nan,,fast_food
+,,,Fat Belly's,44007,,,,,,-71.40988159179688,41.827339172363274,pub,,3651456358,2,1562432871,,nan,,family
+,,,The English Cellar,44007,,,,,,-71.40109252929688,41.827999114990234,restaurant,,3655058040,1,1437099617,english,filled from name: english,,ethnic
+,,,Viva,44007,,,,,,-71.40083312988281,41.82799530029296,restaurant,,3655058041,1,1437099618,,; gapfilled with family,,family
+,,,Restaurant Capri,44007,,58 de pasquale ave,providence,,02903,-71.42674255371094,41.824192047119105,restaurant,international,3716127656,2,1629732455,international,nan,,ethnic
+Taco Bell,,,Taco Bell,44007,675,Beverage Hill Avenue,Pawtucket,RI,02861,-71.35406494140625,41.86056137084965,fast_food,tex-mex,3803629214,6,1715376073,tex-mex,nan,,fast_food
+Dunkin',,,Dunkin',44007,81,Newport Avenue,Pawtucket,RI,02861,-71.35420227050781,41.861145019531236,fast_food,donut;coffee_shop,3803629218,6,1715212301,donut,nan,coffee_shop,noemit
+Dunkin',,,Dunkin',44007,1999,Plainfield Pike,Johnston,RI,02919,-71.51675415039062,41.7890396118164,fast_food,donut;coffee_shop,3803637775,10,1715212301,donut,nan,coffee_shop,noemit
+,,,J'Palmerie's,44007,,,,,,-71.51699829101562,41.78911209106446,restaurant,pizza,3803637776,1,1445871358,pizza,nan,,noemit
+,,,Oriental Taste,44007,,,,,,-71.51856994628906,41.78846359252926,restaurant,asian,3803637778,1,1445871358,asian,nan,,ethnic
+,,,Neo's Pizza,44007,,,,,,-71.51842498779297,41.788497924804695,restaurant,pizza,3803637779,1,1445871358,pizza,nan,,noemit
+,,,T's,44007,,,,,,-71.44471740722656,41.78260040283204,restaurant,breakfast,3803643100,1,1445871561,breakfast,nan,,family
+,,,Natalie's Pizza,44007,,,,,,-71.35376739501953,41.89346694946286,restaurant,pizza,3803651609,1,1445872007,pizza,nan,,noemit
+,,,Nettie's Popcorn,44007,,,,,,-71.47234344482422,41.85481643676758,fast_food,,3803656264,1,1445872254,,nan,,fast_food
+,,,Red Ginger,44007,,,,,,-71.4746780395508,41.85453796386716,fast_food,,3803656266,1,1445872254,,nan,,fast_food
+,,,B&B Dockside,44009,,,,,,-71.83434295654297,41.367183685302706,restaurant,burger;breakfast,3806778159,2,1668119550,burger,nan,breakfast,family
+Subway,,,Subway,44009,,,,,,-71.81494903564453,41.363887786865256,fast_food,sandwich,3806802400,6,1708985386,sandwich,nan,,fast_food
+,,,Siena Cucina Enoteca,44003,5600,Post Road,East Greenwich,RI,02818,-71.46736145019531,41.641307830810526,restaurant,italian;tapas,3806805215,5,1611809298,italian,nan,tapas,ethnic
+,,,Orange Leaf,44009,,,,,,-71.82016754150392,41.37210464477541,restaurant,,3806810499,1,1446046368,,; gapfilled with family,,family
+,,,Kelly's Deli,44009,,,,,,-71.81998443603517,41.372116088867145,restaurant,,3806810500,1,1446046368,deli,filled from name: deli,,family
+,,,T's Restaurant,44003,5600,Post Road,East Greenwich,RI,02818,-71.46557617187501,41.641780853271484,restaurant,regional,3806824113,4,1697481434,regional,nan,,family
+,,,Waterfall Cafe,44007,,,,,,-71.67527770996094,41.96496582031253,restaurant,,3809235618,1,1446156001,cafe,filled from name: cafe,,family
+,,,Dev's Cafe,44007,,,,,,-71.6825180053711,41.96738052368166,restaurant,,3809236974,1,1446156084,cafe,filled from name: cafe,,family
+,,,Knight Farm Apple Orchard & Farmer's Omelette Breakfast Restaurant,44007,,,,,,-71.57620239257812,41.86383819580075,restaurant,breakfast,3816157083,1,1446582019,breakfast,nan,,family
+,,,House of WU,44003,52,providence Street,,,,-71.52138519287111,41.710010528564446,restaurant,chinese,3819756728,3,1698073537,chinese,nan,,ethnic
+,,,La Casita,44003,53,Providence Street,,,,-71.52037811279297,41.710315704345724,restaurant,spanish,3819756730,4,1698073537,spanish,nan,,ethnic
+Dunkin',,,Dunkin',44007,315,Broad Street,Providence,RI,02907,-71.4217300415039,41.81449508666995,fast_food,donut;coffee_shop,3827036081,7,1715212301,donut,nan,coffee_shop,noemit
+McDonald's,,,McDonald's,44007,343,Broad Street,Providence,RI,02907,-71.42213439941406,41.81384658813477,fast_food,burger,3827036659,7,1715255911,burger,nan,,fast_food
+,,,Sue's Restaurant,44007,,,,,,-71.42230987548828,41.81793594360351,restaurant,,3835255686,1,1447472227,,; gapfilled with family,,family
+,,,Nice Slice,44007,767,Westminster Street,Providence,RI,02903,-71.42092895507814,41.818035125732415,restaurant,pizza,3835256859,4,1597591535,pizza,nan,,noemit
+Subway,,,Subway,44007,,,,,,-71.42018127441406,41.818431854248054,fast_food,sandwich,3835257268,3,1704577775,sandwich,nan,,fast_food
+,,,Jesse H. Metcalf Mess Hall,44009,,,,,,-71.77959442138672,41.52550888061522,restaurant,regional,3845224373,1,1447959637,regional,nan,,family
+Chipotle,,Chipotle Mexican Grill,Chipotle,44007,1386,Atwood Avenue,Johnston,RI,02919,-71.49623107910156,41.814598083496115,fast_food,mexican,3854606477,5,1715207420,mexican,nan,,fast_food
+Dunkin',,,Dunkin',44009,1214,Main Street,Wyoming,RI,02898,-71.6950454711914,41.51361465454105,fast_food,donut;coffee_shop,4000416978,8,1715212301,donut,nan,coffee_shop,noemit
+Dunkin',,,Dunkin',44005,194,Connell Highway,Newport,RI,02840,-71.3182144165039,41.50965881347657,fast_food,donut;coffee_shop,4120637355,7,1715212301,donut,nan,coffee_shop,noemit
+,,,RK,44005,,,,,,-71.31741333007814,41.50964355468756,fast_food,,4120637867,1,1460621535,,nan,,fast_food
+Subway,,,Subway,44005,,,,,,-71.31806945800781,41.50925064086913,fast_food,sandwich,4120637868,4,1708985386,sandwich,nan,,fast_food
+,AS220,,AS220,44007,95,Empire Street,Providence,RI,02903,-71.41585540771484,41.82160568237305,restaurant,,4171699790,5,1672272949,,; gapfilled with family,,family
+,,,Safari Room Restaurant and Bar,44005,,,,,,-71.3578872680664,41.46430587768558,restaurant,,4217865915,1,1464718415,,; gapfilled with family,,family
+,,,Momo,44007,100,Washington Street,Providence,,,-71.41461181640625,41.82305526733395,restaurant,crepe,4270829735,3,1668119550,crepe,nan,,noemit
+Dunkin',,,Dunkin',44007,81,Washington Street,Providence,RI,02903,-71.41417694091797,41.82365417480466,fast_food,donut;coffee_shop,4270830439,6,1715212301,donut,nan,coffee_shop,noemit
+,,,Blake's tavern,44007,,,,,,-71.41475677490234,41.82291412353516,pub,,4270836629,1,1467163426,,nan,,family
+,,,Birch,44007,,,,,,-71.41598510742188,41.82204055786134,restaurant,,4270839045,1,1467163463,,; gapfilled with family,,family
+,,,Providence Coal Fired Pizza,44007,385,Westminster Street,,,02903,-71.4150161743164,41.82133102416995,restaurant,pizza,4270839705,4,1634665523,pizza,nan,,noemit
+,,,Teriyaki Korean House,44007,,,,,,-71.41248321533203,41.82316589355466,restaurant,,4270839756,2,1492185297,korean,filled from name: korean,,ethnic
+,,,The Dorrance,44007,,,,,,-71.41144561767578,41.82360839843752,restaurant,,4270839757,1,1467163810,,; gapfilled with family,,family
+Dunkin',,,Dunkin',44007,141,Westminster Street,Providence,RI,02903,-71.41098022460938,41.82323455810544,fast_food,donut;coffee_shop,4270841497,6,1715212301,donut,nan,coffee_shop,noemit
+,,,Veggie Fun,44007,,,,,,-71.4100799560547,41.82226943969724,restaurant,,4270842083,2,1640624501,,; gapfilled with family,,family
+,,,Cafè la France,44007,,,,,,-71.4068832397461,41.824131011962855,restaurant,,4270843026,1,1467164162,,; gapfilled with family,,family
+,,,Hemenway's Seafood Grill and Oyster Bar,44007,,,,,,-71.40697479248047,41.82416534423829,restaurant,,4270843051,1,1467164213,seafood,filled from name: seafood,,seafood
+,,,Parkside Rotisserie and bar,44007,,,,,,-71.40707397460938,41.82484054565429,restaurant,,4270845398,1,1467164401,,; gapfilled with family,,family
+,,,Livi's pockets,44007,,,,,,-71.41073608398438,41.8241081237793,restaurant,,4271855194,3,1604705870,,; gapfilled with family,,family
+Dunkin',,,Dunkin',44007,,,,,,-71.41547393798828,41.82132339477538,fast_food,donut;coffee_shop,4271941894,6,1715212301,donut,nan,coffee_shop,noemit
+,,,Gracie's,44007,194 Washington St,,Providence,RI,02903,-71.41593933105469,41.822071075439425,restaurant,,4271955193,2,1493324607,,; gapfilled with family,,family
+,,,Capriccio,44007,,,,,,-71.40862274169922,41.82375717163088,restaurant,,4272283193,1,1467235588,,; gapfilled with family,,family
+,,,Circe,44007,,,,,,-71.40968322753906,41.82401657104492,restaurant,,4272293989,4,1629404864,,; gapfilled with family,,family
+,,,UMelt,44007,,,,,,-71.41123962402344,41.82302093505862,restaurant,,4272294091,2,1634665391,,; gapfilled with family,,family
+,,,Tommy's place,44007,,,,,,-71.41068267822266,41.823867797851605,restaurant,,4272294590,3,1604705870,,; gapfilled with family,,family
+,,,Not Just Snacks,44007,,Hope Street,,,,-71.39446258544922,41.849784851074205,restaurant,indian,4294499309,2,1632693250,indian,nan,,ethnic
+,,,O'Brien's Pub,44005,501,Thames Street,,,02840,-71.31432342529297,41.479400634765675,restaurant,,4360103295,1,1471786986,pub,filled from name: pub,,family
+,,,The Port Seafood Grill & Bar,44005,359,Thames Street,,,02840,-71.31546783447266,41.483444213867244,restaurant,seafood,4384858215,3,1550580741,seafood,nan,,seafood
+,,,Tori Tomo,44007,69,Washington Street,Providence,RI,02903,-71.4139175415039,41.82382583618165,restaurant,ramen,4398313142,2,1562432456,ramen,nan,,ethnic
+,,,Haruki East,44007,172,Wayland Avenue,Providence,RI,02906,-71.3884506225586,41.828792572021456,restaurant,sushi,4417073801,1,1474775739,sushi,nan,,noemit
+,,,The Salted Slate,44007,186,Wayland Avenue,Providence,RI,02906,-71.38838958740234,41.829025268554695,restaurant,american,4417073802,1,1474775739,american,nan,,family
+,,,The Duck and Bunny,44007,312,Wickenden Street,Providence,RI,02903,-71.39697265625,41.819633483886726,restaurant,,4417086892,2,1562439233,,; gapfilled with family,,family
+,,,Nicks on Broadway,44007,,,,,,-71.43480682373048,41.818393707275355,restaurant,,4432809150,1,1475678177,,; gapfilled with family,,family
+,,,Haversham Tavern,44009,,,,,,-71.74580383300781,41.349571228027344,restaurant,,4432809381,1,1475679029,,; gapfilled with family,,family
+,,,Chelos,44007,505,Silver Spring Street,Providence,RI,02904,-71.41059112548828,41.85629653930664,restaurant,,4432809385,3,1619534525,,; gapfilled with family,,family
+,,,Breakfast,44007,,Darling Street,,,,-71.396484375,41.88637924194338,restaurant,,4432821573,1,1475678796,breakfast,filled from name: breakfast,,family
+Burger King,,,Burger King,44009,99,Franklin Street,Westerly,RI,02891,-71.81243133544922,41.36098098754888,fast_food,burger,4432832414,6,1715691841,burger,nan,,fast_food
+,,,579 Benefit Street,44007,579,Benefit Street,,,,-71.3484115600586,41.891647338867145,restaurant,italian,4432835026,2,1475769070,italian,nan,,ethnic
+Dunkin',,,Dunkin',44007,337,Armistice Boulevard,Pawtucket,RI,02861,-71.36249542236328,41.87982559204099,fast_food,donut;coffee_shop,4432839314,6,1715212301,donut,nan,coffee_shop,noemit
+Dunkin',,,Dunkin',44007,957,Broad Street,Central Falls,RI,02863,-71.38734436035156,41.89299392700197,fast_food,donut;coffee_shop,4432839880,5,1715212301,donut,nan,coffee_shop,noemit
+,,,The Commons,44001,,,,,,-71.26050567626955,41.65024566650389,fast_food,,4432844916,1,1475680231,,nan,,fast_food
+Wendy's,,,Wendy's,44007,391,Charles Street,Providence,RI,02904,-71.41820526123047,41.84472656250008,fast_food,burger,4432872519,6,1715689924,burger,nan,,fast_food
+,,,Chinese Food,44007,485,Branch Avenue,Providence,,02904,-71.42134094238283,41.85114669799806,restaurant,chicken;chinese;chickenfried_rice,4432872520,5,1699588306,chicken,nan,chinese,family
+,,,Judge Roy Bean,44001,,,,,,-71.27777862548828,41.67028427124023,pub,,4432872975,2,1586396034,,nan,,family
+Dunkin',,,Dunkin' Donuts,44009,3045,Tower Hill Road,Saunderstown,RI,02874,-71.45728302001953,41.495002746582024,fast_food,donut;coffee_shop,4436112407,6,1715212301,donut,nan,coffee_shop,noemit
+Subway,,,Subway,44009,,,,,,-71.45703887939453,41.49519729614254,fast_food,sandwich,4436112645,4,1708985386,sandwich,nan,,fast_food
+Dunkin' Donuts,,,Dunkin' Donuts,44009,,,,,,-71.6263198852539,41.493137359619126,fast_food,donut,4440023797,5,1715212301,donut,nan,,noemit
+,,,Pickerel,44007,,,,,,-71.42659759521484,41.8187294006348,restaurant,,4487839579,2,1691183964,,; gapfilled with family,,family
+,,,Avenue N,44007,,,,,,-71.35440826416016,41.840152740478565,restaurant,american,4487841536,1,1478566951,american,nan,,family
+,,,Wild Colonial,44007,,,,,,-71.40547943115236,41.822498321533224,pub,,4487841537,1,1478566951,,nan,,family
+,,,La Familia Restaurant,44007,1666,Diamond Hill Road,Cumberland,RI,02864,-71.3998794555664,41.93575668334955,restaurant,italian,4545990699,3,1550584316,italian,nan,,ethnic
+,,,Thong Thai,44009,15,Railroad Avenue,Westerly,RI,02891,-71.82965850830078,41.38065719604499,restaurant,asian,4614922303,1,1484688246,asian,nan,,ethnic
+,,,Jerry Longo's Meatballs and Martinis,44009,12,Canal Street,Westerly,RI,02891,-71.83072662353516,41.380405426025426,restaurant,italian,4614922304,2,1712674799,italian,nan,,ethnic
+Subway,,,Subway,44007,1455,Mineral Spring Avenue,North Providence,RI,02904,-71.44318389892578,41.86600112915036,fast_food,sandwich,4633847359,6,1708985436,sandwich,nan,,fast_food
+,,,Fitzy's Pub,44007,1460,Mineral Spring Avenue,North Providence,RI,02904,-71.44337463378906,41.86545944213869,restaurant,american,4633847361,2,1578695018,american,nan,,family
+,,,Athens Diner,44007,1449,Mineral Spring Avenue,North Providence,RI,02904,-71.44303131103516,41.86616134643553,restaurant,greek,4633847362,3,1578695018,greek,nan,,ethnic
+,,,Jacky's Galaxie and Sushi Bar,44007,1488,Mineral Spring Avenue,North Providence,RI,02904,-71.44489288330078,41.86513900756833,restaurant,asian,4633847363,3,1578695018,asian,nan,,ethnic
+,,,Luigi's Gourmet Express & Restaurant,44007,1357,Hartford Avenue,Johnston,RI,02919,-71.49725341796875,41.82397842407226,restaurant,italian,4658230795,2,1549639013,italian,nan,,ethnic
+Burger King,,,Burger King,44007,1375,Hartford Avenue,Johnston,RI,02919,-71.49816894531251,41.824188232421946,fast_food,burger,4658236142,5,1715691841,burger,nan,,fast_food
+Dunkin',,,Dunkin',44007,39,Putnam Pike,Johnston,RI,02919,-71.49040985107422,41.86105728149412,fast_food,donut;coffee_shop,4660360356,8,1715212301,donut,nan,coffee_shop,noemit
+,,,Escada Restaurant & Bar,44007,39,Putnam Pike,Johnston,RI,02919,-71.49024200439453,41.86120605468749,restaurant,regional,4660385565,2,1595397354,regional,nan,,family
+Popeyes,,Popeyes Louisiana Kitchen,Popeyes,44003,,,,,,-71.66418457031249,41.608947753906264,fast_food,chicken,4762602990,4,1704577775,chicken,nan,,fast_food
+,,,The Admiral Pub,44001,267,Water Street,Warren,RI,02885,-71.28561401367188,41.729816436767614,restaurant,,4771267335,3,1643655352,pub,filled from name: pub,,family
+Denny's,,,Denny's,44007,,Eddie Dowling Highway,,,,-71.51210021972658,41.97940063476559,restaurant,american,4799875621,3,1704577775,american,nan,,family
+,,,White Horse Tavern,44005,,,,,,-71.31372833251953,41.49135589599606,pub,,4835247023,3,1498241177,,nan,,family
+Subway,,,Subway,44003,5687,Post Road,East Greenwich,RI,02818,-71.46870422363281,41.6411247253418,fast_food,sandwich,4927519486,7,1708985436,sandwich,nan,,fast_food
+Domino's,,,Domino's,44009,5953,Post Road,North Kingstown,RI,02818,-71.47006225585938,41.63312149047855,fast_food,pizza,4969327772,7,1715210071,pizza,nan,,noemit
+,,,Ronzio's Pizza,44003,5601,Post Road,East Greenwich,RI,02818,-71.46652221679688,41.64279174804687,restaurant,pizza;italian,4969327800,3,1550594041,pizza,nan,italian,ethnic
+,,,Papa Francos,44003,207,Main Street,East Greenwich,RI,02818,-71.45015716552736,41.661075592041016,restaurant,italian;pizza,5000272881,3,1596126684,italian,nan,pizza,ethnic
+,,,La Masseria,44003,223,Main Street,East Greenwich,RI,02818,-71.45011901855469,41.66079330444333,restaurant,italian,5000272882,3,1511012717,italian,nan,,ethnic
+,,,Fat Belly's On Main,44003,241,Main Street,East Greenwich,RI,02818,-71.45010375976564,41.6605377197266,restaurant,pub;irish,5000272883,5,1665214548,pub,nan,irish,family
+,,,Fresco,44003,301,Main Street,East Greenwich,RI,02818,-71.45014190673828,41.659801483154304,restaurant,italian,5000272884,3,1514431918,italian,nan,,ethnic
+,,,Dante's Kitchen,44003,315,Main Street,East Greenwich,RI,02818,-71.45018005371094,41.65957260131835,restaurant,brunch;american,5000272886,4,1611809298,brunch,nan,american,family
+,,,Cathay Garden,44003,363,Main Street,East Greenwich,RI,02818,-71.45041656494139,41.65887832641609,restaurant,chinese,5000272887,5,1596126684,chinese,nan,,ethnic
+,The Martucci Group,,The Trap,44003,195,Old Forge Road,Warwick,RI,02818,-71.45079803466798,41.644493103027344,restaurant,bar&grill,5000874114,5,1699610357,bar&grill,nan,,family
+,The Martucci Group,,Safehouse,44003,195,Old Forge Road,Warwick,RI,02818,-71.45092010498047,41.64433670043944,restaurant,italian,5000874115,3,1550594074,italian,nan,,ethnic
+,,,The Tavern on Main,44003,50,Main Street,East Greenwich,RI,02818,-71.44990539550781,41.66326522827149,restaurant,,5002137677,3,1597971656,,; gapfilled with family,,family
+,,,Simon Says Cafe & Deli,44003,96,Main Street,East Greenwich,RI,02818,-71.44989013671876,41.66262054443358,restaurant,coffee;tea;sandwich;deli,5002137681,2,1511012719,coffee,nan,tea,noemit
+Jersey Mike's Subs,,,Jersey Mike's Subs,44003,537,Main Street,East Greenwich,RI,02818,-71.45343780517578,41.657310485839865,fast_food,sandwich,5003925676,6,1710853403,sandwich,nan,,fast_food
+,,,Kon,44003,553,Main Street,East Greenwich,RI,02818,-71.45352172851562,41.65724182128906,restaurant,asian;fusion;chinese;sushi,5003925687,4,1699610346,asian,nan,fusion,ethnic
+,,,Finn's Harborside,44003,38,Water Street,East Greenwich,RI,02818,-71.44481658935545,41.66095352172845,restaurant,seafood,5043825223,3,1521924328,seafood,nan,,seafood
+,,,Luxe Burger Bar,44007,5,Memorial Boulevard,,,02903,-71.41423797607422,41.82583618164064,restaurant,,5043830824,1,1503099976,burger,filled from name: burger,,family
+,,,Uno Pizzeria and Grill,44007,82,Providence Place,,,02903,-71.41594696044923,41.82651901245117,restaurant,,5043830826,2,1640624781,grill,filled from name: grill,,family
+,,,figidini,44007,67,Washington Street,,,02903,-71.41387176513672,41.82385635375978,restaurant,,5043835521,2,1562432456,,; gapfilled with family,,family
+,,,Harry's Bar & Burger,44007,121,North Main Street,Providence,RI,02903,-71.40930938720705,41.82823562622072,restaurant,burger,5043839321,2,1704049683,burger,nan,,family
+,,,DeWolf Tavern,44001,259,Thames Street,,,02809,-71.27849578857422,41.67057037353515,restaurant,,5043839325,4,1688660863,,; gapfilled with family,,family
+,,,Four Corners Grille,44005,3841,Main Road,,,02878,-71.18830871582031,41.57188034057619,restaurant,burger;seafood,5045113025,2,1699512291,burger,nan,seafood,family
+,,,Portsmouth Publick House,44005,1,King Charles Drive,,,02871,-71.2674560546875,41.590965270996065,restaurant,,5045210240,2,1550474128,pub,filled from name: pub,,family
+,,,Scales & Shells,44005,,,,,02840,-71.31433868408203,41.47854232788087,restaurant,seafood,5045254426,2,1550474205,seafood,nan,,seafood
+,,,Wharf Tavern,44001,215,Water Street,,,02885,-71.28646087646484,41.731105804443345,restaurant,,5045339921,3,1611795883,,; gapfilled with family,,family
+,,,Besos Kitchen and Cocktails,44003,378,Main Street,East Greenwich,RI,02818,-71.45021057128906,41.658607482910135,restaurant,,5066824300,3,1699610381,cocktails,filled from name: cocktails,,noemit
+,,,Greenwich Bay Oyster Bar,44003,240,Main Street,East Greenwich,RI,02818,-71.44978332519533,41.6605758666992,restaurant,seafood,5067015707,5,1611809298,seafood,nan,,seafood
+,,,Bee's Thai Cuisine,44007,167,Ives Street,Providence,RI,02906,-71.39205169677734,41.82289505004883,restaurant,thai;asian,5098379622,3,1562440166,thai,nan,asian,ethnic
+The Cheesecake Factory,,,The Cheesecake Factory,44007,,,,,,-71.41555786132814,41.829029083251896,restaurant,american,5136603101,4,1704577775,american,nan,,family
+,,,Chong Qing House,44007,,,,,,-71.39569091796875,41.81982803344728,restaurant,chinese,5141978221,3,1507037778,chinese,nan,,ethnic
+,,,Pa’karang,44007,,,,,,-71.40478515625,41.82189178466796,restaurant,thai,5144998537,2,1507037778,thai,nan,,ethnic
+,,,Jahunger,44007,333,Wickenden Street,Providence,RI,02903,-71.39650726318361,41.8194847106934,restaurant,uyghur,5144998538,2,1707086641,uyghur,; gapfilled with family,,family
+,,,Pizza Pie-er,44007,,,,,,-71.39584350585938,41.81977844238283,fast_food,,5144998540,1,1507034883,pizza,filled from name: pizza,,noemit
+,,,Plant City,44007,334,South Water Street,Providence,RI,02903,-71.404296875,41.82080078125002,restaurant,,5144998541,4,1707937611,,; gapfilled with family,,family
+,,,Fellini Pizzeria,44007,166,Wickenden Street,Providence,RI,02903,-71.40006256103517,41.819347381591825,fast_food,pizza,5144998545,4,1609602649,pizza,nan,,noemit
+,,,Sakura,44007,,,,,,-71.39863586425781,41.81935882568362,restaurant,japanese,5144998547,1,1507034884,japanese,nan,,ethnic
+,,,Angkor,44007,,,,,,-71.39937591552736,41.8190803527832,restaurant,cambodian,5150790621,2,1507248154,cambodian,; gapfilled with family,,family
+,,,Noodles 102,44007,102,Ives Street,Providence,RI,02906,-71.39204406738283,41.82104873657228,restaurant,noodle;asian,5153609821,4,1668119550,noodle,nan,asian,ethnic
+,,,Kai Restaurant and Bar,44003,232,Main Street,East Greenwich,RI,02818,-71.44978332519533,41.66070556640623,restaurant,,5157787701,2,1511305298,,; gapfilled with family,,family
+,,,Raku Sakura,44003,148,Main Street,East Greenwich,RI,02818,-71.44982147216797,41.66189575195315,restaurant,asian,5157787719,4,1597971656,asian,nan,,ethnic
+,,,G Pub,44007,,,,,,-71.4103775024414,41.823120117187486,pub,,5166756985,1,1507953029,pub,filled from name: pub,,family
+,,,The Revival,44003,219,Main Street,East Greenwich,RI,02818,-71.45010375976564,41.66090774536139,restaurant,,5248821705,3,1596126684,,; gapfilled with family,,family
+,,,Brick Alley Pub,44005,,,,,,-71.31493377685547,41.48920059204104,pub,,5254439921,2,1514943607,pub,filled from name: pub,,family
+,,,Sonomo Bistro and WineBar,44009,7366,Post Road,North Kingstown,RI,02852,-71.45463562011719,41.59741210937501,restaurant,american,5272958719,1,1512790049,american,nan,,family
+,,,Hungry Haven,44009,5000,South County Trail,Charlestown,RI,02813,-71.64051818847656,41.38650894165032,restaurant,american,5294666633,1,1513722965,american,nan,,family
+,,,The Restaurant,44009,,,,,,-71.75025939941406,41.33062744140628,restaurant,,5308640218,1,1514478462,,; gapfilled with family,,family
+Subway,,,Subway,44003,650,Bald Hill Road,Warwick,RI,02886,-71.47953033447266,41.71952056884764,fast_food,sandwich,5324621160,4,1708985436,sandwich,nan,,fast_food
+,,,BLU on the Water,44003,20,Water Street,East Greenwich,RI,02818,-71.44537353515625,41.66250991821289,restaurant,american;seafood,5502073117,3,1687748278,american,nan,seafood,family
+,,,International Zone,44009,,,,,,-71.52450561523438,41.48497009277346,restaurant,,5546510350,1,1523486355,international,filled from name: international,,ethnic
+Dunkin',,,Dunkin',44009,50,Lower College Road,Kingston,RI,02881,-71.52993774414062,41.48551177978521,fast_food,donut;coffee_shop,5546510386,7,1715212301,donut,nan,coffee_shop,noemit
+,,,Mainfare Dining Hall,44009,,,,,,-71.53091430664061,41.48725128173829,restaurant,,5546510388,1,1523486356,,; gapfilled with family,,family
+,,,Rhody Market,44009,,,,,,-71.5313491821289,41.48720550537109,fast_food,,5546510389,1,1523486356,,nan,,fast_food
+,,,International Pockets,44009,,,,,,-71.52442169189453,41.48580551147459,fast_food,,5546510390,2,1629164587,international,filled from name: international,,fast_food
+,,,Simply Thai,44009,,,,,,-71.52371978759766,41.48590469360352,restaurant,,5546510391,1,1523486356,thai,filled from name: thai,,ethnic
+D'Angelo Grilled Sandwiches,,,D'Angelo Grilled Sandwiches,44007,,,,,,-71.51554107666016,41.98432540893553,fast_food,sandwich,5667772100,2,1696347632,sandwich,nan,,fast_food
+Dunkin',,,Dunkin',44007,1338,Park Avenue,Woonsocket,RI,02895,-71.51549530029298,41.98501968383792,fast_food,donut;coffee_shop,5667772111,7,1715212301,donut,nan,coffee_shop,noemit
+,,,The Andrea,44009,,,,,,-71.81520080566406,41.32064819335934,restaurant,,5678431811,1,1528576394,,; gapfilled with family,,family
+,,,Flos clam shack,44005,,,,,,-71.31449127197266,41.47942352294923,restaurant,,5688309686,1,1528906655,,; gapfilled with family,,family
+,,,Antonio's,44007,727,East Avenue,Pawtucket,RI,02860,-71.39160156250001,41.85814285278316,restaurant,pizza,5745687817,3,1703708389,pizza,nan,,noemit
+,,,Rasoi,44007,727,East Avenue,Pawtucket,RI,02860,-71.39146423339844,41.858165740966804,restaurant,indian,5745687818,2,1703708389,indian,nan,,ethnic
+,,,Ran Zan,44007,1084,Hope Street,Providence,RI,02906,-71.39142608642578,41.85667037963867,restaurant,japanese,5745687822,3,1703712706,japanese,nan,,ethnic
+,,,Al Son de Mi Barrio,44007,,,,,,-71.43984222412111,41.82440948486329,restaurant,mexican,5753960643,1,1531311381,mexican,nan,,ethnic
+,,,Moon Star,44007,727,East Avenue,Pawtucket,RI,02860,-71.39131164550783,41.85816955566405,restaurant,chinese,5873541060,2,1703708389,chinese,nan,,ethnic
+,,,Rebelle Artisan Bagels,44007,,,,,,-71.40406036376953,41.83890151977543,restaurant,sandwich,5874331919,1,1535840188,sandwich,nan,,family
+,,,Ten Prime Steak & Sushi,44007,,,,,,-71.40960693359374,41.82308578491209,restaurant,steak_house;sushi,5907472294,1,1536982509,steak_house,nan,sushi,steak_bbq
+,,,Easton's Beach Snack Bar,44005,175,Memorial Boulevard,Newport,,02842,-71.2899398803711,41.48868942260741,fast_food,seafood,5938044632,1,1538185426,seafood,nan,,fast_food
+,,,B.GOOD,44007,269,Thayer Street,,,,-71.40064239501953,41.829086303710916,fast_food,burger,6053341837,1,1541971583,burger,nan,,fast_food
+,,,Tumblesalts Cafe,44007,,,,,,-71.48210906982422,41.85858154296873,restaurant,american,6124989576,2,1643569449,american,nan,,family
+,,,Julian’s,44007,318,Broadway,,,02909,-71.42815399169922,41.819988250732415,restaurant,,6162686785,3,1687746813,,; gapfilled with family,,family
+Dunkin',,,Dunkin',44001,381,Metacom Avenue,Bristol,RI,02809,-71.26029205322266,41.677471160888715,fast_food,donut;coffee_shop,6258662640,7,1715212301,donut,nan,coffee_shop,noemit
+Pizza Hut,,,Pizza Hut,44001,,,,,,-71.26045989990233,41.677452087402365,restaurant,pizza,6258662641,4,1704577775,pizza,nan,,noemit
+,,,The Provisioner New York Deli & Cafe,44009,7669,Post Road,North Kingstown,RI,02852,-71.45853424072266,41.58992767333983,restaurant,sandwich,6258697004,2,1699610376,sandwich,nan,,family
+,,,Pizza Heaven,44003,2554,South County Trail,East Greenwich,RI,02818,-71.49214935302736,41.626995086669915,restaurant,pizza,6296181739,2,1592021459,pizza,nan,,noemit
+,,,Ironworks Tavern,44003,,,,,,-71.44309234619139,41.729274749755874,restaurant,,6325991968,1,1552071515,,; gapfilled with family,,family
+,,,Riccotti's Subs,44003,,,,,,-71.50812530517578,41.68519592285158,fast_food,sandwich,6378488552,1,1554210867,sandwich,nan,,fast_food
+,,,Pita Plus Grill,44003,250,Cowesett Avenue,,,,-71.50852966308594,41.68518447875977,restaurant,mediterranean;fried_egg_burger;falafel;half_beef_chicken;shawarma;pizza,6378488553,4,1705413538,mediterranean,nan,fried_egg_burger,ethnic
+Subway,,,Subway,44003,,,,,,-71.50598907470703,41.68371582031249,fast_food,sandwich,6378488565,4,1708985438,sandwich,nan,,fast_food
+,,,El Gallo De Oro,44007,1270,Broad Street,Central Falls,RI,02863,-71.38866424560547,41.89727020263672,restaurant,spanish,6390215792,2,1554838255,spanish,nan,,ethnic
+,,,Clarke Cooke House,44005,,,,,,-71.31578826904297,41.486160278320334,restaurant,,6433045406,1,1556395024,,; gapfilled with family,,family
+,,,,44007,,,,,,-71.41400146484375,41.871562957763665,restaurant,pizza,6499422043,1,1558775872,pizza,nan,,noemit
+,,,"East End, The",44007,244,Wickenden Street,Providence,RI,02906,-71.3983840942383,41.81956100463869,restaurant,american,6593419376,1,1562436222,american,nan,,family
+,,,Amy's,44007,214,Wickenden Street,Providence,RI,02906,-71.39901733398438,41.819534301757784,restaurant,,6593419380,2,1698628337,,; gapfilled with family,,family
+,,,Redfin Crudo + Kitchen,44007,71,Washington Street,Providence,RI,02903,-71.41397094726562,41.823783874511754,restaurant,,6593429683,1,1562432456,,; gapfilled with family,,family
+,,,New Rivers American Bistro,44007,7,Steeple Street,Providence,RI,02903,-71.40950012207031,41.82741928100586,restaurant,,6593461157,2,1698628330,american,filled from name: american,,family
+,,,Aleppo Sweets,44007,107,Ives Street,Providence,RI,02906,-71.3918228149414,41.82125854492189,restaurant,middle_eastern;syrian,6593523318,1,1562440166,middle_eastern,nan,syrian,ethnic
+,,,Brickway On Wickenden,44007,234,Wickenden Street,Providence,RI,02903,-71.39862060546875,41.81955337524411,restaurant,breakfast,6593545750,1,1562439233,breakfast,nan,,family
+,,,Taste of India,44007,230,Wickenden Street,Providence,RI,02903,-71.39876556396484,41.819545745849595,restaurant,indian,6593545751,2,1683594238,indian,nan,,ethnic
+,,,Wickendon Pub,44007,320,Wickenden Street,Providence,RI,02903,-71.39682006835938,41.81964492797854,restaurant,pub,6593545756,1,1562439233,pub,nan,,family
+McDonald's,,,McDonald's,44007,72,Newport Avenue,East Providence,RI,02916,-71.35398101806642,41.85698699951175,fast_food,burger,6621564756,5,1715255911,burger,nan,,fast_food
+,Ryan Bessette,,Rogue Island Local Kitchen & Bar,44007,65,Weybosset Street,Providence,RI,02903,-71.41059112548828,41.82383346557615,restaurant,,6630596422,6,1698628429,,; gapfilled with family,,family
+Dunkin',,,Dunkin',44007,,,,,,-71.53693389892578,41.919807434082074,fast_food,donut;coffee_shop,6648380052,6,1715212301,donut,nan,coffee_shop,noemit
+,,,The Exchange,44007,,,,,,-71.53707885742188,41.919925689697266,fast_food,sandwich,6648380053,3,1681406994,sandwich,nan,,fast_food
+,,,Ronzio's Pizza,44007,,,,,,-71.53651428222656,41.91846847534178,restaurant,pizza,6648397461,1,1564099095,pizza,nan,,noemit
+,,,Twenty Two Bowen’s,44005,,,,,,-71.31637573242188,41.486625671386676,restaurant,,6681318685,1,1564920780,,; gapfilled with family,,family
+,,,Milk Money,44007,566,South Water Street,Providence,RI,02903,-71.40057373046876,41.81757736206052,restaurant,american,6681533827,1,1564929206,american,nan,,family
+,,,Antonio’s Pizza,44005,,,,,,-71.31834411621094,41.50731277465818,restaurant,,6682019585,1,1564949483,pizza,filled from name: pizza,,noemit
+McDonald's,,,McDonald's,44001,636,Metacom Avenue,Warren,RI,02885,-71.26795196533203,41.71667861938479,fast_food,burger,6809949463,5,1715255911,burger,nan,,fast_food
+Dunkin',,,Dunkin' Donuts,44001,621,Metacom Avenue,Warren,RI,02885,-71.2673568725586,41.713680267333984,fast_food,donut;coffee_shop,6809949465,5,1715212301,donut,nan,coffee_shop,noemit
+Dunkin' Donuts,,,Dunkin' Donuts,44001,,,,,,-71.26888275146484,41.717502593994176,fast_food,donut;coffee_shop,6809949466,5,1715212301,donut,nan,coffee_shop,noemit
+,,,Sowams Cider Works Company,44001,98,Child Street,Warren,RI,,-71.27919006347656,41.73016357421878,pub,,6809949468,3,1691178334,,nan,,family
+,,,Bangin' Wingz,44007,258,Greenville Avenue,Johnston,RI,02919,-71.4830551147461,41.83872604370112,restaurant,chicken,6867287021,2,1570720719,chicken,nan,,family
+Taco Bell,,,Taco Bell,44007,1304,Broad Street,Providence,RI,02905,-71.40568542480469,41.7913398742676,fast_food,tex-mex,6867288139,4,1715376073,tex-mex,nan,,fast_food
+Blaze Pizza,,,Blaze Pizza,44007,,,,,,-71.46122741699219,41.755748748779304,restaurant,pizza,6867300894,3,1704577775,pizza,nan,,noemit
+,,,Anthony's Coal Fire Pizza,44007,,,,,,-71.45783233642578,41.75783538818361,restaurant,pizza,6867300895,1,1570719954,pizza,nan,,noemit
+,,,Nick's on Westminster,44007,100,Westminster Street,Providence,RI,,-71.41050720214845,41.82467269897462,restaurant,burger;american;coffee_shop;chicken;regional,6867584103,2,1672271130,burger,nan,american,family
+,,,Benny’s Clam Shack,44009,12,Sand Hill Cove Road,,,,-71.48940277099611,41.37510299682616,restaurant,seafood;american;breakfast;burger;fish_and_chips,6874188287,2,1570971940,seafood,nan,american,seafood
+,,,Tupper's,44007,,,,,,-71.5369873046875,41.9199142456055,fast_food,burger;sandwich,6959245916,3,1681406994,burger,nan,sandwich,fast_food
+,,,Salmonson Dining Hall,44007,,,,,,-71.53884124755861,41.919647216796875,restaurant,,6970581709,1,1573614016,,; gapfilled with family,,family
+Subway,,,Subway,44003,,,,,,-71.45604705810547,41.69176101684569,fast_food,sandwich,7007195295,3,1708985438,sandwich,nan,,fast_food
+,,,Newport Beach Club,44005,195,Newport Harbor Drive,Portsmouth,RI,02871,-71.26365661621094,41.62447357177737,restaurant,seafood;regional,7007208991,1,1574649011,seafood,nan,regional,seafood
+,,,Christopher's Kitchen And Bar,44007,2,2 S. Main Street,Woonsocket,RI,02895,-71.51615905761719,41.999893188476584,restaurant,mediterranean,7037261187,1,1575593888,mediterranean,nan,,ethnic
+,,,Bandidos Mexican Restaurant,44007,88,Broad Street,Cumberland,RI,02864,-71.39138793945312,41.90142822265622,restaurant,mexican,7041856337,1,1575817192,mexican,nan,,ethnic
+,,,Capriotti's Sandwich Shop,44007,,,,,,-71.47583770751953,41.93576049804686,fast_food,sandwich,7080735927,1,1577138096,sandwich,nan,,fast_food
+Chipotle,,Chipotle Mexican Grill,Chipotle,44007,622,George Washington Highway,Lincoln,RI,02865,-71.47555541992188,41.93573379516597,fast_food,mexican,7080735928,3,1715207420,mexican,nan,,fast_food
+Five Guys,,Five Guys Burgers and Fries,Five Guys,44007,622,George Washington Highway,Lincoln,RI,02865,-71.47750091552734,41.93573379516597,fast_food,burger,7087191998,3,1715049991,burger,nan,,fast_food
+,,,Little Country Pizza & Restaurant,44009,349,Nooseneck Hill Road,Exeter,RI,,-71.6546859741211,41.57851028442385,restaurant,pizza;barbecue,7117190057,4,1699610402,pizza,nan,barbecue,steak_bbq
+Domino's,,,Domino's,44007,,,,,,-71.52233123779297,41.8707809448242,fast_food,pizza,7156927773,3,1715210071,pizza,nan,,noemit
+,,,Ollie's Diner,44007,,,,,,-71.39901733398438,41.92377090454104,restaurant,,7172576334,1,1580398328,diner,filled from name: diner,,family
+,,,Apponaug Brewery,44003,,,,,,-71.4692153930664,41.726531982421875,restaurant,,7213232076,1,1581740004,,; gapfilled with family,,family
+Dunkin',,,Dunkin',44007,1700,Mendon Road,Cumberland,RI,02864,-71.43548583984375,41.94254684448245,fast_food,donut;coffee_shop,7254080213,5,1715212301,donut,nan,coffee_shop,noemit
+,,,Stoneacre Brasserie,44005,28,Washington Square,Newport,RI,02840,-71.31412506103516,41.49035644531252,restaurant,,7348637730,1,1585613246,brasserie,filled from name: brasserie,,ethnic
+,,,Bar 'Cino,44005,22,Washington Square,Newport,RI,,-71.3143539428711,41.49032592773432,restaurant,,7348637731,1,1585613246,,; gapfilled with family,,family
+,,,Pour Judgement,44005,32,Broadway,Newport,RI,,-71.31259155273439,41.49120330810543,pub,,7348637732,3,1649190744,,nan,,family
+,,,Midtown Oyster Bar,44005,345,Thames Street,Newport,,,-71.31481170654297,41.484096527099595,restaurant,,7348654810,1,1585614205,oyster,filled from name: oyster,,seafood
+,,,Bristol Bagel Works,44001,,,,,,-71.27610778808594,41.66970825195314,restaurant,,7383630779,1,1586396759,bagel,filled from name: bagel,,noemit
+,,,Roberto's,44001,,,,,,-71.27623748779297,41.67004013061525,restaurant,italian,7383642899,1,1586396921,italian,nan,,ethnic
+,,,caliente,44007,,,,,,-71.40065002441408,41.828990936279304,restaurant,,7461336295,1,1588128089,,; gapfilled with family,,family
+,,,Golden City,44007,39,Putnam Pike,,RI,02919,-71.48974609375,41.861331939697294,restaurant,chinese,7735801513,1,1595397354,chinese,nan,,ethnic
+,,,Norman's Restaurant,44003,155-159,Main Street,East Greenwich,RI,02818,-71.45018005371094,41.66173553466798,restaurant,,7770539211,1,1596126684,,; gapfilled with family,,family
+Dunkin',Dunkin',,Dunkin',44009,855,Point Judith Road,Narragansett,RI,02882,-71.48572540283203,41.388458251953146,fast_food,donut;coffee_shop,7784836293,5,1715212301,donut,nan,coffee_shop,noemit
+,,,Casa Pizza,44009,855,Point Judith Road,Narragansett,RI,02882,-71.48568725585938,41.388580322265646,restaurant,pizza;wings,7784836294,1,1596559934,pizza,nan,wings,family
+Chipotle,,Chipotle Mexican Grill,Chipotle,44003,1200,Quaker Lane,East Greenwich,RI,02818,-71.49451446533203,41.66328811645505,fast_food,mexican,7804164219,5,1715207420,mexican,nan,,fast_food
+,,,Wara Wara,44007,776,Hope Street,Providence,RI,02906,-71.39569854736328,41.84798812866207,restaurant,japanese,7817722993,3,1703697883,japanese,nan,,ethnic
+,,,Gourmet House,44007,,,,,,-71.39515686035156,41.84841537475588,restaurant,asian,7817722994,1,1597598022,asian,nan,,ethnic
+,,,Black Oak Kitchen and Drinks,44003,760,Tiogue Ave,Coventry,RI,02816,-71.56143951416016,41.6818199157715,restaurant,,7824651011,1,1597802208,,; gapfilled with family,,family
+,KNEAD Doughnuts,,KNEAD Doughnuts,44007,55,Cromwell Street,Providence,RI,02907,-71.4262466430664,41.80902099609373,fast_food,donut,7866604285,1,1599001541,donut,nan,,noemit
+On The Border,,On The Border Mexican Grill & Cantina,On The Border,44003,650,Bald Hill Road,Warwick,RI,02886,-71.4823226928711,41.72095870971679,restaurant,tex-mex,8347414891,2,1704577775,tex-mex,nan,,family
+,,,Genji Sushi,44007,151,Sockanosset Cross Road,Cranston,RI,02920,-71.45587158203125,41.756122589111314,restaurant,sushi,8347474281,2,1704080745,sushi,nan,,noemit
+,,,Garden City Nutrition,44007,125,Sockanosset Cross Road,Cranston,RI,02920,-71.45586395263672,41.75508499145502,restaurant,,8347474282,1,1611287178,,; gapfilled with family,,family
+,,,The Event Room at Cutler Mill,44001,16,Cutler Street,Warren,RI,02885,-71.27803039550781,41.72940063476561,restaurant,,8369853134,1,1611795883,,; gapfilled with family,,family
+,,,Taco Box Trailer,44001,75,Child Street,Warren,RI,02885,-71.28028869628908,41.730007171630824,restaurant,mexican,8369853135,1,1611795883,mexican,nan,,ethnic
+,,,La Piñata,44001,520,Main Street,Warren,RI,02885,-71.28173065185547,41.72874069213867,restaurant,mexican,8369853136,1,1611795883,mexican,nan,,ethnic
+,,,Rhody Roots,44001,511,Main Street,Warren,RI,02885,-71.28234100341797,41.728912353515625,restaurant,,8369853137,2,1621989632,,; gapfilled with family,,family
+,,,Federal Hill Pizza,44001,495,Main Street,Warren,RI,02885,-71.28241729736328,41.72927856445317,restaurant,italian;pizza,8369853138,1,1611795883,italian,nan,pizza,ethnic
+,,,Amaral's Fish & Chips,44001,4,Redmond Street,Warren,RI,02885,-71.27568817138672,41.73014831542968,restaurant,fish_and_chips;seafood;regional,8369853142,1,1611795883,fish_and_chips,nan,seafood,seafood
+,,,Crossroad Pub Restaurant,44001,133,Market Street,Warren,RI,02885,-71.27757263183595,41.73050689697265,restaurant,,8369853143,1,1611795883,pub,filled from name: pub,,family
+,,,Market Street Pub & Grill,44001,99,Market Street,Warren,RI,02885,-71.27928161621094,41.730533599853516,restaurant,,8369853144,1,1611795883,grill,filled from name: grill,,family
+,,,Richardson's Kitchen and Bar,44001,15,Child Street,Warren,RI,02885,-71.2820053100586,41.7302474975586,restaurant,,8369853145,1,1611795883,,; gapfilled with family,,family
+,,,Uptown Food and Spirits,44001,437,Main Street,Warren,RI,02885,-71.28274536132812,41.730197906494176,restaurant,,8369853147,1,1611795883,,; gapfilled with family,,family
+,,,The Square Peg,44001,51,Miller Street,Warren,RI,02885,-71.28514099121094,41.73130416870115,restaurant,,8369853148,1,1611795883,,; gapfilled with family,,family
+,,,The Revival Craft Kitchen and Bar,44001,50,Miller Street,Warren,RI,02885,-71.2851104736328,41.73105239868165,restaurant,,8369853149,1,1611795883,,; gapfilled with family,,family
+,,,Bywater,44001,54,State Street,Warren,RI,02885,-71.28485870361328,41.729530334472685,restaurant,,8369853152,1,1611795883,,; gapfilled with family,,family
+,,,Perella's Ristorante,44001,331,Metacom Avenue,Warren,RI,02885,-71.26982879638672,41.730518341064425,restaurant,regional;italian,8369853153,1,1611795883,regional,nan,italian,family
+,,,Metacom Kitchen,44001,322,Metacom Avenue,Warren,RI,02885,-71.26947021484375,41.73016357421879,restaurant,,8369853154,1,1611795883,taco,filled from name: taco,,ethnic
+,,,Chomp Kitchen and Drinks,44001,440,Child Street,Warren,RI,02885,-71.26639556884767,41.72942352294921,restaurant,burger;sandwich;american,8369853155,1,1611795883,burger,nan,sandwich,family
+,,,Waterdog Kitchen + Bar,44001,125,Water Street,Warren,RI,02885,-71.28553009033203,41.73300170898437,restaurant,,8369853156,1,1611795883,,; gapfilled with family,,family
+,,,Jack's Family Restaurant,44001,294,Child Street,Warren,RI,02885,-71.27241516113281,41.729660034179666,restaurant,regional;italian;portuguese,8369853157,1,1611795883,regional,nan,italian,family
+,,,Palmer River Grille LLC,44001,382,Market Street,Warren,RI,02885,-71.27233123779297,41.74887847900394,restaurant,,8369853158,1,1611795883,grill,filled from name: grill,,family
+,,,Lauren's Restaurant,44001,601,Metacom Avenue,Warren,RI,02885,-71.26932525634764,41.71933364868169,restaurant,,8369853159,1,1611795883,,; gapfilled with family,,family
+,,,Luke's Inn,44001,650,Metacom Avenue,Warren,RI,02885,-71.26768493652344,41.7153778076172,restaurant,chinese;asian,8369853160,1,1611795883,chinese,nan,asian,ethnic
+,,,Blount Clam Shack,44001,335,Water Street,Warren,RI,02885,-71.28599548339844,41.72799682617187,restaurant,burger;seafood;fish_and_chips,8369853162,1,1611795883,burger,nan,seafood,family
+,,,Honey Dew Donuts,44007,300,Atwood Avenue,Cranston,RI,02920,-71.4732666015625,41.784008026123054,fast_food,donut,8372608686,2,1698628235,donut,nan,,noemit
+,,,The Thirsty Beaver Hometown Pub & Grub,44007,288,Atwood Avenue,Cranston,RI,02920,-71.47334289550783,41.783832550048864,pub,,8372608687,1,1611857897,pub,filled from name: pub,,family
+,,,Harriet's Kitchen,44007,350,Atwood Avenue,Cranston,RI,02920,-71.47299194335938,41.78552246093751,restaurant,,8372733074,1,1611858600,,; gapfilled with family,,family
+,,,China Dynasty Restaurant,44007,400,Atwood Avenue,Cranston,RI,02920,-71.47298431396484,41.786716461181605,restaurant,chinese,8372733075,1,1611858600,chinese,nan,,ethnic
+,,,Chelo's Hometown Bar & Grille,44003,2225,Post Road,Warwick,RI,02886,-71.44254302978517,41.72156524658202,restaurant,burger,8569191947,2,1616947481,burger,nan,,family
+Bertucci's,,,Bertucci's,44003,1946,Post Road,Warwick,RI,02886,-71.43761444091797,41.72853469848629,restaurant,pizza;italian,8573316166,3,1704577775,pizza,nan,italian,ethnic
+,,,Hooters of Warwick,44003,667,Airport Road,Warwick,RI,02886,-71.43151092529297,41.733013153076165,restaurant,burger;wings,8573317138,2,1698628449,burger,nan,wings,family
+,,,Clube Juventude Lusitana,44007,,,,,,-71.3919906616211,41.8999900817871,restaurant,portuguese,8589870526,3,1668119550,portuguese,; gapfilled with family,,family
+Fleming's,,Fleming's Prime Steakhouse & Wine Bar,Fleming's,44007,1,West Exchange Street,Providence,RI,02903,-71.41534423828125,41.82542037963864,restaurant,steak_house,8593562305,4,1696428145,steak_house,nan,,steak_bbq
+,,,AJ's,44003,1365,Main Street,West Warwick,RI,02893,-71.52305603027344,41.70075225830074,restaurant,breakfast;coffee_shop;pancake;fries,8593608425,2,1697817698,breakfast,nan,coffee_shop,family
+,,,Massimo Ristorante,44007,134,Atwells Avenue,Providence,RI,02903,-71.42237091064455,41.823150634765604,restaurant,italian,8593623517,1,1617577657,italian,nan,,ethnic
+Subway,,,Subway,44007,,,,,,-71.4531478881836,41.75275421142573,fast_food,sandwich,8769393263,3,1708985440,sandwich,nan,,fast_food
+,,,Kochi Sushi & Steakhouse,44007,,,,,,-71.49871826171875,41.78965377807618,restaurant,sushi,8769621835,1,1622052361,sushi,nan,,noemit
+Subway,,,Subway,44007,,,,,,-71.52934265136719,41.87165069580081,fast_food,sandwich,8769644202,3,1708985440,sandwich,nan,,fast_food
+Dunkin',,,Dunkin',44005,496,Main Road,Tiverton,RI,02878,-71.19075012207031,41.65995788574214,fast_food,donut;coffee_shop,8901875617,5,1715212301,donut,nan,coffee_shop,noemit
+Dunkin',,,Dunkin' Donuts,25005,1099,William South Canning Boulevard,Fall River,MA,02721,-71.15647888183594,41.664813995361364,fast_food,donut;coffee_shop,8902383189,5,1715212301,donut,nan,coffee_shop,noemit
+Chipotle,,Chipotle Mexican Grill,Chipotle,44005,11,East Main Road,Middletown,RI,02842,-71.29936218261719,41.51663208007808,fast_food,mexican,8958156749,3,1715207420,mexican,nan,,fast_food
+,,,Union Station Brewery,44007,,,,,,-71.4139175415039,41.82559967041017,pub,,8996842773,1,1628622690,,nan,,family
+,,,The Rosendale,44007,55,Union Street,Providence,RI,02903,-71.41463470458984,41.824001312255845,restaurant,,8998847990,1,1628692057,,; gapfilled with family,,family
+Panera Bread,,,Panera Bread,44007,43,Providence Place,Providence,RI,02903,-71.41558074951172,41.82859420776369,fast_food,sandwich;bakery,8999190713,3,1715164482,sandwich,nan,bakery,fast_food
+Dave & Buster's,,,Dave & Buster's,44007,,,,,,-71.41597747802734,41.827968597412095,restaurant,american,8999234643,3,1704577775,american,nan,,family
+,,,Shaidzon Beer Co.,44009,141,Fairgrounds Road,,,,-71.5655288696289,41.48186492919922,pub,,9013632173,1,1629193023,,nan,,family
+,,,The Middle of Nowhere Diner,44009,222,Nooseneck Hill Road,,,,-71.6512451171875,41.58662033081056,restaurant,,9067063332,2,1631145224,diner,filled from name: diner,,family
+,,,Cowesett Inn,44003,226,Cowesett Avenue,,,,-71.50976562500001,41.68507385253907,restaurant,american,9084864307,2,1696770951,american,nan,,family
+,,,IL Forno Italiano,44005,372,Thames Street,Newport,RI,02840,-71.3144302368164,41.48331069946287,restaurant,pizza;italian;sandwich;pasta;dessert,9237110438,4,1679669977,pizza,nan,italian,ethnic
+,,,Hercules Pizza Works,44007,1525,Old Louisquisset Pike,Lincoln,RI,02865,-71.43891906738281,41.88619613647463,restaurant,pizza,9440981149,1,1642892850,pizza,nan,,noemit
+,,,Mother Pizzeria,44005,49,Long Wharf Mall,Newport,RI,02840,-71.31676483154297,41.49000549316409,restaurant,pizza,9484276108,2,1691504695,pizza,nan,,noemit
+,,,Coddington Brewing Company,44005,210,Coddington Highway,Middletown,RI,02842,-71.30561828613281,41.51855087280269,pub,,9484276110,1,1644176114,,nan,,family
+,,,Yumi Garden Buffet,44005,,,,,,-71.2991714477539,41.52739334106444,restaurant,chinese,9484276112,1,1644176114,chinese,nan,,ethnic
+,,,Clock Tower Deli & Market,44007,,,,,,-71.411865234375,41.82162857055662,restaurant,,9499022764,1,1644610455,deli,filled from name: deli,,family
+,,,Market Place,44007,,,,,,-71.41311645507812,41.81980514526369,restaurant,,9499022779,1,1644610455,,; gapfilled with family,,family
+,,,Wildcat Concessions,44007,,,,,,-71.38788604736328,41.78538131713868,fast_food,,9506383960,1,1644878190,,nan,,fast_food
+,,,Mama Leone's Pizzeria,44005,,,,,,-71.30720520019531,41.480903625488295,restaurant,,9573483995,1,1647109534,pizza,filled from name: pizzeria,,noemit
+,,,Prince Ali's Kebabs,44001,,,,,,-71.2939682006836,41.753707885742195,restaurant,arab,9609985940,1,1648339987,arab,; gapfilled with family,,family
+,,,Arcadia Pizza,44003,,,,,,-71.66539764404297,41.61227416992184,restaurant,pizza,9625360135,1,1648691009,pizza,nan,,noemit
+Subway,,,Subway,44003,,,,,,-71.66548156738283,41.612281799316406,fast_food,sandwich,9625360136,2,1704577775,sandwich,nan,,fast_food
+,,,Tavern on Broadway,44005,,,,,,-71.31292724609375,41.490898132324205,pub,,9644253956,2,1652825637,,nan,,family
+,,,International Pocket Cafe,44005,52,East Main Road,Middletown,RI,02842,-71.29933166503906,41.517482757568374,restaurant,mediterranean,9732913883,3,1695661381,mediterranean,nan,,ethnic
+Jersey Mike's Subs,,,Jersey Mike's Subs,44005,,,,,,-71.3001708984375,41.516510009765604,fast_food,sandwich,9735333827,3,1711311895,sandwich,nan,,fast_food
+,,,Newport Tokyo House,44005,,,,,,-71.30964660644531,41.49448776245121,restaurant,sushi,9735878802,2,1714231108,sushi,nan,,noemit
+,,,Pub at Two Mile Corner,44005,,,,,,-71.30142211914062,41.51617431640626,pub,,9735921839,1,1652390963,pub,filled from name: pub,,family
+,,,Tijuana Burrito Grill,44005,,,,,,-71.31181335449219,41.49193572998043,restaurant,mexican,9735961619,2,1711150242,mexican,nan,,ethnic
+,,,Umi Asian Cuisine,44005,,,,,,-71.31157684326172,41.49216842651366,restaurant,asian,9735961620,2,1711150487,asian,nan,,ethnic
+,,,Boru Noodle Bar,44005,,,,,,-71.31256103515625,41.49124145507812,restaurant,noodle,9735973978,2,1711317164,noodle,nan,,noemit
+,,,Mel's Cafenio,44005,,,,,,-71.312255859375,41.49120330810543,restaurant,greek,9735973979,1,1652392519,greek,nan,,ethnic
+Panera Bread,,,Panera Bread,44007,4000,Chapel View Boulevard,Cranston,RI,02920,-71.45849609375,41.75617980957034,fast_food,sandwich;bakery,9741438515,2,1715164482,sandwich,nan,bakery,fast_food
+,,,Pizza Hollywood,44005,,,,,,-71.28287506103516,41.50988769531249,restaurant,pizza,9747412913,1,1652735897,pizza,nan,,noemit
+,,,The Franklin Spa,44005,,,,,,-71.31319427490234,41.48487091064456,restaurant,,9750258634,1,1652825637,,; gapfilled with family,,family
+,,,Scratch,44005,,,,,,-71.3114547729492,41.4922981262207,restaurant,,9750258636,2,1711150566,,; gapfilled with family,,family
+,,,Root,44005,,,,,,-71.31304931640625,41.490791320800795,restaurant,,9750258647,2,1714232020,,; gapfilled with family,,family
+,,,La Vecina,44005,,,,,,-71.31427764892578,41.49032974243168,restaurant,,9750258652,1,1652825637,,; gapfilled with family,,family
+,,,Stoneacre,44005,,,,,,-71.31590270996094,41.48840332031249,restaurant,,9750258700,1,1652825637,,; gapfilled with family,,family
+,,,Buskers,44005,,,,,,-71.31502532958984,41.488468170166,pub,,9750258706,1,1652825637,,nan,,family
+,,,Ristorante Lucia,44005,,,,,,-71.31493377685547,41.48829269409179,restaurant,italian,9750258710,1,1652825637,italian,nan,,ethnic
+,,,Gas Lamp Grille,44005,,,,,,-71.31498718261719,41.48780441284187,restaurant,,9750274121,1,1652825637,grill,filled from name: grill,,family
+,,,Speakeasy Bar & Grill,44005,,,,,,-71.31487274169922,41.48665237426756,pub,,9750274125,1,1652825637,grill,filled from name: grill,,family
+,,,Benjamin's Raw Bar,44005,,,,,,-71.31486511230469,41.48661804199217,restaurant,seafood,9750274126,1,1652825637,seafood,nan,,seafood
+,,,PizzaWood,44005,,,,,,-71.31477355957033,41.4865112304688,restaurant,pizza,9750274128,1,1652825637,pizza,nan,,noemit
+,,,Powder Mill Creamery,44007,777,Putnam Pike,Greenville,RI,02828,-71.57942199707033,41.88219833374025,restaurant,ice_cream,9755388492,2,1682365119,ice_cream,nan,,noemit
+,,,Tropical Ilhas Lounge,44007,,,,,,-71.3603744506836,41.817668914794965,restaurant,,9759596636,1,1653144529,,; gapfilled with family,,family
+Insomnia Cookies,,,Insomnia Cookies,44007,,,,,,-71.41333770751953,41.82087707519529,fast_food,,9770788748,2,1693106089,cookie,filled from name: cookie,,noemit
+,,,"There, There.",44007,471,West Fountain Street,Providence,RI,02903,-71.42568969726562,41.81867980957036,restaurant,sandwich,9773975412,2,1691419001,sandwich,nan,,family
+Saladworks,,,Saladworks,44003,,,,,,-71.4923324584961,41.705677032470675,fast_food,salad,9809183264,1,1654877679,salad,nan,,noemit
+,,,Miss Cranston Diner II and Grill,44003,45,Quaker Lane,West Warwick,RI,02893,-71.5019302368164,41.69499969482427,restaurant,sandwich,9814629564,3,1679105380,sandwich,nan,,family
+,,,Vincent Resturant,44007,,,,,,-71.46054077148438,41.78984069824218,restaurant,coffee_shop,9817861464,2,1700573796,coffee_shop,nan,,noemit
+,,,L'osteria,44007,,,,,,-71.46481323242188,41.78339767456053,restaurant,italian,9817866941,1,1655232609,italian,nan,,ethnic
+,,,Caffe Itri,44007,,,,,,-71.4643783569336,41.78395843505857,restaurant,italian,9817872638,1,1655232703,italian,nan,,ethnic
+,,,Vatsana Thai & Sushi,44007,,Broad Street,Cranston,RI,02905,-71.39086151123047,41.766071319580064,restaurant,thai,9849496979,3,1667792149,thai,nan,,ethnic
+,,,12 Metre Cafe,44005,462,Thames Street,Newport,RI,02840,-71.31429290771484,41.48058700561528,restaurant,american;breakfast,9922689114,2,1691504695,american,nan,breakfast,family
+,,,Yellow Kittens Tavern,44009,214,Corn Neck Road,,,,-71.56126403808594,41.174400329589815,pub,,9941197017,1,1659997949,,nan,,family
+,,,Gardiner's Wharf Seafood,44009,170,Main Street,Wickford,RI,,-71.44561004638672,41.57275772094728,restaurant,seafood,9974910243,1,1661347062,seafood,nan,,seafood
+Dunkin',,,Dunkin',44007,,,Smithfield,RI,,-71.53142547607422,41.8706741333008,fast_food,donut;coffee_shop,10003088138,4,1715212301,donut,nan,coffee_shop,noemit
+,,,Pho Horn's,44007,50,Ann Mary Street,,,,-71.4021224975586,41.85736465454102,restaurant,vietnamese,10090436315,2,1665450670,vietnamese,nan,,ethnic
+,,,MidiCi - Wood Fired Pizza,44007,75,Highland Commons,East Providence,RI,02914,-71.34140014648438,41.805126190185575,restaurant,pizza,10121919365,1,1666474613,pizza,nan,,noemit
+Dairy Queen,,,Dairy Queen,44007,,,,,,-71.41633605957031,41.82837295532228,fast_food,ice_cream;burger,10145237532,1,1667267705,ice_cream,nan,burger,family
+Dunkin',,,Dunkin',44007,5515,Providence Place Mall,Providence,RI,02903,-71.41647338867188,41.827671051025355,fast_food,donut;coffee_shop,10145237536,3,1715212301,donut,nan,coffee_shop,noemit
+,,,Rim Nahm,44007,,,,,,-71.39044952392578,41.76465225219729,restaurant,thai,10157604230,3,1667594552,thai,nan,,ethnic
+,,,Fellini Pizzeria,44007,,,,,,-71.39041137695314,41.76535034179689,restaurant,pizza,10157857832,2,1667594552,pizza,nan,,noemit
+,,,Basta,44007,2195,Broad Street,,,,-71.39080810546875,41.765106201171896,restaurant,italian,10157929374,1,1667594552,italian,nan,,ethnic
+,,,Poco Loco Tacos,44007,,,,,,-71.3944320678711,41.77091979980465,restaurant,,10158120730,1,1667601286,taco,filled from name: taco,,ethnic
+,,,Crepe Corner,44007,,,,,,-71.39083099365234,41.7660255432129,restaurant,,10164698966,1,1667792149,crepe,filled from name: crepe,,noemit
+,,,Famous PIzza,44005,,,,,,-71.19046783447266,41.6599235534668,restaurant,pizza,10186231400,1,1668528806,pizza,nan,,noemit
+Chipotle,,Chipotle Mexican Grill,Chipotle,44007,473,Putnam Pike,Greenville,RI,02828,-71.53279876708984,41.870853424072266,fast_food,mexican,10186236523,2,1715207420,mexican,nan,,fast_food
+Burger King,,,Burger King,44007,67,Newport Avenue,Rumford,RI,02916,-71.35491943359375,41.857612609863274,fast_food,burger,10198134893,2,1715691841,burger,nan,,fast_food
+KFC,,,KFC,44007,,,,,,-71.35486602783203,41.85886764526372,fast_food,chicken,10198134895,2,1701040453,chicken,nan,,fast_food
+,,,Pokeworks,44007,,,,,,-71.4007034301758,41.8273696899414,restaurant,,10242936060,3,1713203001,poke,filled from name: poke,,noemit
+,,,Lucia's Mexican Restaurant,44007,154,Atwells Avenue,Providence,RI,02903,-71.42324829101564,41.823207855224574,restaurant,,10279664826,1,1671697047,mexican,filled from name: mexican,,ethnic
+,,,Just Like Mom's Meal Prep,44003,11,Curson St.,,,,-71.52432250976562,41.70537567138671,restaurant,sandwich,10653031086,2,1696689286,sandwich,nan,,family
+,,,Baja's Taqueria,44007,227,Thayer Street,Providence,RI,,-71.40052795410156,41.827980041503906,fast_food,mexican,10756768902,2,1713777264,mexican,nan,,fast_food
+,,,Wong's Kitchen,44007,108,Waterman Street,Providence,RI,,-71.40009307861328,41.82744979858392,restaurant,chinese,10756768903,1,1679593891,chinese,nan,,ethnic
+Shake Shack,,,Shake Shack,44007,249,Thayer Street,Providence,RI,,-71.4006118774414,41.82849502563479,fast_food,burger,10756797205,2,1713198482,burger,nan,,fast_food
+Sweetgreen,,,Sweetgreen,44007,,,,,,-71.45890045166016,41.760379791259794,fast_food,salad,10856271482,1,1682788847,salad,nan,,noemit
+Tropical Smoothie Cafe,,,Tropical Smoothie Cafe,44007,,,,,,-71.45890045166016,41.75986862182617,fast_food,juice,10856271483,1,1682788847,juice,nan,,noemit
+Dairy Queen,,,Dairy Queen,44007,275,Atwood Avenue,Cranston,RI,02920,-71.47216033935548,41.783203124999986,fast_food,ice_cream;burger,10888622665,1,1683858481,ice_cream,nan,burger,family
+,,,Diego's,44007,192,Wayland Avenue,,,,-71.38835906982422,41.829254150390646,restaurant,mexican,10934058374,1,1685283898,mexican,nan,,ethnic
+,,,Toti's Pizza & Grill,44007,622,Central Ave,,,,-71.35920715332031,41.88687896728518,restaurant,,10948854950,1,1685798409,grill,filled from name: grill,,family
+Little Caesars,,,Little Caesars,44007,,,,,,-71.44420623779297,41.77940750122071,fast_food,pizza,11026287563,2,1706794226,pizza,nan,,noemit
+,,,Town Pizza,44009,,,,,,-71.68728637695314,41.511741638183615,fast_food,pizza,11034247958,1,1688827570,pizza,nan,,noemit
+,,,Lily's Soups & Scoops,44007,1850,Broad Street,Cranston,RI,02905,-71.39848327636719,41.775352478027315,restaurant,ice_cream;cafe,11034546971,2,1688841065,ice_cream,nan,cafe,family
+,,,Vivaldi's Pizza,44007,1826,Broad Street,Cranston,RI,02905,-71.39905548095703,41.77598571777341,restaurant,pizza,11034568343,1,1688841861,pizza,nan,,noemit
+,,,Wai Wai House,44007,1850,Broad Street,Cranston,RI,02905,-71.39846801757812,41.77521514892574,restaurant,chinese,11034571733,1,1688841364,chinese,nan,,ethnic
+,,,N.O. Bar Clam Shack,44009,,,,,,-71.62617492675781,41.36463928222658,restaurant,,11065793896,1,1690232788,,; gapfilled with family,,family
+,,,The Hut,44007,245,Carpenter Street,Providence,RI,02903,-71.4270248413086,41.81856918334966,restaurant,sandwich,11097172411,1,1691419001,sandwich,nan,,family
+,,,Wally's Weiners,44005,464,Thames Street,Newport,RI,02840,-71.31427001953126,41.48041534423828,restaurant,hot_dog;american;burger,11099453074,1,1691504695,hot_dog,nan,american,family
+,,,The Black Pearl,44005,30,Bannister's Wharf,Newport,RI,02840,-71.31623077392578,41.48620605468748,restaurant,seafood,11099453075,1,1691504695,seafood,nan,,seafood
+,,,Diego's,44005,11,Bowen's Wharf,Newport,RI,02840,-71.3158950805664,41.48649597167966,restaurant,mexican,11099453076,1,1691504695,mexican,nan,,ethnic
+,,,Wharf Fishhouse,44005,41,Bowen's Wharf,Newport,RI,02840,-71.31583404541016,41.48634338378902,restaurant,seafood,11099453079,1,1691504695,seafood,nan,,seafood
+,,,Luke's Lobster,44005,36,Bowen's Wharf,Newport,RI,02840,-71.31562805175781,41.48646163940429,restaurant,seafood,11099453080,1,1691504695,seafood,nan,,seafood
+,,,Bayberry Garden,44007,,,,,,-71.40843200683594,41.820125579833956,restaurant,,11172008837,1,1694012233,,; gapfilled with family,,family
+,,,PIZZA COIN,44007,1005,Smith Street,Providence,RI,02908,-71.44483947753906,41.84260559082031,restaurant,pizza;pasta;salad;subs,11182154434,3,1705717766,pizza,nan,pasta,ethnic
+,,,Geoff's Superlative Sandwitches,44007,401,South Main Street,Providence,RI,02903,-71.40388488769531,41.820854187011705,restaurant,sandwich,11217621497,1,1695639491,sandwich,nan,,family
+,,,Patrona International,44003,,,,,,-71.52361297607422,41.71692276000974,restaurant,regional;mexican;spanish,11246016448,1,1696691067,regional,nan,mexican,family
+,,,Bill's,44003,,,,,,-71.5339126586914,41.72230529785153,restaurant,pizza;sandwich,11246027080,2,1698628414,pizza,nan,sandwich,family
+,,,Phenix Square,44003,9,Pleasant Street,,,,-71.5317840576172,41.721336364746115,restaurant,coffee_shop,11246035342,1,1696691591,coffee_shop,nan,,noemit
+,,,Aloha Pizza,44003,126,Roberts Street,,,,-71.52799987792969,41.70045471191406,restaurant,pizza;hot_dog;burger,11246046496,2,1696702357,pizza,nan,hot_dog,family
+,,,California Taco Shop,44003,231,Washington Street,,,,-71.52843475341797,41.7009811401367,restaurant,mexican;tacos;pizza,11246050636,3,1704978698,mexican,nan,tacos,ethnic
+,,,Masala Indian & Pakistani,44003,35,Quaker Lane,,,,-71.50209808349611,41.69567871093748,restaurant,indian,11246115499,2,1698628493,indian,nan,,ethnic
+Sonic,,,Sonic,44003,1134,Bald Hill Road,Warwick,RI,02886,-71.49101257324219,41.707855224609375,fast_food,burger,11246152611,3,1715642125,burger,nan,,fast_food
+Smashburger,,,Smashburger,44003,1000,Bald Hill Road,,,,-71.48795318603516,41.71269607543946,fast_food,burger,11246202217,2,1698628304,burger,nan,,fast_food
+,,,Cowesett Pizza,44003,306,Cowesett Avenue,,,,-71.50421142578126,41.68528366088867,restaurant,pizza,11246202224,2,1698628215,pizza,nan,,noemit
+,,,New Asia House,44003,300,Quaker Lane,,,,-71.49954223632812,41.68573379516602,restaurant,asian;chinese;japanese,11246202226,1,1696696852,asian,nan,chinese,ethnic
+,,,West Valley Soup & Sauce,44003,7,Cowesett Avenue,,,,-71.52249908447266,41.68402099609378,restaurant,italian;chicken;pasta,11246266667,3,1698628248,italian,nan,chicken,ethnic
+,,,Famous,44003,1738,Main Street,,,,-71.5247573852539,41.6827735900879,restaurant,pizza;sandwich;burger;salad,11246266669,2,1698628378,pizza,nan,sandwich,family
+,,,master donuts,44003,1745,Main Street,,,,-71.525634765625,41.68306732177734,fast_food,donut,11246266670,3,1702757476,donut,nan,,noemit
+,,,Gel's,44003,1745,Main Street,,,,-71.52619934082031,41.682838439941385,restaurant,crepe;fries;fish_and_chips;hot_dog;salad,11246266671,3,1700493513,crepe,nan,fries,family
+,,,Taste of China,44003,1745,Main Street,,,,-71.52639770507814,41.683486938476555,restaurant,chinese,11246266673,1,1696699033,chinese,nan,,ethnic
+,,,hong kong resturant,44003,77,Washington Street,,,,-71.52584838867188,41.70313644409185,restaurant,chinese,11246266677,1,1696699033,chinese,nan,,ethnic
+,,,Sherri's Come Along Inn,44003,402,Washington Street,,,,-71.53352355957031,41.6954460144043,restaurant,chicken_parm;fish_and_chips;seafood,11246274173,2,1698628343,chicken_parm,nan,fish_and_chips,seafood
+,,,Blackstone,44003,,,,,,-71.55089569091797,41.66192626953124,restaurant,egg_roll;sandwich;chicken,11246319813,1,1696703088,egg_roll,nan,sandwich,family
+Dunkin',,,Dunkin',44003,2285,New London Turnpike,Coventry,RI,02816,-71.54414367675781,41.66283798217774,fast_food,donut;coffee_shop,11246319818,3,1715212301,donut,nan,coffee_shop,noemit
+Panda Express,,,Panda Express,44003,,,,,,-71.4758529663086,41.723651885986314,fast_food,chinese,11248157581,2,1709558358,chinese,nan,,fast_food
+Johnny Rockets,,,Johnny Rockets,44003,,,,,,-71.47605895996094,41.722393035888686,restaurant,burger,11248157582,2,1709558358,burger,nan,,family
+,,,Wise Guys,44003,,,,,,-71.50640869140625,41.683822631836016,restaurant,pizza,11277732436,1,1697817925,pizza,nan,,noemit
+,,,Caliente,44003,,,,,,-71.50638580322266,41.6838836669922,restaurant,mexican,11277732437,1,1697817925,mexican,nan,,ethnic
+,,,Sherri's,44003,,,,,,-71.52372741699219,41.705593109130874,restaurant,american;seafood,11283669404,3,1710503212,american,nan,seafood,family
+Domino's,,,Domino's,44005,1397,West Main Road,Middletown,RI,02842,-71.29131317138672,41.537288665771484,fast_food,pizza,11399297628,2,1715210071,pizza,nan,,noemit
+,,,Pizza King,44003,,,,,,-71.43563842773439,41.731422424316406,restaurant,pizza,11416231000,1,1702526026,pizza,nan,,noemit
+,,,Lotus Pepper,44007,,,,,,-71.39598083496094,41.84739303588869,restaurant,vietnamese,11447289169,2,1703697883,vietnamese,nan,,ethnic
+,,,Durk's Bar-B-Q,44007,33,Aborn Street,,,02903,-71.41535186767577,41.8218994140625,restaurant,barbecue,11447354370,2,1703552142,barbecue,nan,,steak_bbq
+,,,Rosalina,44007,50,Aborn Street,,,02903,-71.41569519042969,41.821975708007834,restaurant,italian,11447362869,1,1703364461,italian,nan,,ethnic
+,,,Red Stripe,44007,465,Angell Street,Providence,RI,02906,-71.38925170898438,41.82980346679686,restaurant,american,11447483569,2,1703696873,american,nan,,family
+,,,Sun and Moon Korean Restaurant,44007,95,Warren Avenue,East Providence,RI,02914,-71.38019561767578,41.81680679321282,restaurant,korean,11459960410,2,1713505958,korean,nan,,ethnic
+,,,Avenue N,44007,959,Hope Street,Providence,RI,02906,-71.39287567138672,41.853160858154304,restaurant,american,11460971602,1,1703712706,american,nan,,family
+,,,Lim's Fine Thai & Sushi Restaurant,44007,18,South Angell Street,Providence,RI,02906,-71.38733673095703,41.830020904541044,restaurant,thai,11461285978,1,1703725264,thai,nan,,ethnic
+,,,McBride's Irish Pub,44007,161,Wayland Avenue,Providence,RI,02906,-71.38811492919923,41.82894897460932,pub,,11461285980,1,1703725264,irish,filled from name: irish,,ethnic
+,,,Mare Rooftop Restaurant,44007,229,Waterman Street,Providence,RI,02906,-71.38822937011719,41.82845306396485,restaurant,,11461285981,1,1703725264,,; gapfilled with family,,family
+,,,Smug Brewing,44007,100,Carver Street,Pawtucket,RI,02860,-71.39866638183595,41.85969543457033,pub,,11463461567,1,1703788144,,nan,,family
+,,,Pasta Beach,44007,,,,,,-71.38802337646484,41.82940673828126,restaurant,italian,11464032059,1,1703803162,italian,nan,,ethnic
+,,,Wings Over Providence,44007,,,,,,-71.39608764648438,41.84655761718752,restaurant,,11469901169,1,1703949430,wings,filled from name: wings,,family
+,,,Palo Tapas Bar,44007,3,Steeple Street,Providence,RI,02903,-71.40969848632812,41.827369689941406,restaurant,,11473682237,1,1704049683,tapas,filled from name: tapas,,ethnic
+,,,The Burger Experience,44003,,,,,,-71.4954299926758,41.70344161987303,fast_food,burger,11508553870,1,1704979245,burger,nan,,fast_food
+,,,Mama Ty's,44003,,,,,,-71.50653076171875,41.684436798095675,restaurant,caribbean;soul_food;spanish;wings;cheesecakes;dessert;chicken,11521962454,2,1707145639,caribbean,nan,soul_food,ethnic
+Subway,,,Subway,44009,,,,,,-71.45320129394531,41.6070327758789,fast_food,sandwich,11556739757,2,1708985444,sandwich,nan,,fast_food
+,,,Pioneer Pizza,44003,,,,,,-71.42823791503906,41.745166778564425,restaurant,pizza,11577569819,1,1706818857,pizza,nan,,noemit
+,,,Buford's Restaurant,44007,,,,,,-71.39440917968751,41.86143112182619,restaurant,,11585361304,1,1707086641,,; gapfilled with family,,family
+,,,Hangry Kitchen,44007,542,Pawtucket Avenue,Pawtucket,RI,02860,-71.39744567871094,41.85933685302737,restaurant,,11585361313,1,1707086641,,; gapfilled with family,,family
+McDonald's,,,McDonald's,44009,149,Old Tower Hill Road,Washington County,RI,02879,-71.48316955566406,41.44248962402342,fast_food,burger,11599373305,2,1715255911,burger,nan,,fast_food
+McDonald's,,,McDonald's,44007,50,Plainfield Street,Providence County,RI,02909,-71.44433593750001,41.81609344482423,fast_food,burger,11599388512,2,1715255911,burger,nan,,fast_food
+,,,Antonio's,44007,125,Wickenden Street,Providence,RI,02903,-71.40123748779295,41.81861877441408,restaurant,pizza,11638607303,1,1708279743,pizza,nan,,noemit
+,,,White Owl Bar & Kitchen,44007,1074,Hope Street,Providence,RI,02906,-71.39148712158203,41.85653686523433,restaurant,,11665535320,1,1708962691,,; gapfilled with family,,family
+,,,East Side Bagel Co.,44007,,,,,,-71.3908462524414,41.83489227294928,restaurant,,11665552320,1,1708962344,bagel,filled from name: bagel,,noemit
+,,,Bettola,44007,44,Rolfe Square,Cranston,RI,02910,-71.4361343383789,41.77732086181643,restaurant,italian;pizza;pasta,11691681356,2,1710209537,italian,nan,pizza,ethnic
+,,,Wayland Fresh,44007,,,,,,-71.38802337646486,41.82842254638673,restaurant,,11739662389,1,1710708526,,; gapfilled with family,,family
+Shake Shack,,,Shake Shack,44003,,,,,,-71.49632263183595,41.69794082641599,fast_food,burger,11741117535,1,1710761907,burger,nan,,fast_food
+,,,Humming Bird,44005,104,Broadway,Newport,RI,02840,-71.31122589111328,41.49256896972653,restaurant,,11754241344,2,1714231641,,; gapfilled with family,,family
+,,,Cabana,44005,140,Broadway,Newport,RI,02840,-71.31014251708984,41.4934539794922,restaurant,,11754241356,1,1711158752,,; gapfilled with family,,family
+,,,Cabana,44005,150,Broadway,Newport,RI,02840,-71.30997467041017,41.49359893798826,restaurant,,11754241358,2,1711244077,,; gapfilled with family,,family
+,,,Norey's Brewpub,44005,156,Broadway,Newport,RI,02840,-71.3099136352539,41.49365615844723,pub,,11754241359,1,1711158752,pub,filled from name: pub,,family
+,,,Ben's Soft Serve Cones,44005,,,,,,-71.3095474243164,41.494010925293,restaurant,,11754241362,2,1714231306,,; gapfilled with family,,family
+,,,Ben's Chili Dogs,44005,,,,,,-71.3095169067383,41.49404144287109,restaurant,,11754241363,2,1714231263,,; gapfilled with family,,family
+,,,The Guild Warren,44001,99,Water Street,,,02885,-71.28740692138672,41.73385238647457,pub,,11759221369,1,1711317796,,nan,,family
+,,,Checkers Pizza,44005,879,West Main Road,Middletown,RI,02842,-71.29670715332031,41.52650451660158,restaurant,pizza,11759376792,1,1711324439,pizza,nan,,noemit
+,,,China Star II,44005,877,West Main Road,Middletown,RI,02842,-71.29674530029297,41.52644348144531,restaurant,chinese,11759376793,1,1711324439,chinese,nan,,ethnic
+,,,Crown Chicken & Kebab,44005,390,West Main Road,Middletown,RI,02842,-71.30109405517578,41.51627349853516,fast_food,chicken,11762305400,1,1711404801,chicken,nan,,fast_food
+,,,Port Pizza,44005,659,West Main Road,Middletown,RI,02842,-71.29911041259766,41.52061462402343,restaurant,pizza,11762305402,1,1711404801,pizza,nan,,noemit
+,,,Nana's Westerly,44009,,,,,,-71.82923126220703,41.38003540039061,restaurant,,11805051053,1,1712674799,,; gapfilled with family,,family
+,,,Amigos Taqeria Y Tequila,44009,,,,,,-71.82991790771484,41.37958908081052,restaurant,mexican,11805051055,1,1712674799,mexican,nan,,ethnic
+,,,The Brazen Hen,44009,,,,,,-71.83010101318361,41.3798789978027,restaurant,,11805051056,1,1712674799,,; gapfilled with family,,family
+,,,Rhody Hen Cafe,44007,350,Prospect Street,,,02860,-71.37431335449219,41.86682510375973,restaurant,,11854386269,2,1714248897,cafe,filled from name: cafe,,family
+,,,Yagi Noodles,44005,20,Long Wharf Mall,Newport,RI,02840,-71.31641387939453,41.48973464965821,restaurant,noodle,11862213773,1,1714310203,noodle,nan,,noemit
+,,,Chengdu Taste,44007,,,,,,-71.42716217041016,41.83612060546875,restaurant,chinese,11862550488,1,1714320370,chinese,nan,,ethnic
+Dunkin',,,Dunkin',44003,2611,South County Trail,East Greenwich,RI,02818,-71.49275516699427,41.625513549846566,fast_food,donut;coffee_shop,30096717,10,1715212301,donut,nan,coffee_shop,noemit
+Wendy's,,,Wendy's,44009,,,,,,-71.46896972648057,41.63119597663257,fast_food,burger,30097197,7,1705462262,burger,nan,,fast_food
+Applebee's Neighborhood Grill & Bar,,Applebee's Neighborhood Grill & Bar,Applebee's,44009,,,,,,-71.46932171808687,41.45631517890047,restaurant,american,30111316,5,1651367799,american,nan,,family
+,,,Seven Moons,44009,,,,,,-71.45643229837059,41.610336187948896,restaurant,asian,48403227,4,1512837756,asian,nan,,ethnic
+Burger King,Jan-Co,,Burger King,44009,7041,Post Road,North Kingstown,RI,02852,-71.45586776741742,41.605985641553566,fast_food,burger,48407879,6,1715691841,burger,nan,,fast_food
+Olive Garden,,,Olive Garden,44003,,,,,,-71.4957771300484,41.7029361726037,restaurant,italian,48428373,5,1705462262,italian,nan,,ethnic
+,,,Smokey Bones,44003,,,,,,-71.49553115635624,41.703389644256085,restaurant,american,48428374,3,1278404076,american,nan,,family
+Frank Pepe's,,,Frank Pepe,44003,21,Universal Boulevard,,,,-71.49462127683921,41.70344734195734,restaurant,pizza,48428376,8,1702124763,pizza,nan,,noemit
+Denny's,,,Denny's,44003,,,,,,-71.54757112073226,41.66089882390436,restaurant,american,65582819,6,1705462262,american,nan,,family
+Cracker Barrel,,Cracker Barrel Old Country Store,Cracker Barrel,44003,825,Centre of New England Boulevard,Coventry,RI,02816,-71.54646600269787,41.661080127059314,restaurant,american,65582821,6,1705462262,american,nan,,family
+,,,Waterman Grille,44007,4,Richmond Square,Providence,RI,02906,-71.38093832468566,41.82713526133814,restaurant,burger,96685809,3,1703713640,burger,nan,,family
+,,,Narragansett Brewery,44007,271,Tockwotten Street,Providence,RI,02912,-71.3904731575177,41.81853557607338,pub,,130668347,3,1703781084,,nan,,family
+,,,Chapel Grille,44007,3000,Chapel Valley Boulevard,,,02920,-71.45939382396207,41.75663927986558,restaurant,contemporary,137483492,4,1381264001,contemporary,; gapfilled with family,,family
+IHOP,,,IHOP,44003,,,,,,-71.43597582765423,41.73228811667482,restaurant,breakfast;pancake,140415394,5,1705462262,breakfast,nan,pancake,family
+,,,Hibachi,44003,1245,Bald Hill Road,,,,-71.495951415277,41.70676513057273,restaurant,seafood;sushi,140420468,5,1698628238,seafood,nan,sushi,seafood
+McDonald's,,,McDonald's,44003,876,Bald Hill Road,Warwick,RI,02886,-71.4875694035971,41.71485954149601,fast_food,burger,140420491,9,1715255911,burger,nan,,fast_food
+,,,D'Angelo,44003,,,,,,-71.40752410888433,41.7337532043493,fast_food,sandwich,140439915,2,1327335605,sandwich,nan,,fast_food
+Wendy's,,,Wendy's,44003,771,Warwick Avenue,Warwick,RI,02888,-71.40495300294673,41.75487518317722,fast_food,burger,140440135,5,1715689924,burger,nan,,fast_food
+,,,Lemon Grass,44003,,,,,,-71.42399140813345,41.74730464195731,restaurant,,140476828,2,1628642903,,; gapfilled with family,,family
+,,,Martinellis Tuscan Deli and Catering,44003,2914,Post Road,Warwick,RI,02886,-71.45245639066752,41.705511670392156,restaurant,italian,140945768,2,1605813015,italian,nan,,ethnic
+,,,Greenwood Inn,44003,1350,Jefferson Boulevard,Warwick,RI,02886,-71.44823420792551,41.711752666733474,restaurant,american;italian;seafood,140945943,3,1689535385,american,nan,italian,family
+Domino's,,,Domino's,44003,2757,Post Road,Warwick,RI,02886,-71.45069885245195,41.70942306525381,fast_food,pizza,140946009,4,1715210071,pizza,nan,,noemit
+,,,Pams Pizza,44003,2739,Post Road,Warwick,RI,02886,-71.45049804524773,41.70988479377297,restaurant,pizza,140946287,2,1605813015,pizza,nan,,noemit
+,,,Pier Pizza Co,44003,2763,Post Road,Warwick,RI,02886,-71.45076442527213,41.70921770794825,restaurant,pizza,140946381,2,1605813015,pizza,nan,,noemit
+,,,China Sea,44003,,,,,,-71.42781840739394,41.744857171067856,restaurant,chinese,140965252,2,1706818857,chinese,nan,,ethnic
+,,,Cosmic Pizza,44003,,,,,,-71.4244711688261,41.74788887981213,restaurant,pizza,140965599,2,1706818857,pizza,nan,,noemit
+,,,The Islander,44003,2318,West Shore Road,Warwick,RI,02889,-71.40674215795146,41.70254852306522,restaurant,chinese,140972140,3,1576457715,chinese,nan,,ethnic
+,,,Legal Sea Food,44003,2099,Post Road,,,02886,-71.44078445433833,41.72471809402934,restaurant,seafood,141077378,4,1503099462,seafood,nan,,seafood
+,,,Gregg's Restaurant,44003,,,,,,-71.43027461329677,41.743504921432915,restaurant,,141077492,4,1706818857,,; gapfilled with family,,family
+,,,Grid Iron,44003,,,,,,-71.43450546265862,41.737543106090435,pub,,141077493,2,1381177379,,nan,,family
+Wendy's,,,Wendy's,44003,1951,Post Road,Warwick,RI,02886,-71.43859481805454,41.72842597970161,fast_food,burger,141077500,5,1715689924,burger,nan,,fast_food
+Dunkin',,,Dunkin',44003,1678,Post Road,Warwick,RI,02888,-71.43449068218347,41.735562778317224,fast_food,donut;coffee_shop,141077609,8,1715212301,donut,nan,coffee_shop,noemit
+,,,Chelo's,44003,,,,,,-71.44255447385441,41.721542358728286,restaurant,regional,141077764,2,1380560382,regional,nan,,family
+,,,Walt's Roast Beef,44003,,,,,,-71.43655556862534,41.73366224157145,restaurant,,141077867,4,1574647589,,; gapfilled with family,,family
+Burger King,,,Burger King,44003,1748,Post Road,Warwick,RI,02886,-71.43551066224128,41.733667705023024,fast_food,burger,141077910,8,1715691841,burger,nan,,fast_food
+,,,D'Angelo,44003,,,,,,-71.44033028053683,41.7371948456243,fast_food,sandwich,141077948,2,1379449215,sandwich,nan,,fast_food
+McDonald's,,,McDonald's,44003,2390,Warwick Avenue,Warwick,RI,02889,-71.3984069824083,41.71245193483726,fast_food,burger,141083526,8,1715255911,burger,nan,,fast_food
+Burger King,,,Burger King,44003,2615,West Shore Road,Warwick,RI,02889,-71.41635349236977,41.705831405100206,fast_food,burger,141108451,4,1715691841,burger,nan,,fast_food
+Dunkin',,,Dunkin',44003,2677,West Shore Road,Warwick,RI,02889,-71.41941471358497,41.705083252298095,fast_food,donut;coffee_shop,141108781,7,1715212301,donut,nan,coffee_shop,noemit
+,,,The Village,44007,,,,,,-71.40777587458338,41.816887914485115,restaurant,,141567768,3,1578188480,,; gapfilled with family,,family
+,,,Sonia's Near East,44007,,,,,,-71.43444365964508,41.77845266507113,restaurant,,141849688,2,1380502947,,; gapfilled with family,,family
+,,,Pizza Fair,44007,,,,,,-71.42804614237262,41.77779664930747,restaurant,pizza,141850754,4,1514672014,pizza,nan,,noemit
+,,,Tony's Pizza,44007,,,,,,-71.43732199505703,41.772521603735875,restaurant,pizza,141875488,3,1680857138,pizza,nan,,noemit
+,,,Chomp Kitchen & Drinks,44007,117,Ives Street,Providence,RI,02906,-71.39184188842734,41.82155036926994,restaurant,burger,142016977,2,1704564907,burger,nan,,family
+,,,Tallulah's Taqueria,44007,146,Ives Street,Providence,RI,02906,-71.39224192301538,41.82215983073532,restaurant,mexican,142017077,6,1698628283,mexican,nan,,ethnic
+,,,Shogun,44003,,,,,,-71.435287475562,41.7489738464531,restaurant,japanese,142041597,2,1327343597,japanese,nan,,ethnic
+,,,Twin Oaks,44007,100,Sabra Street,Cranston,RI,02910,-71.44126073637187,41.789002121329744,restaurant,,142488614,3,1432267310,,; gapfilled with family,,family
+Dunkin',,,Dunkin',44003,860,Post Road,Warwick,RI,02888,-71.41588044760766,41.75218781927565,fast_food,donut;coffee_shop,142517271,4,1715212301,donut,nan,coffee_shop,noemit
+McDonald's,,,McDonald's,44003,770,Post Road,Warwick,RI,02888,-71.4131439314892,41.75411618291047,fast_food,burger,142517273,11,1715255911,burger,nan,,fast_food
+,,,Iggy's Doughboys and Chowder House,44003,889,Oakland Beach Avenue,Warwick,RI,02889,-71.39801534834905,41.68450224462384,restaurant,fast_food,144465692,5,1681269909,fast_food,; gapfilled with family,,family
+,,,Iggy's Boardwalk,44003,885,Oakland Beach Avenue,Warwick,RI,02889,-71.39824295041694,41.68476486206855,restaurant,american;seafood,144465969,3,1681269909,american,nan,seafood,family
+,,,Top of the Bay,44003,898,Oakland Beach Avenue,,RI,02889,-71.39759857421504,41.68458375850116,restaurant,,144466046,4,1681269909,,; gapfilled with family,,family
+Burger King,,,Burger King,44007,966,Park Avenue,Cranston,RI,02910,-71.44095978848081,41.780874905438495,fast_food,burger,145470076,5,1715691841,burger,nan,,fast_food
+Burger King,,,Burger King,44003,1010,Bald Hill Road,Warwick,RI,02886,-71.48904182895836,41.71158113211228,fast_food,burger,145470077,5,1715691841,burger,nan,,fast_food
+Chili's,,Chili's Grill & Bar,Chili's,44003,,,,,,-71.49216461189023,41.704759597779535,restaurant,tex-mex,145470080,3,1705462262,tex-mex,nan,,family
+Chipotle,,Chipotle Mexican Grill,Chipotle,44003,969,Bald Hill Road,Warwick,RI,02886,-71.48965606821034,41.71230531145448,fast_food,mexican,145470081,5,1715207420,mexican,nan,,fast_food
+Dunkin',,,Dunkin',44003,895,Bald Hill Road,Warwick,RI,02886,-71.48894500732423,41.71411895756662,fast_food,donut;coffee_shop,145470083,7,1715212301,donut,nan,coffee_shop,noemit
+Dunkin',,,Dunkin',44003,699,Bald Hill Road,Warwick,RI,02886,-71.48588943482048,41.719030380243446,fast_food,donut;coffee_shop,145470084,7,1715212301,donut,nan,coffee_shop,noemit
+KFC,,,KFC,44007,,,,,,-71.44528176884018,41.77788812829467,fast_food,chicken,145470085,5,1705462262,chicken,nan,,fast_food
+LongHorn Steakhouse,,,LongHorn Steakhouse,44003,,,,,,-71.47877077786552,41.72493849965814,restaurant,steak_house,145470086,3,1705462262,steak_house,nan,,steak_bbq
+McDonald's,,,McDonald's,44007,1820,Plainfield Pike,Providence County,RI,02921,-71.50020028878264,41.789173022927464,fast_food,burger,145470087,5,1715255911,burger,nan,,fast_food
+McDonald's,,,McDonald's,44007,1099,Reservior Avenue,Cranston,RI,02910,-71.4532890318953,41.77182388311377,fast_food,burger,145470089,7,1715255911,burger,nan,,fast_food
+,,,Olneyville New York System,44007,1012,,,,,-71.45053482059264,41.77363777161814,fast_food,burger,145470090,2,1621270563,burger,nan,,fast_food
+On The Border,,On The Border Mexican Grill & Cantina,On The Border,44003,,,,,,-71.4823199933582,41.72093702650262,restaurant,tex-mex,145470092,4,1705462269,tex-mex,nan,,family
+Panera Bread,,,Panera Bread,44003,1000,Bald Hill Road,Warwick,RI,02886,-71.48864364623768,41.71196746832077,fast_food,sandwich;bakery,145470093,5,1715164482,sandwich,nan,bakery,fast_food
+,,,Avvio,44007,,,,,,-71.4577980041504,41.76177597050177,restaurant,italian,145470095,3,1506832589,italian,nan,,ethnic
+Red Robin,,Red Robin Gourmet Burgers and Brews,Red Robin,44003,,,,,,-71.4790289902308,41.72560460945658,restaurant,burger,145470098,5,1705462269,burger,nan,,family
+,,,Spain,44007,,,,,,-71.45286225065564,41.772364988037474,restaurant,spanish,145470099,1,1326487657,spanish,nan,,ethnic
+Taco Bell,,,Taco Bell,44003,877,Bald Hill Road,Warwick,RI,02886,-71.4886550903524,41.71470260626442,fast_food,tex-mex,145470100,6,1715376073,tex-mex,nan,,fast_food
+Taco Bell,,,Taco Bell,44007,1076,Reservoir Avenue,Cranston,RI,02910,-71.45223285550489,41.77185955203125,fast_food,tex-mex,145470102,5,1715376073,tex-mex,nan,,fast_food
+Wendy's,,,Wendy's,44003,650,Bald Hill Road,Warwick,RI,02886,-71.48395568253824,41.719216893079235,fast_food,burger,145470103,8,1715689924,burger,nan,,fast_food
+,,,Fresco,44007,,,,,,-71.51500605033286,41.78484830110933,restaurant,,145470147,2,1570283685,,; gapfilled with family,,family
+Ninety Nine Restaurant & Pub,,,Ninety Nine Restaurant & Pub,44007,,,,,,-71.47865295417527,41.737745285093794,restaurant,american,145470176,2,1696437137,american,nan,,family
+Dunkin',,,Dunkin',44003,970,Main Street,West Warwick,RI,02893,-71.52296280164717,41.71637499478081,fast_food,donut;coffee_shop,145471295,5,1715212301,donut,nan,coffee_shop,noemit
+,,,RI Homemade Donut,44003,,,,,,-71.50701010010859,41.712810208954565,fast_food,donut,145471296,4,1704733506,donut,nan,,noemit
+McDonald's,,,McDonald's,44007,1481,Broad Street,Providence,RI,02905,-71.40271572339992,41.786387144686124,fast_food,burger,146306546,7,1715255911,burger,nan,,fast_food
+Burger King,,,Burger King,44007,,,,,,-71.45076161251983,41.753121167853756,restaurant,,146580018,4,1702528146,burger,filled from name: burger,,family
+Dunkin',,,Dunkin',44007,860,Elmwood Avenue,Providence,RI,02907,-71.42058563224644,41.78916168210357,fast_food,donut;coffee_shop,147036278,6,1715212301,donut,nan,coffee_shop,noemit
+Applebee's Neighborhood Grill & Bar,,Applebee's Neighborhood Grill & Bar,Applebee's,44003,,,,RI,,-71.50002589056827,41.68761732982117,restaurant,american,147040289,4,1651367780,american,nan,,family
+Denny's,,,Denny's,44003,,,,,,-71.49985122681665,41.68328285222835,restaurant,american,147040291,2,1651367780,american,nan,,family
+KFC,,,KFC,44003,,,,,,-71.50144378724242,41.68745973401565,fast_food,chicken,147040292,3,1701040453,chicken,nan,,fast_food
+McDonald's,,,McDonald's,44003,1000,Division Street,East Greenwich,RI,02818,-71.49567031858773,41.662412643370715,fast_food,burger,147040294,10,1715255911,burger,nan,,fast_food
+,,,Tavern in The Square,44003,1000,Division Street,East Greenwich,RI,02818,-71.49695425261359,41.661853684814304,restaurant,american,147040295,7,1705775684,american,nan,,family
+Texas Roadhouse,,,Texas Roadhouse,44003,,,,,,-71.49749888512629,41.66361823500143,restaurant,steak_house,147040299,4,1705462269,steak_house,nan,,steak_bbq
+Wendy's,,,Wendy's,44003,926,Quaker Lane,East Greenwich,RI,02818,-71.49911283328046,41.67138932122762,fast_food,burger,147040300,2,1715689924,burger,nan,,fast_food
+Carrabba's Italian Grill,,,Carrabba's Italian Grill,44003,,,,,,-71.49200439451724,41.70232200617442,restaurant,italian,147059205,3,1705462269,italian,nan,,ethnic
+Dunkin',,,Dunkin',44003,1016,Centerville Road,Warwick,RI,02886,-71.49690013089845,41.69629808494539,fast_food,donut;coffee_shop,147059220,7,1715212301,donut,nan,coffee_shop,noemit
+Taco Bell,,,Taco Bell,44003,784,Tiogue Avenue,Coventry,RI,02816,-71.56352996823735,41.6815605163489,fast_food,tex-mex,147059239,5,1715376073,tex-mex,nan,,fast_food
+Wendy's,,,Wendy's,44003,2311,New London Turnpike,Coventry,RI,02816,-71.54505354837377,41.66202934902234,fast_food,burger,147059289,6,1715689924,burger,nan,,fast_food
+Chick-fil-A,,,Chick-fil-A,44003,1500,Bald Hill Road,Warwick,RI,02886,-71.4960947660479,41.698513367264994,fast_food,chicken,147059312,7,1710351654,chicken,nan,,fast_food
+McDonald's,,,McDonald's,44009,,,,,,-71.76483937009897,41.35236832204903,fast_food,burger,147155636,5,1715255911,burger,nan,,fast_food
+Dunkin',,,Dunkin',44009,1241,Ten Rod Road,North Kingstown,RI,02852,-71.5012805598202,41.58263830868854,fast_food,donut;coffee_shop,154204743,3,1715212301,donut,nan,coffee_shop,noemit
+,,,Gregg's,44009,,,,,,-71.50145656059156,41.58646798757702,restaurant,,154204744,1,1331322148,,; gapfilled with family,,family
+,,,Campanella's,44007,,,,,,-71.47873306277518,41.74636840809301,restaurant,italian,156504138,1,1332524820,italian,nan,,ethnic
+Texas Roadhouse,,,Texas Roadhouse,44007,99,Garfield Avenue,Cranston,RI,02920,-71.44203022656646,41.79917562465265,restaurant,steak_house,162889327,5,1705462269,steak_house,nan,,steak_bbq
+Burger King,,,Burger King,44007,9,Putnam Pike,Johnston,RI,02919,-71.48800551240045,41.85985565823043,fast_food,burger,163711775,5,1715691841,burger,nan,,fast_food
+Dunkin',,,Dunkin' Donuts,44003,422,Warwick Avenue,Warwick,RI,02888,-71.40466083272797,41.764445800365,fast_food,donut;coffee_shop,170008628,6,1715212301,donut,nan,coffee_shop,noemit
+,,,George's of Galilee,44009,,,,,,-71.51250473709966,41.37650392871377,restaurant,,182057385,1,1348167821,,; gapfilled with family,,family
+,,,Coast Guard House,44009,40,Ocean Road,Narragansett,RI,02882,-71.45534969838204,41.43025635926636,restaurant,american;seafood,184347964,4,1699606784,american,nan,seafood,family
+Dunkin',,,Dunkin',44009,1189,Boston Neck Road,Narragansett,RI,02882,-71.43732070921712,41.4910125732318,fast_food,donut;coffee_shop,184978181,4,1715212301,donut,nan,coffee_shop,noemit
+,,,Kabob and Curry,44007,261,Thayer Street,Providence,RI,02906,-71.40057167562105,41.828914343954544,restaurant,indian,185225909,5,1712629120,indian,nan,,ethnic
+Domino's,,,Domino's,44007,1401,Park Avenue,Cranston,RI,02920,-71.45987109309462,41.783974663391994,fast_food,pizza,186975598,4,1715210071,pizza,nan,,noemit
+,,,Jazzy's,44007,960,Hope Street,Providence,RI,02906,-71.39313275973183,41.85344093624826,restaurant,,193419887,2,1712586560,,; gapfilled with family,,family
+D'Angelo Grilled Sandwiches,,,D'Angelo Grilled Sandwiches,44003,,,,,,-71.52372741700384,41.7057933807404,fast_food,sandwich,216515008,2,1696853209,sandwich,nan,,fast_food
+,,,Ferrucci's New York System,44003,1246,Main Street,West Warwick,RI,,-71.5238890809417,41.70447935461919,restaurant,burger;hot_dog;fish_and_chips;sandwich;american,216515098,2,1696688957,burger,nan,hot_dog,family
+,,,Just Like Mom's Meal Prep,44003,,,,,,-71.5242425241028,41.705557401285844,restaurant,sandwich,216515192,3,1698412062,sandwich,nan,,family
+Dunkin',,,Dunkin',44007,1800,Smith Street,North Providence,RI,02911,-71.47222519951525,41.85426215155499,fast_food,donut;coffee_shop,229188394,8,1715212301,donut,nan,coffee_shop,noemit
+Burger King,,,Burger King,44007,,,,,,-71.53131866452885,41.869770050111775,fast_food,burger,230776596,4,1705462279,burger,nan,,fast_food
+McDonald's,,,McDonald's,44007,445,Putnam Pike,Greenville,RI,02828,-71.53042602528869,41.87117958058929,fast_food,burger,230776597,6,1715255911,burger,nan,,fast_food
+Applebee's Neighborhood Grill & Bar,,Applebee's Neighborhood Grill & Bar,Applebee's,44007,,Putnam Pike,Smithfield,RI,,-71.53315734862407,41.86979866018932,restaurant,american,230776598,7,1705462279,american,nan,,family
+A&W,,,A&W,44007,,,,,,-71.53484853108627,41.86975606284397,fast_food,burger,230776682,4,1705462279,burger,nan,,fast_food
+,,,OV's,44007,,,,,,-71.53125381469948,41.86916923523488,restaurant,,230776899,3,1564082223,,; gapfilled with family,,family
+Papa Gino's,,,Papa Gino's,44007,400,PUTNAM PIKE,,,02917,-71.52868295569729,41.86964513593477,restaurant,pizza,230777399,3,1705462279,pizza,nan,,noemit
+,,,Ho-Ho Chinese Restaurant,44007,,,,,,-71.52779006957465,41.870716094941486,restaurant,,230777844,3,1550948865,chinese,filled from name: chinese,,ethnic
+KFC,,,KFC,44007,,,,,,-71.52733422955431,41.8706256833117,fast_food,chicken,230777848,5,1705462279,chicken,nan,,fast_food
+McDonald's,,,McDonald's,44007,1920,Mineral Spring Avenue,North Providence,RI,02904,-71.46932317613184,41.85984440150838,fast_food,burger,230848253,6,1715255911,burger,nan,,fast_food
+,,,Pizza Marvin,44007,,,,,,-71.39381182987334,41.82044304211992,restaurant,pizza,231960678,2,1658974217,pizza,nan,,noemit
+,,,Al Forno,44007,577,South Water Street,Providence,RI,02906,-71.400630950854,41.81727600098785,restaurant,italian,232067506,2,1468849389,italian,nan,,ethnic
+,,,Tel Aviv,44007,,,,,,-71.40188214286103,41.81744256545383,restaurant,,232067507,2,1468849389,,; gapfilled with family,,family
+,,,Whiskey Republic,44007,,,,,,-71.40232516795928,41.81803960379509,restaurant,american,232067508,2,1468849389,american,nan,,family
+Unos,,,Unos,44007,,,,,,-71.52130105298582,41.871136560810385,restaurant,pizza,233329543,3,1705462279,pizza,nan,,noemit
+Chili's,,Chili's Grill & Bar,Chili's,44007,,,,,,-71.52070617675993,41.87195205692604,restaurant,tex-mex,233329550,3,1705462279,tex-mex,nan,,family
+McDonald's,Golden Arch Enterprise,,McDonald's,44007,285,Armistice Boulevard,Pawtucket,RI,02861,-71.36460818520435,41.88021948774683,fast_food,burger,234638157,11,1715255911,burger,nan,,fast_food
+Popeyes,,Popeyes Louisiana Kitchen,Popeyes,44007,77,Reservoir Avenue,Providence,RI,02907,-71.42705001926632,41.79438574858902,fast_food,chicken,234707152,4,1705462279,chicken,nan,,fast_food
+Dunkin',,,Dunkin',44007,,,,,,-71.37820732901764,41.89003411992954,fast_food,donut;coffee_shop,235329322,5,1715212301,donut,nan,coffee_shop,noemit
+KFC,,,KFC,44003,,,,,,-71.43487297407648,41.732927521182525,fast_food,chicken,238371155,5,1705462279,chicken,nan,,fast_food
+,,,All Stars Bar & Grill,44003,685,Airport Road,Warwick,RI,02886,-71.43241645591785,41.733000515563866,restaurant,,238371164,4,1698628241,grill,filled from name: grill,,family
+Dunkin',,,Dunkin' Donuts,44003,1719,Elmwood Avenue,Warwick,RI,02888,-71.42536203872342,41.76070490667166,fast_food,donut;coffee_shop,238372352,8,1715212301,donut,nan,coffee_shop,noemit
+Popeyes,,Popeyes Louisiana Kitchen,Popeyes,44003,1000,Bald Hill Road,,,,-71.48849105833519,41.71274375918152,fast_food,chicken,241116999,3,1698628207,chicken,nan,,fast_food
+,,,Raymond Hall,44007,,,,,,-71.43432272162738,41.84426754930039,restaurant,american,241333609,3,1486058853,american,nan,,family
+Papa Gino's,,,Papa Gino's,44003,,,,,,-71.50028610229889,41.67401504522555,restaurant,pizza,242260851,3,1704199761,pizza,nan,,noemit
+,,,Dels,44007,,,,,,-71.47746210375661,41.735066547114265,fast_food,,242261382,1,1381862122,,nan,,fast_food
+Dunkin',,,Dunkin',44007,1288,Oaklawn Avenue,Cranston,RI,02920,-71.47709489795847,41.734470629287486,fast_food,donut;coffee_shop,242261389,8,1715212301,donut,nan,coffee_shop,noemit
+Chuck E. Cheese,,,Chuck E. Cheese,44003,650,Bald Hill Road,Warwick,RI,02886,-71.48362694923541,41.71974023220458,restaurant,pizza,244178106,8,1709558358,pizza,nan,,noemit
+Ninety Nine Restaurant & Pub,,,Ninety Nine Restaurant & Pub,44009,,,,,,-71.80917230905804,41.35650430621613,restaurant,american,248486994,3,1642564057,american,nan,,family
+,,,Baja's Taqueria,44007,223,Thayer Street,Providence,,02906,-71.40039357344554,41.82780142850702,restaurant,mexican,267416918,6,1713777264,mexican,nan,,ethnic
+Dunkin',,,Dunkin',44007,1,South Main Street,Pascoag,RI,02859,-71.70272827147981,41.95550346374951,fast_food,donut;coffee_shop,271055158,7,1715212301,donut,nan,coffee_shop,noemit
+,,,West Valley Inn,44003,,,,,,-71.49818534047512,41.715079472078635,restaurant,,272513567,1,1396839853,,; gapfilled with family,,family
+,,,West Valley Inn,44003,,,,,,-71.49687090485337,41.714588516589295,restaurant,,272513568,1,1396839853,,; gapfilled with family,,family
+,,,Windjammer,44009,,,,,,-71.79427501117387,41.32441930079865,restaurant,,296687154,2,1446045161,,; gapfilled with family,,family
+McDonald's,,,McDonald's,44007,649,North Main Street,Providence,RI,02904,-71.40879066165076,41.838144202284866,fast_food,burger,302955628,8,1715255911,burger,nan,,fast_food
+,,,Dunkin' Donuts,44007,,Chopmist Hill Road,North Scituate,RI,02857,-71.67121640104725,41.826090254079,restaurant,coffee,307902635,6,1626214079,coffee,nan,,noemit
+,,,Chelos Restaurant,44003,1,Masthead Drive,Warwick,,02886,-71.44962403253516,41.68515967907849,restaurant,american,307902876,2,1432268749,american,nan,,family
+Dunkin',,,Dunkin',44003,88,West Warwick Avenue,West Warwick,RI,02893,-71.52328670171536,41.696513752884854,fast_food,donut;coffee_shop,308888442,4,1715212301,donut,nan,coffee_shop,noemit
+Subway,,,Subway,44003,,,,,,-71.50049239354816,41.71130847254165,fast_food,sandwich,313828305,8,1708985444,sandwich,nan,,fast_food
+McDonald's,,,McDonald's,44003,2500,New London Turnpike,East Greenwich,RI,02818,-71.54484550783107,41.66095672482445,fast_food,burger,313879410,9,1715255911,burger,nan,,fast_food
+,,,Moon House,44007,741,Oaklawn Avenue,Cranston,RI,02920,-71.4774687864727,41.752724902457274,restaurant,chinese,313908301,1,1416621544,chinese,nan,,ethnic
+Dunkin',,,Dunkin',44007,51,Manton Avenue,Providence,RI,02909,-71.44414112504582,41.81799562547545,fast_food,donut;coffee_shop,314290754,4,1715212301,donut,nan,coffee_shop,noemit
+Burger King,,,Burger King,44007,60,Hartford Avenue,Providence,RI,02909,-71.4452764321053,41.816550512360976,fast_food,burger,314290759,4,1715691841,burger,nan,,fast_food
+Dunkin',,,Dunkin',44007,133,Gano Street,Providence,RI,02906,-71.38980277560009,41.823060522134355,fast_food,donut;coffee_shop,327160687,5,1715212301,donut,nan,coffee_shop,noemit
+McDonald's,,,McDonald's,44007,12,Eddie Dowling Highway,North Smithfield,RI,02896,-71.51448025175162,41.98277575873072,fast_food,burger,331012778,7,1715255911,burger,nan,,fast_food
+,,,Pho Saigon and Bar,44007,,,,,,-71.4483956884142,41.75350985753919,restaurant,,332023794,2,1622047577,pho,filled from name: pho,,noemit
+,,,,44007,,,,,,-71.45970498266414,41.98068520404874,restaurant,,341232566,1,1430237694,,; gapfilled with family,,family
+Dunkin',,,Dunkin',44007,900,Cranston Street,Cranston,RI,02920,-71.44367980950567,41.80207633976956,fast_food,donut;coffee_shop,341283526,7,1715212301,donut,nan,coffee_shop,noemit
+McDonald's,,,McDonald's,44007,923,Cranston Street,Cranston,RI,02910,-71.44591903669462,41.801877975511616,fast_food,burger,341283528,10,1715255911,burger,nan,,fast_food
+Wendy's,,,Wendy's,44007,731,Eddy Street,Providence,RI,02903,-71.40759260859772,41.80781680002108,fast_food,burger,342577539,5,1715689924,burger,nan,,fast_food
+,,,Walt's Roast Beef,44007,680,Reservoir Avenue,Cranston,RI,02910,-71.44137471389122,41.780649049068,fast_food,burger,346699411,2,1631645414,burger,nan,,fast_food
+Dunkin',,,Dunkin',44007,1111,Park Avenue,Cranston,RI,02910,-71.44708474913973,41.783117564293065,fast_food,donut;coffee_shop,346937410,4,1715212301,donut,nan,coffee_shop,noemit
+,,,Ichiban,44007,146,Gansett Avenue,Cranston,RI,02910,-71.4512100219789,41.786073684723895,restaurant,japanese;korean,346937412,2,1668119550,japanese,nan,korean,ethnic
+,,,Christopher's Kitchen And Bar,44007,2,South Main Street,Woonsocket,RI,02895,-71.5161124157382,41.99993519532963,restaurant,,352102129,2,1633622885,,; gapfilled with family,,family
+,,,Ciro's Tavern,44007,42,,,,,-71.51326307127965,42.00455149293614,pub,,352102140,2,1633544936,,nan,,family
+,,,Miku Sushi,44001,306,County Road,Barrington,RI,02806,-71.31052841980848,41.741569506919646,restaurant,asian,353680219,2,1549639016,asian,nan,,ethnic
+,,,The Daily Scoop,44001,230,County Road,Barrington,RI,02806,-71.30583558136028,41.73809206616831,restaurant,,353680220,1,1434307785,,; gapfilled with family,,family
+Domino's,,,Domino's,44003,2247,Warwick Avenue,Warwick,RI,02889,-71.40017940257604,41.715990218027855,fast_food,pizza,364213098,4,1715210071,pizza,nan,,noemit
+,,,Flo's Clam Shack,44005,4,Wave Avenue,Newport,RI,02842,-71.28488789623208,41.4900622923294,restaurant,seafood,371974624,2,1699512292,seafood,nan,,seafood
+,,,Atlantic Beach Club,44005,55,Purgatory Road,Newport,RI,02842,-71.28473934167313,41.489486210597036,restaurant,seafood,371974626,1,1442961960,seafood,nan,,seafood
+,,,Bouchard Restaurant and Inn,44005,505,Thames Street,Newport,RI,02840,-71.31442452268404,41.47926611677024,restaurant,french,372281811,1,1443135243,french,nan,,ethnic
+,,,Billy's,44001,286,Maple Avenue,Barrington,RI,02806,-71.31680698808547,41.73859292655131,restaurant,,375565426,1,1445011127,,; gapfilled with family,,family
+McDonald's,,,McDonald's,44007,1900,Diamond Hill Road,Woonsocket,RI,02895,-71.47132698416914,42.01545494475001,fast_food,burger,376885748,5,1715255911,burger,nan,,fast_food
+,,,Chelo's,44007,,,,,,-71.45817239021966,41.76698766895799,restaurant,,376992895,1,1445871460,,; gapfilled with family,,family
+,,,Honey Dew Donuts,44007,,,,,,-71.45673857315731,41.78387146186341,restaurant,,376992902,1,1445871460,donut,filled from name: donut,,noemit
+,,,Dunkin' Donuts,44007,,,,,,-71.41042124747406,41.77218101574455,restaurant,,376995099,1,1445872362,donut,filled from name: donut,,noemit
+Dunkin',,,Dunkin',44009,164,Granite Street,Westerly,RI,02891,-71.8186683655312,41.367904663157255,fast_food,donut;coffee_shop,377307896,7,1715212301,donut,nan,coffee_shop,noemit
+,,,Pick Pockets,44009,,,,,,-71.81886739490137,41.368273517969406,restaurant,greek,377307897,1,1446045891,greek,nan,,ethnic
+,,,Chen's,44009,,,,,,-71.81897448483028,41.36853838870699,restaurant,chinese,377307898,2,1513871986,chinese,nan,,ethnic
+,,,Supreme Pizza,44009,,,,,,-71.81975173947752,41.368442535416904,restaurant,,377307899,1,1446045891,pizza,filled from name: pizza,,noemit
+Subway,,,Subway,44007,749,Mineral Spring Avenue,Pawtucket,RI,02860,-71.41313986110738,41.871695304191725,fast_food,sandwich,377308500,5,1708985446,sandwich,nan,,fast_food
+,,,Ella's,44009,,,,,,-71.82037996751362,41.374259512475916,restaurant,,377308651,1,1446046369,,; gapfilled with family,,family
+D'Angelo Grilled Sandwiches,,,D'Angelo Grilled Sandwiches,44009,,,,,,-71.8210062908024,41.37369975719919,fast_food,sandwich,377308652,2,1695750641,sandwich,nan,,fast_food
+Domino's,,,Domino's,44009,93,Granite Street,Westerly,RI,02891,-71.82082624280831,41.37315147774537,fast_food,pizza,377309092,5,1715210071,pizza,nan,,noemit
+,,,Efendis,44007,,,,,,-71.47207482420376,41.780362561040434,restaurant,,377986755,1,1446478741,,; gapfilled with family,,family
+,,,PVD Pizza,44003,49,Providence Street,west warwick,,,-71.5198899926679,41.7098423309101,restaurant,pizza,378568072,3,1698628417,pizza,nan,,noemit
+,,,La Castita,44003,53,Providence Street,,,,-71.52036051668561,41.71033325637183,restaurant,dominican;spanish;mexican,378568073,6,1698244127,dominican,nan,spanish,ethnic
+,,,,44007,,,,,,-71.42607095801866,41.82035179757537,restaurant,asian,379396090,3,1545343487,asian,nan,,ethnic
+Dunkin',,,Dunkin',44007,750,Mineral Spring Avenue,Pawtucket,RI,02860,-71.41334751225007,41.87109191173796,fast_food,donut;coffee_shop,380342051,7,1715212301,donut,nan,coffee_shop,noemit
+Papa John's,,,Papa John's,44007,376,smithfield Avenue,Pawtucket,RI,02860,-71.41324996947729,41.8708820343153,fast_food,pizza,380342115,4,1715569699,pizza,nan,,noemit
+,,,Double Dragon,44007,381,Smithfield Avenue,Pawtucket,RI,02860,-71.41330239023978,41.870991738211124,restaurant,chinese,380342238,1,1447566675,chinese,nan,,ethnic
+,,,Dave's Bar and Grill,44003,,,,,,-71.4438591001893,41.71861839305953,restaurant,,384027973,1,1449078254,grill,filled from name: grill,,family
+,,,New Island Restaurant & Bar,44003,3301,Post Road,Warwick,RI,02886,-71.45921037925676,41.69894873834085,restaurant,chinese,385779501,2,1622051936,chinese,nan,,ethnic
+Dunkin',,,Dunkin',44003,1346,Greenwich Avenue,Warwick,RI,02886,-71.45995585123545,41.70005162558458,fast_food,donut;coffee_shop,385779516,7,1715212301,donut,nan,coffee_shop,noemit
+Dunkin',,,Dunkin',44009,26,Kingstown Road,Richmond,RI,02898,-71.68616084182916,41.511248322386514,fast_food,donut;coffee_shop,397224944,6,1715212301,donut,nan,coffee_shop,noemit
+McDonald's,,,McDonald's,44009,14,Kingston Road,Wyoming,RI,02898,-71.68826499616993,41.51229934265286,fast_food,burger,397224947,5,1715255911,burger,nan,,fast_food
+Dunkin',,,Dunkin',44003,49,Nooseneck Hill Road,West Greenwich,RI,02817,-71.60465240478965,41.65645980835871,fast_food,donut;coffee_shop,397245271,3,1715212301,donut,nan,coffee_shop,noemit
+Wendy's,,,Wendy's,44005,62,Valley Road,Middletown,RI,02842,-71.29254923244233,41.518784245853624,fast_food,burger,410236155,5,1715689924,burger,nan,,fast_food
+Applebee's Neighborhood Grill & Bar,,Applebee's Neighborhood Grill & Bar,Applebee's,44005,349,West Main Road,,RI,,-71.30072088375661,41.514868245366145,restaurant,american,410261501,8,1711311673,american,nan,,family
+Dunkin',,,Dunkin',44005,536,East Main Road,Middletown,RI,02842,-71.28267959779635,41.522461730286295,fast_food,donut;coffee_shop,410261507,5,1715212301,donut,nan,coffee_shop,noemit
+,,,Mizu Steakhouse,44005,,,,,,-71.29254776081727,41.51964005783635,restaurant,,410261512,3,1609270940,steak,filled from name: steak,,steak_bbq
+McDonald's,,,McDonald's,44005,288,East Main Road,Middletown,RI,02842,-71.29128265386645,41.51996421819039,fast_food,burger,410261522,6,1715255911,burger,nan,,fast_food
+Burger King,,,Burger King,44005,569,West Main Road,Middletown,RI,02842,-71.29950563204454,41.51858844214251,fast_food,burger,411916104,5,1715691841,burger,nan,,fast_food
+Chili's,,Chili's Grill & Bar,Chili's,44005,,,,,,-71.29696690374436,41.52568547909984,restaurant,tex-mex,411916106,3,1705462279,tex-mex,nan,,family
+Domino's,,,Domino's,44005,19,West Main Road,Newport,RI,02840,-71.30115343174454,41.506138879869454,fast_food,pizza,411916107,5,1715210071,pizza,nan,,noemit
+Dunkin',,,Dunkin' Donuts,44005,,,,,,-71.29737472529406,41.52472877509333,fast_food,donut;coffee_shop,411916108,2,1715212301,donut,nan,coffee_shop,noemit
+,,,Tito's Cantina Mexican Bar & Grill,44005,651,West Main Road,Middletown,RI,02842,-71.29907585336012,41.52034095109639,restaurant,mexican,411916116,6,1711324439,mexican,nan,,ethnic
+KFC,,,KFC,44005,,,,,,-71.29153218240019,41.537010386884084,fast_food,chicken,411916123,2,1701915412,chicken,nan,,fast_food
+,,,Blue Plate Diner,44005,665,West Main Road,Middletown,RI,02842,-71.29890650018004,41.520780453109964,restaurant,american,411916124,4,1711324439,american,nan,,family
+IHOP,,,IHOP,44005,,,,,,-71.30159580140014,41.5100723931086,restaurant,breakfast;pancake,411916146,6,1698936057,breakfast,nan,pancake,family
+McDonald's,,,McDonald's,44005,1425,West Main Road,Middletown,RI,02842,-71.29116869842429,41.53793064819656,fast_food,burger,411916149,5,1715255911,burger,nan,,fast_food
+Taco Bell,,,Taco Bell,44005,641,West Main Road,Middletown,RI,02842,-71.29908531430199,41.520069394820084,fast_food,tex-mex,411916234,5,1715376073,tex-mex,nan,,fast_food
+,,,Governor Francis Inn,44003,,,,,,-71.40815160395191,41.742349560603756,restaurant,,414199310,1,1461856214,,; gapfilled with family,,family
+,,,Rigatoni's,44003,,,,,,-71.40800362362239,41.74295206022861,restaurant,italian,414199311,1,1461856214,italian,nan,,ethnic
+Dunkin',,,Dunkin',44003,111,Hopkins Hill Road,West Greenwich,RI,02817,-71.57767824271296,41.654886535932455,fast_food,donut;coffee_shop,419744818,5,1715212301,donut,nan,coffee_shop,noemit
+Denny's,,,Denny's,44007,1177,Reservoir Avenue,Cranston,RI,02920,-71.455427915208,41.76955733478405,restaurant,american,419773147,5,1705462279,american,nan,,family
+KFC,,,KFC,44007,,,,,,-71.44433975219206,41.778656005881636,fast_food,chicken,419773151,4,1705462279,chicken,nan,,fast_food
+,,,New China,44007,,,,,,-71.4052109140089,41.78989757403574,restaurant,,419818383,2,1570720001,chinese,filled from name: china,,ethnic
+Wendy's,,,Wendy's,44007,,,,,,-71.40687976107596,41.80499433773466,fast_food,burger,425694038,4,1705462279,burger,nan,,fast_food
+,,,The Hot Club,44007,575,South Water Street,Providence,RI,02906,-71.40177705611886,41.81726220555727,restaurant,,431683526,2,1468849389,,; gapfilled with family,,family
+,,,,44007,,,,,,-71.40167747844433,41.817053014236,restaurant,,431684523,1,1468849388,,; gapfilled with family,,family
+,,,Twisted Pizza,44003,,,,,,-71.49506378172259,41.715887069715215,restaurant,pizza,431743133,2,1696769627,pizza,nan,,noemit
+,,,Frenchy's Countryside Creamery,44007,1105,Scituate Avenue,Cranston,RI,,-71.51277174786489,41.78172751936221,restaurant,ice_cream,431777992,3,1682365762,ice_cream,nan,,noemit
+,,,Fu Ming,44003,,,,,,-71.50099716332703,41.711860837386276,restaurant,chinese,432636872,2,1698074201,chinese,nan,,ethnic
+,,,The Pizza Nomad,44003,,,,,,-71.50683521597207,41.71242006930557,restaurant,pizza;burger;salad;coffee_shop;calzones;grilled;flats;grinders;hot_weiners;wings;pasta,432636905,2,1704733506,pizza,nan,burger,family
+Dunkin',,,Dunkin',44003,341,Providence Street,Warwick,RI,02886,-71.50105014351618,41.71120620962905,fast_food,donut;coffee_shop,432636964,4,1715212301,donut,nan,coffee_shop,noemit
+,,,O'Rourkes Bar & Grill,44003,,,,,,-71.39016066452916,41.76387323247118,restaurant,,440390151,3,1667594552,grill,filled from name: grill,,family
+,,,Pizza J,44007,,,,,,-71.42444134186161,41.81758138358804,restaurant,pizza,445935749,2,1510533883,pizza,nan,,noemit
+,,,Loie Fullers,44007,,,,,,-71.4336166381757,41.816514968873655,restaurant,,445937549,1,1475679552,,; gapfilled with family,,family
+,,,Sullivans Pub,44007,,,,,,-71.35224042623315,41.87825938632478,pub,,445942851,1,1475681212,pub,filled from name: pub,,family
+,,,Arigna Irish Bar,44007,,,,,,-71.35500182809432,41.87834973840102,pub,,445942853,1,1475681212,irish,filled from name: irish,,ethnic
+,,,Ye Express,44003,1117,Main Street,,,,-71.52271270753265,41.70851135258088,restaurant,chinese;japanese;sushi,446611702,2,1696690381,chinese,nan,japanese,ethnic
+Domino's,,,Domino's,44003,957,Main Street,West Warwick,RI,02893,-71.52381134032139,41.7162895202978,fast_food,pizza,447085516,5,1715210071,pizza,nan,,noemit
+,,,,44007,,,,,,-71.53511237506551,41.87659102938967,restaurant,,452936823,2,1479012613,,; gapfilled with family,,family
+Dunkin',,,Dunkin' Donuts,44007,629,George Washington Highway,Lincoln,RI,02865,-71.47717865702523,41.93465964827319,fast_food,donut;coffee_shop,456280089,5,1715212301,donut,nan,coffee_shop,noemit
+McDonald's,,,McDonald's,44007,622,Geroge Washington Highway,Lincoln,RI,02865,-71.47488021850586,41.93609046931301,fast_food,burger,456280095,5,1715255911,burger,nan,,fast_food
+Chili's,,Chili's Grill & Bar,Chili's,44007,,,,,,-71.47838019519689,41.9357143193249,restaurant,tex-mex,456280097,3,1705462283,tex-mex,nan,,family
+Dunkin',,,Dunkin' Donuts,44007,970,Douglas Pike,Smithfield,RI,02917,-71.52055412107245,41.91593465035788,fast_food,donut;coffee_shop,456280139,5,1715212301,donut,nan,coffee_shop,noemit
+,,,Doherty's Ale House,44003,,,,,,-71.43503700997557,41.753539729445926,pub,,459391932,1,1481643993,,nan,,family
+,,,Honey Dew Donuts,44003,,,,,,-71.44230238579536,41.729805776533546,restaurant,,459391953,1,1481643994,donut,filled from name: donut,,noemit
+,,,El Marinero,44003,,,,,,-71.44305127430171,41.72996638694919,restaurant,,459392004,2,1702526026,,; gapfilled with family,,family
+Dunkin',,,Dunkin' Donuts,44007,1018,Putnam Pike,Chepachet,RI,02814,-71.66074371341703,41.906257629388776,fast_food,donut;coffee_shop,461364153,6,1715212301,donut,nan,coffee_shop,noemit
+,,,Tavern on Main,44007,,,,,,-71.66909047647293,41.913176408036826,restaurant,,461365270,1,1482498389,,; gapfilled with family,,family
+,,,Olga's,44007,,,,,,-71.40769475243835,41.816650187449504,restaurant,,469321643,3,1578188480,,; gapfilled with family,,family
+,,,Xaco Taco,44007,370,Richmond Street,,,02903,-71.40744545307582,41.81713215847251,restaurant,mexican,469321647,4,1703363434,mexican,nan,,ethnic
+,,,Brickley's Ice Cream,44009,322,Main Street,Wakefield,RI,02879,-71.49878311154869,41.43871307374248,restaurant,ice_cream,473378556,1,1486571422,ice_cream,nan,,noemit
+,,,Mews Tavern,44009,456,Main Street,Wakefield,RI,02879,-71.50253035682526,41.43610909336009,pub,american,473382748,2,1629164588,american,nan,,family
+,,,Dan's Place,44003,,,,,,-71.6613424362083,41.60787685460001,restaurant,american,483511703,2,1648422928,american,nan,,family
+Burger King,,,Burger King,44007,280,Broad Street,Providence,RI,02907,-71.42020317547889,41.814946804438584,fast_food,burger,488287974,5,1715691841,burger,nan,,fast_food
+,,,Snoopy's Diner,44009,4001,Quaker Lane,North Kingstown,RI,02852,-71.50135803223436,41.58959770203447,restaurant,,488998994,2,1555449105,diner,filled from name: diner,,family
+,,,Allie's Donuts,44009,3661,Quaker Lane,North Kingstown,RI,02852,-71.49683269046346,41.59827673482693,restaurant,donut,489000145,2,1555449105,donut,nan,,noemit
+,,,Richard's Pub and Restaurant,44003,3347,South County Trail,East Greenwich,RI,02818,-71.49483606371119,41.60584491712991,restaurant,,489001437,2,1512740518,pub,filled from name: pub,,family
+,,,Dells Lemonade,44009,6525,Post Road,North Kingstown,RI,02852,-71.45858045664288,41.62015052293458,restaurant,,489005283,1,1493016150,,; gapfilled with family,,family
+,,,Walt's Roast Beef,44009,6660,Post Road,North Kingston,RI,02852,-71.45738220214848,41.61654090882898,restaurant,,489007130,2,1577378155,,; gapfilled with family,,family
+KFC,,,KFC,44009,,,,,,-71.45727989143403,41.61376086819215,fast_food,chicken,489007132,4,1705462283,chicken,nan,,fast_food
+Dunkin',,,Dunkin',44009,6923,Post Road,North Kingstown,RI,02852,-71.45676422119936,41.60908699037925,fast_food,donut;coffee_shop,489007137,5,1715212301,donut,nan,coffee_shop,noemit
+,,,Four Brothers Pizza,44009,,,,,,-71.45694214399107,41.60948104464814,restaurant,,489007139,2,1512837757,pizza,filled from name: pizza,,noemit
+,,,West Side Diner,44007,380,,,,,-71.43201111622213,41.816351731508334,restaurant,,489667376,4,1683594205,diner,filled from name: diner,,family
+,,,Seaplane Diner,44007,307,Allens Avenue,Providence,RI,02905,-71.40243825038543,41.80473367353054,restaurant,diner,496976862,1,1496171118,diner,nan,,family
+,,,Jason's Restaurant & Sushi Bar,44003,5647,Post Road,East Greenwich,RI,02818,-71.46745808919276,41.64213434857845,restaurant,sushi;asian,507781333,1,1500127812,sushi,nan,asian,ethnic
+,,,End Zone Pub and Grille,44003,5835,Post Road,East Greenwich,RI,02818,-71.46878644663362,41.636650366418635,restaurant,american;bar,507795933,4,1619534525,american,nan,bar,family
+,,,Post Office Cafe,44003,11,Main Street,East Greenwich,RI,02818,-71.45042035207226,41.66367883053706,restaurant,,510865907,4,1596126684,cafe,filled from name: cafe,,family
+,,,Jigger's Diner,44003,145,Main Street,East Greenwich,RI,02818,-71.45027925169012,41.661902307925914,restaurant,diner;brunch,510865923,5,1698628321,diner,nan,brunch,family
+,,,Rasa,44003,149,Main Street,East Greenwich,RI,02818,-71.45026592442366,41.66183297414308,restaurant,indian,510865924,4,1698628452,indian,nan,,ethnic
+,,,The Waysider Grille,44003,5702,Post Road,East Greenwich,RI,02818,-71.4682529043851,41.64045407559427,restaurant,bar;burger,510895503,3,1699610378,bar,nan,burger,family
+,,,Victor's Kitchen & Pizzeria,44003,5641,Post Road,East Greenwich,RI,02818,-71.46727371214965,41.64221191407133,restaurant,pizza,510895511,6,1619534525,pizza,nan,,noemit
+,,,Ed's Roost,44003,357,Main Street,East Greenwich,RI,02818,-71.4503936767458,41.65896606447646,restaurant,brunch,511109041,4,1514431924,brunch,; gapfilled with family,,family
+,,,Frank & John from Italy,44003,186,Main Street,East Greenwich,RI,02818,-71.44968275229836,41.661355209629306,restaurant,italian,511376783,7,1597971656,italian,nan,,ethnic
+,,,Tio Mateo's Mexican Grille & Greenwich Bay Gourmet,44003,70,Cliff Street,East Greenwich,RI,02818,-71.45426559452248,41.65597534181063,restaurant,mexican;sandwich,518931119,7,1640216583,mexican,nan,sandwich,ethnic
+,,,Breakfast Nook,44009,6130,Post Road,North Kingstown,RI,02852,-71.46331362009587,41.630134896598975,restaurant,breakfast,519456582,2,1653226725,breakfast,nan,,family
+,,,Nautika Restaurant & Bar,44003,28,Water Street,East Greenwich,RI,02818,-71.44537394278389,41.6619006139421,restaurant,italian;seafood,519671081,2,1521924344,italian,nan,seafood,ethnic
+,,,The Patio on Main,44003,431,Main Street,East Greenwich,RI,02818,-71.45134915801738,41.658266970980684,restaurant,burger;sandwich,519695863,2,1596126684,burger,nan,sandwich,family
+,Castiglioni Restaurant Group,,Meritage,44003,5454,Post Road,East Greenwich,RI,02818,-71.46245947183444,41.64542951840328,restaurant,american,526319717,2,1619534525,american,nan,,family
+,,,Sa-Tang,44009,402,Main Street,Wakefield,RI,02879,-71.50085841401251,41.437053073517355,restaurant,thai;asian,526855540,2,1605322421,thai,nan,asian,ethnic
+,,,Bess Eaton,44009,621,Kingstown Road,Wakefield,RI,02879,-71.48773606458084,41.44115641432939,restaurant,coffee;sandwich,526857351,4,1668119550,coffee,nan,sandwich,family
+,,,Fillipou's Twisted Pizzeria and Restaurant,44003,450,Main Street,East Greenwich,RI,02818,-71.45108426031923,41.657676059775916,restaurant,pizza,530120459,5,1596421818,pizza,nan,,noemit
+,,,Cap'n Jacks,44009,,Succotash Road,Wakefield,RI,,-71.5254575063877,41.38424536368862,restaurant,seafood,535735410,1,1509046904,seafood,nan,,seafood
+,,,Pagoda Inn,44009,7315,Post Road,North Kingstown,RI,02852,-71.45520754709875,41.59885983059171,restaurant,chinese,538052331,3,1699610349,chinese,nan,,ethnic
+,,,The Parlour (Formerly Cafe 200),44005,200,Broadway,Newport,RI,02840,-71.3090728968402,41.49534835540642,restaurant,,538867485,4,1698687199,cafe,filled from name: cafe,,family
+,,,Pal's Restaurant,44003,43,Division Street,East Greenwich,RI,02818,-71.44809006999616,41.66389683392703,restaurant,american;italian,539322897,4,1695842560,american,nan,italian,family
+,,,Bayberry Beer Hall,44007,381,West Fountain Street,Providence,RI,,-71.42218606433204,41.8192285316191,restaurant,,539997555,3,1698628276,,; gapfilled with family,,family
+,,,Oak Hill Tavern,44009,565,Tower Hill Road,North Kingstown,RI,02852,-71.46518643563712,41.55986085686042,restaurant,american,544009903,2,1550593931,american,nan,,family
+,,,The Shanty,44003,3854,Post Road,Warwick,RI,02886,-71.45311883710308,41.685399874601934,restaurant,american,544212085,3,1698628372,american,nan,,family
+,,,Beacon Diner,44003,2944,South County Trail,East Greenwich,RI,02818,-71.49102040830003,41.61596403779371,restaurant,american,544883589,3,1534888507,american,nan,,family
+,,,Ronzio's Pizza,44003,1013,Main Street,,,,-71.5239944457997,41.714454650892804,restaurant,pizza;sandwich,545272561,6,1714565217,pizza,nan,sandwich,family
+,,,,44009,7385,Post Road,North Kingstown,RI,02852,-71.45583225724316,41.597096163418385,restaurant,,545589123,2,1512833750,,; gapfilled with family,,family
+,,,Ney Hall,44005,,,,,,-71.32623964465995,41.52106056205409,restaurant,,548021861,2,1673651205,,; gapfilled with family,,family
+,,,Providence Coal Fire Pizza,44009,,,,,,-71.81873085229198,41.36813532983824,restaurant,,548383511,1,1513871983,pizza,filled from name: pizza,,noemit
+McDonald's,,,McDonald's,44009,,,,,,-71.82050531569733,41.3703253944933,fast_food,burger,548383514,5,1707261634,burger,nan,,fast_food
+Dunkin',,,Dunkin',44009,139,Granite Street,Westerly,RI,02891,-71.82044444345826,41.36988847122248,fast_food,donut;coffee_shop,548383515,8,1715212301,donut,nan,coffee_shop,noemit
+Dunkin',,,Dunkin' Donuts,44001,258,County Road,Barrington,RI,02806,-71.30718231197271,41.73893928529209,fast_food,donut;coffee_shop,548566709,5,1715212301,donut,nan,coffee_shop,noemit
+,,,Modern Diner,44007,364,East Avenue,Pawtucket,RI,02860,-71.38689983026175,41.86883082475187,restaurant,,549972024,3,1714265920,diner,filled from name: diner,,family
+,,,Kimberly's,44009,238,Ocean Avenue,Block Island,RI,,-71.56302992395135,41.1741551418625,restaurant,,555526327,3,1699451634,,; gapfilled with family,,family
+,,,Tigerfish,44009,126,Corn Neck Road,Block Island,RI,,-71.56194192834002,41.17446998662728,restaurant,,555526338,3,1699451633,fish,filled from name: fish,,seafood
+,,,Poor People's Pub,44009,33,Ocean Avenue,Block Island,RI,,-71.56290075754974,41.173733814794765,pub,,555526347,4,1699451632,pub,filled from name: pub,,family
+,,,The Beachead,44009,,,,,,-71.56239832884454,41.1757376504799,restaurant,fish,555526361,2,1660419286,fish,nan,,seafood
+,,,Aunt Carrie's,44009,1240,Ocean Road,Narragansett,RI,02882,-71.48499413203925,41.372856623127184,restaurant,,555543861,2,1600897668,,; gapfilled with family,,family
+,,,Aunt Carrie's Ice Cream,44009,,,Narragansett,RI,,-71.48510795931713,41.373262088973334,restaurant,,555543868,1,1516828947,,; gapfilled with family,,family
+,,,Bon Vue,44009,1230,Old Ocean Road,Narragansett,RI,02882,-71.48430162803587,41.37312203671371,restaurant,,555543874,3,1577673262,,; gapfilled with family,,family
+,,,Iggy's Doughboys & Chowder House,44009,1151,Point Judith Road,Narragansett,RI,,-71.48676913207218,41.37306911378199,restaurant,,555543877,1,1516828947,,; gapfilled with family,,family
+,,,Meldgie's Diner,44009,909,Boston Neck Rd,Narragansett,RI,,-71.48611512302134,41.3876338100139,restaurant,,555544049,1,1516828951,diner,filled from name: diner,,family
+,,,Twin Willows,44009,865,Boston Neck Road,Narragansett,RI,,-71.4337081909119,41.47336959834756,restaurant,,555753010,1,1516895864,,; gapfilled with family,,family
+,,,Spirito's,44007,477,Broadway,Providence,RI,,-71.43406185475335,41.81900428336924,restaurant,,555759212,2,1580695843,,; gapfilled with family,,family
+,,,Caserta Pizzeria,44007,121,Spruce Street,Providence,RI,,-71.42779184439958,41.82454412451987,restaurant,,555759218,1,1516897212,pizza,filled from name: pizzeria,,noemit
+,,,Siena Restaurant,44007,238,Atwells Avenue,Providence,RI,,-71.42590885913435,41.823332883339916,restaurant,,555759254,2,1640624654,,; gapfilled with family,,family
+,,,Cassarino's Restaurant,44007,177,Atwells Avenue,Providence,RI,,-71.4238289070561,41.82361622591945,restaurant,,555763538,1,1516898080,,; gapfilled with family,,family
+,,,Angelo's Civita Famese Restaurant,44007,,,,,,-71.42278289794943,41.82345771791091,restaurant,,555763593,1,1516898082,,; gapfilled with family,,family
+,,,Camille's,44007,71,Bradford Street,Providence,RI,,-71.4220765852783,41.82278569689916,restaurant,,555763595,1,1516898082,,; gapfilled with family,,family
+,,,Block Island Oyster Bar & Grille,44009,,Champlin Road,Block Island,RI,02807,-71.58376994507705,41.18356596669758,restaurant,,594247675,3,1533327056,oyster,filled from name: oyster,,seafood
+Burger King,,,Burger King,44007,66,Eddie Dowling Highway,North Smithfield,RI,02896-7306,-71.51405715952826,41.98226165780049,fast_food,burger,594346369,4,1715691841,burger,nan,,fast_food
+,,,Paddy's Beach Club,44009,,,,,,-71.80874794928654,41.3220207476953,restaurant,,595927979,1,1528576399,,; gapfilled with family,,family
+,,,Maria's Seaside Cafe,44009,,,,,,-71.81140889365552,41.32208272629345,restaurant,,598588274,1,1529254483,cafe,filled from name: cafe,,family
+,,,,44005,,,,,,-71.17073025166029,41.509361846509044,restaurant,,627216087,2,1625154778,,; gapfilled with family,,family
+,,,sip and dip,44005,,,,,,-71.14567770797683,41.62613368971502,restaurant,,627237168,2,1570719330,,; gapfilled with family,,family
+,,,The Red Dory,44005,,,,,,-71.21294078760961,41.62521640762349,restaurant,,627241167,3,1562612354,,; gapfilled with family,,family
+Subway,,,Subway,44005,,,,,,-71.14696502685548,41.627664566050704,fast_food,sandwich,627243180,4,1708985446,sandwich,nan,,fast_food
+,,,Pazi's Place,44007,380,Taunton Avenue,East Providence,RI,,-71.36372039680009,41.821053637321164,restaurant,diner,637188830,3,1549639017,diner,nan,,family
+,,,Evelyn's Drive In,44005,,,,,,-71.20016486119435,41.61613717650336,restaurant,,657964296,1,1545767124,,; gapfilled with family,,family
+,,,Baja's Fresh Grill,44005,330,West Main Road,,,,-71.30173136048458,41.51457071398006,fast_food,mexican,661915914,5,1711316972,mexican,nan,,fast_food
+,,,Ma's Donut Shop,44005,78,West Main Road,Middletown,RI,02842,-71.30215672996485,41.507651508105944,fast_food,donut,662205016,5,1711316706,donut,nan,,noemit
+,,,Del's,44003,306,Cowesett Avenue,,,,-71.50420567122083,41.68521308432168,fast_food,lemonade;pretzels,671940676,3,1704979245,lemonade,nan,pretzels,fast_food
+McDonald's,,,McDonald's,44007,1377,Atwood Avenue,Johnston,RI,02919,-71.49518203744563,41.81461524973571,fast_food,burger,671941512,5,1715255918,burger,nan,,fast_food
+Taco Bell,,,Taco Bell,44007,1379,Atwood Avenue,Johnston,RI,02919,-71.49539184572755,41.814916610782625,fast_food,tex-mex,671941513,5,1715376073,tex-mex,nan,,fast_food
+,,,Wein-O-Rama,44007,,,,,,-71.47983932495387,41.743356704708034,restaurant,,671948399,2,1581740004,,; gapfilled with family,,family
+,,,Davenport's Bar and Grille,44007,1925,Pawtucket Avenue,East Providence,RI,02914,-71.35692762592892,41.82224650372793,restaurant,american,672090143,2,1694277304,american,nan,,family
+,,,Gregg's,44007,1940,Pawtucket Avenue,East Providence,RI,02914,-71.35480975979911,41.82246397593636,restaurant,american,672090149,3,1565732605,american,nan,,family
+McDonald's,,,McDonald's,44007,721,Taunton Avenue,East Providence,RI,02914,-71.35275375851491,41.82165831780838,fast_food,burger,672090164,3,1715255918,burger,nan,,fast_food
+Dunkin',,,Dunkin',44003,1239,Division Road,East Greenwich,RI,02818,-71.4987592579448,41.66312748710331,fast_food,donut;coffee_shop,675870867,8,1715212301,donut,nan,coffee_shop,noemit
+,,,Khoo,44003,,,,,,-71.50802652679442,41.6845723655845,restaurant,chinese;malaysian,681142564,2,1696770951,chinese,nan,malaysian,ethnic
+,,,Pinoy Lane Food Mart,44003,24,Quaker Lane,,,,-71.50112317891359,41.69568742394512,restaurant,filipino,683954383,2,1696692835,filipino,nan,,ethnic
+Wendy's,,,Wendy's,44009,1320,Ten Rod Road,North Kingstown,RI,02852,-71.50070145401044,41.58192369754087,fast_food,burger,684189341,6,1715689924,burger,nan,,fast_food
+,,,,44007,,,,,,-71.44713523810053,41.84381442555394,restaurant,,685443182,1,1556026606,,; gapfilled with family,,family
+,,,Crow's Nest Restaurant,44003,288,Arnolds Neck Drive,Warwick,RI,02886,-71.45322737227282,41.69546447515282,restaurant,american;seafood,692594642,2,1698628261,american,nan,seafood,family
+,,,15 Points Restaurant,44005,15,Point Road,,,,-71.22023188373267,41.62590252345919,restaurant,seafood,701383728,2,1562173843,seafood,nan,,seafood
+Subway,,,Subway,44007,,,,,,-71.51717945246595,41.7883477085817,fast_food,sandwich,704637847,6,1708985446,sandwich,nan,,fast_food
+Applebee's Neighborhood Grill & Bar,,Applebee's Neighborhood Grill & Bar,Applebee's,44003,,,,,,-71.54643040255694,41.66209123286918,restaurant,american,711153021,2,1705462288,american,nan,,family
+Taco Bell,,,Taco Bell,44007,1102,Cranston Street,Cranston,RI,02920,-71.44875215929393,41.79613758175241,fast_food,tex-mex,728864419,4,1715376073,tex-mex,nan,,fast_food
+,,,Coffee Bean Express,44007,1111,Cranston Street,Cranston,RI,02920,-71.44958496093173,41.796119689951816,fast_food,ice_cream,728864420,2,1682365876,ice_cream,nan,,noemit
+,,,Jesse's New York System,44007,,,,,,-71.55184485321318,41.79140435494871,restaurant,wiener;diner,731888557,2,1668119550,wiener,nan,diner,family
+Dunkin',,,Dunkin' Donuts,44005,3001,East Main Road,Portsmouth,RI,02871,-71.24561691286033,41.610174179078015,fast_food,donut;coffee_shop,733309921,4,1715212301,donut,nan,coffee_shop,noemit
+,,,Mindy's,44005,,,,,,-71.2452947541083,41.61930852659615,restaurant,,733309924,2,1660138414,,; gapfilled with family,,family
+,,,Flos Drive in,44005,,,,,,-71.23421506099855,41.62224093239896,restaurant,seafood,733309925,1,1570719993,seafood,nan,,seafood
+Taco Bell,,,Taco Bell,44007,1479,Mineral Spring Avenue,North Providence,RI,02904,-71.44414587963708,41.86583012415204,fast_food,tex-mex,733334533,6,1715376073,tex-mex,nan,,fast_food
+,,,Pit Grill,44009,175,Bonnet Point Road,Narragansett,RI,02882,-71.42687536027165,41.473200970202605,fast_food,burger;chicken;regional,741255050,1,1572708089,burger,nan,chicken,fast_food
+,,,Snack & Pizza Bar,44009,175,Bonnet Point Road,Narragansett,RI,02882,-71.42755566639926,41.473114434992,fast_food,pizza,741256236,2,1572714467,pizza,nan,,noemit
+,,,Sea Breeze Bistro,44009,,,,,,-71.4276927330826,41.47306333177862,restaurant,seafood,741256237,1,1572708381,seafood,nan,,seafood
+,,,Chopmist Charlie's,44005,40,Narragansett Avenue,Jamestown,RI,02835,-71.37018184705221,41.49648382887008,restaurant,seafood,741286435,1,1572718684,seafood,nan,,seafood
+,,,One Ferry Wharf,44005,3,Ferry Wharf,Jamestown,RI,02835,-71.36672804325795,41.495592936285924,restaurant,,741287518,3,1653961498,,; gapfilled with family,,family
+,,,Tilly's Cheesesteaks,44009,3711,Kingstown Road,West Kingston,RI,02892,-71.56369758826435,41.48597415364786,fast_food,sandwich,742050737,1,1572916806,sandwich,nan,,fast_food
+,,,Mike's Kitchen,44007,,,,,,-71.47214721755282,41.78502760714268,restaurant,italian,755548230,1,1576366999,italian,nan,,ethnic
+,,,Simpatico Jamestown,44005,13,Narragansett Avenue,Jamestown,RI,02835,-71.36809349098154,41.49615445318449,restaurant,american,755781924,1,1576467259,american,nan,,family
+,,,J22 Tap & Table,44005,22,Narragansett Avenue,Jamestown,RI,02835,-71.36878941853259,41.496502685507785,restaurant,,756053165,1,1576525643,,; gapfilled with family,,family
+,,,Angels Kitchen,44005,23,Narragansett Avenue,Jamestown,RI,02835,-71.36883163452299,41.49618530273864,restaurant,,756083199,1,1576535494,,; gapfilled with family,,family
+,,,Slice of Heavn,44005,32,Narragansett Avenue,Jamestown,RI,02835,-71.36958119710091,41.4965373738513,restaurant,breakfast,756083683,1,1576535804,breakfast,nan,,family
+,,,Our Table,44005,53,Narragansett Avenue,Jamestown,RI,02835,-71.37113397199374,41.496060344845596,restaurant,,756110141,2,1653996895,,; gapfilled with family,,family
+Panera Bread,,,Panera Bread,44007,613,George Washington Highway,Lincoln,RI,02865,-71.48067039702005,41.934739076159026,fast_food,sandwich;bakery,758827726,3,1715164482,sandwich,nan,bakery,fast_food
+,,,Wilcox Tavern,44009,5153,Old Post Road,02813,RI,,-71.71319146710768,41.35544598229119,restaurant,,759272347,2,1577581401,,; gapfilled with family,,family
+Sonic,,,Sonic,44007,393,Putnam Pike,Smithfield,RI,02917,-71.52431873171737,41.87063978266567,fast_food,burger,766297114,3,1715642125,burger,nan,,fast_food
+Dunkin',,,Dunkin',44007,385,Putnam Pike,Smithfield,RI,02917,-71.52386474611694,41.870601654018344,fast_food,donut;coffee_shop,766297115,5,1715212301,donut,nan,coffee_shop,noemit
+Domino's,,,Domino's,44007,739,Hartford Avenue,Providence,RI,02919,-71.4700038540937,41.82002840714262,fast_food,pizza,768239090,4,1715210071,pizza,nan,,noemit
+,,,Lincoln Creamery,44007,276,Front Street,Lincoln,RI,,-71.41111392456587,41.903108146614535,restaurant,ice_cream,768239113,2,1580403665,ice_cream,nan,,noemit
+,,,Silver Lake Pizza,44007,180,Pocasset Avenue,Providence,RI,02909,-71.45434698081667,41.810096647320165,restaurant,pizza;burger;italian;american;chicken,771196775,2,1658494765,pizza,nan,burger,family
+Dunkin',,,Dunkin',44007,1245,North Main Street,Providence,RI,02904,-71.40036835082047,41.8538340445677,fast_food,donut;coffee_shop,771209912,4,1715212301,donut,nan,coffee_shop,noemit
+,,,India,44007,1060,Hope Street,Providence,RI,02906,-71.39186952356083,41.85605997619623,restaurant,indian,771211326,2,1703697883,indian,nan,,ethnic
+Little Caesars,,,Little Caesars,44007,529,Broad Street,Providence,RI,02907,-71.42137107966957,41.80964097474836,fast_food,pizza,771420574,4,1706794226,pizza,nan,,noemit
+KFC,,,KFC,44007,420,Broad Street,Providence,RI,02907,-71.42134276941728,41.81220708898349,fast_food,chicken,771421577,4,1705462288,chicken,nan,,fast_food
+Domino's,,,Domino's,44007,526,Broad Street,Providence,RI,02907,-71.42071402179207,41.8095708725619,fast_food,pizza,771424473,4,1715210071,pizza,nan,,noemit
+,,,Minerva's Pizza,44007,20,South Angell Street,Providence,RI,02906,-71.38713455202243,41.830034255971,restaurant,pizza,771427466,2,1703725264,pizza,nan,,noemit
+,,,Suce Pizza cafe,44007,,,,,,-71.41735085797232,41.78869119391378,fast_food,pizza,771436676,2,1644562118,pizza,nan,,noemit
+,,,Wild Bites Snacks,44007,,,,,,-71.4157706865276,41.78960245003359,restaurant,,771440822,2,1644562118,snack,filled from name: snack,,noemit
+,,,Not Your Average Joes,44003,,,,,,-71.4736480712169,41.72498321529141,restaurant,american,772595469,1,1581740004,american,nan,,family
+McDonald's,,,McDonald's,44007,1754,Mendon Road,Cumberland,RI,02864,-71.4361360158425,41.94351872657623,fast_food,burger,777380578,4,1715255918,burger,nan,,fast_food
+Burger King,,,Burger King,44007,1715,Mendon Road,Cumberland,RI,02864,-71.43428104868953,41.942539947354746,fast_food,burger,777380582,3,1715691841,burger,nan,,fast_food
+,,,Quito's,44001,,,,,,-71.28004017158807,41.672568187383895,restaurant,,789724157,2,1648989426,,; gapfilled with family,,family
+,,,Portside Tavern,44001,444,Thames Street,Bristol,RI,02809,-71.27858499795519,41.67316379140646,restaurant,comfort_food;small_plates,789728101,2,1588432518,comfort_food,nan,small_plates,family
+,,,Circe,44003,1646,Division Road,East Greenwich,RI,02818,-71.51037398707462,41.66114170101198,restaurant,,794522665,2,1698305273,,; gapfilled with family,,family
+,,,Beehive Cafe,44001,10,Franklin Street,Bristol,RI,02809,-71.27838756062471,41.67337331489983,restaurant,cafe,799140323,1,1588432518,cafe,nan,,family
+Dunkin',,,Dunkin' Donuts,44007,399,North Broadway,Rumford,RI,02916,-71.36203197931991,41.83147164325514,fast_food,donut;coffee_shop,799197995,6,1715212301,donut,nan,coffee_shop,noemit
+,,,EZ's Diner,44003,,,,,,-71.50189573405153,41.69498017499241,restaurant,diner,800839064,2,1711031988,diner,nan,,family
+,,,Sardella's Italian Restaurant,44005,30,Memorial Boulevard,Newport,RI,02840,-71.31010834787993,41.48364362138558,restaurant,italian,813474504,1,1591471838,italian,nan,,ethnic
+,,,Uncle Tony's Pizza and Pasta,44007,46,Putnam Pike,Johnston,RI,02919,-71.4904567221387,41.86042674690199,restaurant,italian,828692715,3,1699588298,italian,nan,,ethnic
+,,,Firehouse Hotdogs,44007,39,Putnam Pike,Johnston,RI,02919,-71.48975356320243,41.86058723401737,fast_food,hot_dog,828703001,1,1595399907,hot_dog,nan,,fast_food
+,,,Reali's Fine Cuisine,44007,79,Putnam Pike,Johnston,RI,02919,-71.49226379385917,41.862113952680545,restaurant,italian,828703033,2,1595434887,italian,nan,,ethnic
+,,,Kaza Maza,44007,146,Waterman Avenue,North Providence,RI,02911,-71.48905153596924,41.86439254024915,restaurant,middle_eastern,828914400,2,1693606814,middle_eastern,nan,,ethnic
+,,,Emmily's,44007,103,Putnam Pike,Johnston,RI,02919,-71.49417063703528,41.86324556135453,restaurant,regional;breakfast,828944186,1,1595449826,regional,nan,breakfast,family
+,,,Cancun Mexican Restaurant,44007,175,Putnam Pike,Johnston,RI,02919,-71.49996387706364,41.86601398270841,restaurant,mexican,829070442,1,1595479370,mexican,nan,,ethnic
+,,,Royal Fried Chicken,44007,2046,Smith Street,North Providence,RI,02911,-71.48523454029566,41.85780767540526,restaurant,sandwich;fried_chicken,831408373,2,1595976238,sandwich,nan,fried_chicken,family
+,,,,44007,2053,Smith Street,North Providence,RI,02911,-71.48509216312667,41.85817527771067,restaurant,,831443639,1,1595976238,,; gapfilled with family,,family
+,,,Speedy Pizza,44007,2244,Mineral Spring Avenue,North Providence,RI,02911,-71.48402827944149,41.857878004407056,fast_food,pizza,834050804,1,1596588025,pizza,nan,,noemit
+,,,Mazey's Restaurant,44007,2005,Smith Street,North Providence,RI,02911,-71.48392105104632,41.857610702521605,restaurant,breakfast;american,834050806,1,1596588025,breakfast,nan,american,family
+,,,Masala Indian & Pakistani Cuisine,44007,2009,Smith Street,North Providence,RI,02911,-71.48382254131828,41.857527102652256,restaurant,indian,834050807,1,1596588025,indian,nan,,ethnic
+,,,Parma Ristorante,44007,266,Putnam Pike,Smithfield,RI,02917,-71.50773324839741,41.86826102507823,restaurant,italian,835390751,1,1596931501,italian,nan,,ethnic
+,,,,44007,355,Putnam Pike,Smithfield,RI,02917,-71.50933379348638,41.8691801806525,restaurant,,835390763,1,1596931501,,; gapfilled with family,,family
+,,,PieZoni's Pizza,44007,259,Putnam Pike,Smithfield,RI,02917,-71.50616548812155,41.86849900044896,fast_food,pizza,835390787,1,1596931501,pizza,nan,,noemit
+Dunkin',,,Dunkin',44007,259,Putnam Pike,Smithfield,RI,02917,-71.50643066062692,41.86859069355487,fast_food,donut;coffee_shop,835390789,5,1715212301,donut,nan,coffee_shop,noemit
+Dunkin',,,Dunkin',44003,851,Tiogue Avenue,Coventry,RI,02816,-71.56433105467458,41.681350708018826,fast_food,donut;coffee_shop,838397499,3,1715212301,donut,nan,coffee_shop,noemit
+,,,Bar and Board Bistro,44005,,,,,,-71.31465052062688,41.48590613484474,restaurant,american;italian,870636391,1,1605158367,american,nan,italian,family
+,,,Dominos,44003,,,,,,-71.40513149692252,41.760822846311115,restaurant,pizza,877373119,1,1606277300,pizza,nan,,noemit
+,,,Baja's Mexican Grill,44007,430,Newport Avenue,Rumford,RI,02916,-71.35410146752872,41.8481388267406,restaurant,mexican,882352576,3,1624746335,mexican,nan,,ethnic
+,,,Black Bar and Grill,44007,1689,Mendon Road,Woonsocket,RI,02895,-71.48231464463602,41.99679435540631,restaurant,,896841602,2,1632924608,grill,filled from name: grill,,family
+,,,Aj's,44003,,,,,,-71.52305984498265,41.70075798038192,restaurant,pankcake;coffee_shop;fries,926018499,2,1698244046,pankcake,; gapfilled with family,coffee_shop,family
+,,,HASH NY System,44003,,,,,,-71.53516006473757,41.72417640686676,restaurant,,926028209,2,1696853209,,; gapfilled with family,,family
+,,,Stillman Dining Hall,44005,,,,,,-71.26989563160483,41.60051280540377,restaurant,,940453983,3,1620526693,,; gapfilled with family,,family
+,,,The Landing Restaurant,44005,30,Bowens Wharf,Newport,RI,02840,-71.31689372075225,41.486749584366635,restaurant,,953746555,1,1623509884,,; gapfilled with family,,family
+Texas Roadhouse,,,Texas Roadhouse,44007,,,,,,-71.50985219149584,41.98126433053209,restaurant,steak_house,954666230,2,1705462293,steak_house,nan,,steak_bbq
+Buffalo Wild Wings,,,Buffalo Wild Wings,44007,,,,,,-71.51071548464856,41.98188209533881,restaurant,wings,954666231,3,1705462293,wings,nan,,family
+,,,Patriots Diner,44007,65,Founders Drive,Woonsocket,RI,02895,-71.48492431634763,41.991312026992205,restaurant,,955049820,2,1632923891,diner,filled from name: diner,,family
+Taco Bell,,,Taco Bell,44007,2,Dowling Village Boulevard,North Smithfield,RI,02896,-71.50967025763838,41.97435760503915,fast_food,tex-mex,955558188,4,1715376073,tex-mex,nan,,fast_food
+,,,Ocean Mist,44009,895,Matunuck Beach Road,South Kingstown,RI,02879,-71.54525507513065,41.37438961445467,restaurant,,964297141,1,1626267047,,; gapfilled with family,,family
+KFC,,,KFC,44003,,,,,,-71.56586853169354,41.680981457129015,fast_food,chicken,965696602,4,1714080720,chicken,nan,,fast_food
+,,,Whalers Brewing Company,44009,1174,Kingstown Road,South Kingstown,RI,02879,-71.49605753425409,41.45029494406223,pub,,968196509,1,1627480572,,nan,,family
+,,,D'Angelo's,44005,,,,,,-71.30048295261147,41.516152256311834,fast_food,sandwich,968278229,1,1627504945,sandwich,nan,,fast_food
+Applebee's Neighborhood Grill & Bar,,Applebee's Neighborhood Grill & Bar,Applebee's,44007,1855,Diamond Hill Road,Woonsocket,RI,02895,-71.47247314457897,42.01474952691506,restaurant,american,985542696,2,1705462293,american,nan,,family
+Papa Gino's,,,Papa Gino's,44007,1750,Diamond Hill Road,Woonsocket,RI,02895,-71.47413458418127,42.015693232451326,restaurant,pizza,985599455,2,1705462293,pizza,nan,,noemit
+Taco Bell,,,Taco Bell,44007,1500,Diamond Hill Road,Woonsocket,RI,02895,-71.48015275356752,42.01607416371163,fast_food,tex-mex,985599469,4,1715376073,tex-mex,nan,,fast_food
+Dunkin',,,Dunkin',44007,1347,Diamond Hill Road,Woonsocket,RI,02895,-71.48105924059821,42.01552858621082,fast_food,donut;coffee_shop,985614755,4,1715212301,donut,nan,coffee_shop,noemit
+Popeyes,,Popeyes Louisiana Kitchen,Popeyes,44007,1507,Diamond Hill Road,Woonsocket,RI,02895,-71.47850339390345,42.01529427671137,fast_food,chicken,985614762,2,1705462293,chicken,nan,,fast_food
+Dunkin',,,Dunkin',44007,308,Cumberland Street,Woonsocket,RI,02895,-71.49809134615107,42.004703359644076,fast_food,donut;coffee_shop,988099235,4,1715212301,donut,nan,coffee_shop,noemit
+,,,,44009,,,,,,-71.45928427166172,41.585044374454846,restaurant,,1003308266,1,1637116352,,; gapfilled with family,,family
+Dunkin',,,Dunkin',44001,375,Main Street,Warren,RI,02885,-71.28308271423843,41.731443170573776,fast_food,donut;coffee_shop,1005610178,4,1715212301,donut,nan,coffee_shop,noemit
+,,,Bluewater Bar + Grill,44001,,,,,,-71.29210013226658,41.734831067553834,restaurant,,1008919857,1,1638552782,grill,filled from name: grill,,family
+,,,The Golden Bowl,44001,,,,,,-71.30566539461654,41.738060170573576,restaurant,chinese,1009631115,2,1639321854,chinese,nan,,ethnic
+,,,PieZoni's Pizza,44001,,,,,,-71.30548340693717,41.73794760389871,restaurant,pizza,1009631118,2,1639321854,pizza,nan,,noemit
+,,,Tong-D Fine Thai Cuisine,44001,,,,,,-71.3049642326937,41.736098060646576,restaurant,thai,1009631119,2,1639321854,thai,nan,,ethnic
+McDonald's,,,McDonald's,44003,1100,Tiogue Avenue,Coventry,RI,02816,-71.57997131344945,41.67873191828994,fast_food,burger,1021482992,4,1715255918,burger,nan,,fast_food
+Burger King,,,Burger King,44003,1145,Tioque Avenue,Coventry,RI,02816,-71.58192047738184,41.67950011805307,fast_food,burger,1021483004,3,1715691841,burger,nan,,fast_food
+,,,Filippou's Twisted Pizza,44003,,,,,,-71.57108602216337,41.680623364475984,restaurant,pizza,1024593534,2,1696769380,pizza,nan,,noemit
+,,,Avenue Grille,44007,2223,Mineral Spring Avenue,North Providence,RI,02911,-71.48296137659145,41.85852208430057,restaurant,,1026172973,1,1643569449,grill,filled from name: grill,,family
+,,,Mediterranean Pizza,44007,2220,Mineral Spring Avenue,North Providence,RI,02911,-71.48249646951297,41.8582119090592,restaurant,,1026172974,1,1643569449,mediterranean,filled from name: mediterranean,,ethnic
+,,,,44007,2207,Mineral Spring Avenue,North Providence,RI,02911,-71.48209754481235,41.8585974624422,restaurant,,1026172990,1,1643569449,,; gapfilled with family,,family
+,,,Tumblesalts Cafe,44007,1,Morgan Avenue,North Providence,RI,02911,-71.48214672757709,41.858752880558306,restaurant,,1026172991,1,1643569449,cafe,filled from name: cafe,,family
+,,,Posillipo,44007,103,Waterman Avenue,North Providence,RI,02911,-71.4875782291182,41.86277677127062,restaurant,italian,1026183348,1,1643571938,italian,nan,,ethnic
+Dunkin',,,Dunkin',44003,24,Coventry Shoppers Park,Coventry,RI,02816,-71.56680382246824,41.69071654253834,fast_food,donut;coffee_shop,1026577608,4,1715212301,donut,nan,coffee_shop,noemit
+,,,,44003,,,,,,-71.56501007073183,41.69040107727615,pub,,1026814495,1,1643744581,,nan,,family
+,,,Silver Lake Pizza-COVENTRY STORE,44003,,,,,,-71.56562054651742,41.69017802469601,restaurant,pizza,1026814496,2,1696769133,pizza,nan,,noemit
+,,,Rick-N-Dee's Diner,44003,,,,,,-71.55731615037367,41.693218435703194,restaurant,,1027485228,2,1683314029,diner,filled from name: diner,,family
+,,,The Cozy Grill Family Restaurant,44003,,,,,,-71.54849541322906,41.68589628146151,restaurant,,1027489060,2,1696769262,grill,filled from name: grill,,family
+,,,Lake Taco,44003,,,,,,-71.54780096414478,41.68479542442447,restaurant,mexican,1028275905,2,1696768683,mexican,nan,,ethnic
+,,,,44005,,,,,,-71.2837688951824,41.52231188238458,restaurant,,1028740171,1,1644176114,,; gapfilled with family,,family
+,,,Marina Cafe and Pub,44005,,,,,,-71.32666712557382,41.487483831097364,restaurant,,1028745713,2,1691182349,cafe,filled from name: cafe,,family
+Subway,,,Subway,44003,,,,,,-71.6025836840483,41.66308759838659,fast_food,sandwich,1044517991,3,1708985450,sandwich,nan,,fast_food
+,,,Bristol Oyster Bar,44001,,,,,,-71.2760755516785,41.669864526172105,restaurant,seafood,1046420392,2,1648626354,seafood,nan,,seafood
+Dunkin',,,Dunkin',44003,780,Victory Highway,West Greenwich,RI,02817,-71.66599333389345,41.612565236837916,fast_food,donut;coffee_shop,1046717294,4,1715212301,donut,nan,coffee_shop,noemit
+,,,Lobster Pot,44001,119,Hope Street,,,02809,-71.27085686515136,41.66123712763917,restaurant,,1047404961,1,1648899944,lobster,filled from name: lobster,,seafood
+,,,master donuts,44003,,,,,,-71.5256167420289,41.68306633274143,fast_food,donut,1148628526,2,1700493513,donut,nan,,noemit
+McDonald's,,,McDonald's,44007,100,Mendon Road,Cumberland,RI,02864,-71.40455257284358,41.91380574465825,fast_food,burger,1155416912,5,1715255918,burger,nan,,fast_food
+,,,Union Bar and Burrito,44007,,,,,,-71.36122831297098,41.77029675258591,restaurant,,1159003897,1,1680365076,burrito,filled from name: burrito,,ethnic
+,,,Lee's Chinese,44007,,,,,,-71.36088694995993,41.768788977628326,restaurant,chinese,1159030413,1,1680374743,chinese,nan,,ethnic
+BJ's,,BJ's Restaurant & Brewhouse,BJ's,44003,,,,,,-71.48139036660415,41.72195746318032,restaurant,american,1174055579,1,1684437358,american,nan,,family
+,,,Hook & Reel Cajun Seafood & Bar,44003,,,,,,-71.48084516204564,41.72180628139274,restaurant,seafood,1174055581,1,1684437358,seafood,nan,,seafood
+,,,Uncle Tony's Pizza and Pasta,44007,206,Newport Avenue,Rumford,RI,02916,-71.35387715100656,41.85193900657409,restaurant,italian,1206419577,1,1694280420,italian,nan,,ethnic
+,,,Fresco,44003,,,,,,-71.51661133748003,41.68442460315423,restaurant,italian;seafood;pasta,1217780090,1,1698067132,italian,nan,seafood,ethnic
+,,,Graziano's 501 Cafe,44005,501,Park Avenue,Portsmouth,RI,02871,-71.22712528113536,41.62334488146693,restaurant,,1219438698,1,1698640231,cafe,filled from name: cafe,,family
+,,,Localz Kitchen & Cocktails,44005,657,Park Avenue,Portsmouth,RI,02871,-71.22229525740094,41.62376114465615,restaurant,,1219438700,1,1698640231,cocktails,filled from name: cocktails,,noemit
+,,,The Reef,44005,10,Howard Wharf,Newport,RI,02840,-71.31595340541514,41.481009589738036,restaurant,,1228749554,1,1701731801,,; gapfilled with family,,family
+,,,Axelrod's Fry Shack,44003,,,,,,-71.41551745822245,41.70646510827064,restaurant,,1230992998,1,1702525189,,; gapfilled with family,,family
+Burger King,,,Burger King,44001,609,Metacom Avenue,Warren,RI,02885,-71.26940359767042,41.71884958256725,fast_food,burger,1231109184,2,1715691841,burger,nan,,fast_food
+,,,Francesca's,44007,526,Pawtucket Avenue,Pawtucket,RI,02860,-71.39699935910028,41.85984611512926,restaurant,mexican,1234983847,1,1703788144,mexican,nan,,ethnic
+,,,Hometown Tavern,44001,632,Metacom Avenue,Warren,RI,02885,-71.26803588875075,41.71742439287848,restaurant,,1241802380,1,1705888158,,; gapfilled with family,,family
+Chipotle,,Chipotle Mexican Grill,Chipotle,44009,118,Gate Road,North Kingstown,RI,02852,-71.45397683288759,41.60576783141383,fast_food,mexican,1245145630,2,1715207420,mexican,nan,,fast_food
+Chili's,,Chili's Grill & Bar,Chili's,44007,50,Highland Avenue,East Providence,RI,02914,-71.34066027941547,41.806347007787046,restaurant,tex-mex,1247508266,1,1707369007,tex-mex,nan,,family
+Denny's,,,Denny's,44007,1450,Hartford Avenue,Johnston,RI,02919,-71.5018236449845,41.824057755307116,restaurant,american,1247682758,1,1707403873,american,nan,,family
+McDonald's,,,McDonald's,44007,255,Mineral Spring Avenue,Pawtucket,RI,02861,-71.39936522659389,41.874493463777654,fast_food,burger,1266259728,2,1715255918,burger,nan,,fast_food
+,,,Taste of India,44007,,,,,,-71.39875037491181,41.819601473051065,restaurant,,6277349837,2,1551275434,indian,filled from name: india,,ethnic
+,,,Amy's Place,44007,,,,,,-71.39898482083592,41.81958719037172,restaurant,brunch,6286709642,4,1551302768,brunch,; gapfilled with family,,family
+Panera Bread,,,Panera Bread,44007,,Putnam Pike,Smithfield,RI,,-71.53212342149857,41.87088618249237,fast_food,sandwich;bakery,60432860690,2,1668528350,sandwich,nan,bakery,fast_food
+,,,Castle Hill Inn,44005,590,Ocean Avenue,Newport,,02840,-71.36070513150091,41.46402756518833,restaurant,regional,61678919065,2,1681687493,regional,nan,,family

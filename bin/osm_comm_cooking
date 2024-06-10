@@ -1,0 +1,99 @@
+#!/usr/bin/env python3
+# Read in an OSM PBF, extract the restaurants, calculate the meat and potatoes
+
+import geopandas as gpd
+import pandas as pd
+from commcooking.restaurants import Restaurants
+from commcooking.cooking import Cooking
+from commcooking.cuisine import Cuisine
+
+def main():
+    ###########################
+    #### User editable portion
+    ###########################
+    # OSM input; Larger states will require considerable amounts of memory
+    # Snapshots of individual states can be obtained from Geofabrik
+    # https://download.geofabrik.de/north-america/us.html
+    osm_pbf = 'vermont-latest.osm.pbf'
+    # File output label, use something unique and descriptive
+    comm_label = 'vt_food'
+    # Cuisine type to use when one cannot be determined
+    # SIC cuisine: ethnic, fast_food, family, seafood, steak_bbq
+    gapfill_cuisine = 'family'
+    # County FIPS polygon shapefile, typically the county boundaries from the Census TIGER
+    # https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html
+    fips_shp = 'tl_2020_us_county.shp' 
+    # Column in FIPS shapefile with FIPS, GEOID in TIGER
+    fips_id = 'GEOID'
+    # Emission factors table includes: cooking_device,meat,poll,ef
+    ef_table = 'data/nemo_efs_table.csv'
+    ###########################
+    restaurants = Restaurants()
+    restaurants.read_osm(osm_pbf)
+    # Merge in FIPS
+    fips = get_fips(fips_shp, fips_id)
+    restaurants.food = restaurants.food.sjoin(fips, how='left')
+    restaurants.subset_columns()
+    restaurants.set_cuisine()
+    # Assign the SIC cuisine types
+    cuisine = Cuisine(gapfiller=gapfill_cuisine)
+    restaurants.food = cuisine.fill_primary_cuisine(restaurants.food)
+    restaurants.food = cuisine.assign_sic_cuisine(restaurants.food)
+    restaurants.food = cuisine.gapfill_cuisine(restaurants.food)
+    # Write the restaurant location and cuisine table
+    # This is an intermediate / QA type file 
+    fn = f'{comm_label}_cuisine_loc.csv'
+    restaurants.food.to_csv(fn, index=False)
+    # Assign the SIC codes
+    #food = food.merge(cuisine.sic_codes, on='sic_cuisine', how='left')
+    # Reduce to the necessary columns and drop noemit types
+    food_cols = ['region_cd','lon','lat','name','sic_cuisine','brand']
+    comm = Cooking()
+    meat_tons = comm.get_meat_tons()
+    # Merge in the meat tons per restaurant
+    idx = (restaurants.food.sic_cuisine != 'noemit')
+    restaurants.food = restaurants.food.loc[idx, food_cols].merge(meat_tons, 
+      on='sic_cuisine', how='left')
+    # Get the potatoes
+    restaurants.food = pd.concat((restaurants.food, comm.calc_potato(restaurants.food)))
+    # Filter certain food types at certain restaurant brands
+    # This is not part of the NEI process and you may want to disable it
+    restaurants.filter_restaurant_brands()
+    # Read in the emission factors, assume lb/tons
+    ef = get_emission_factors(ef_table)
+    ef = ef.merge(comm.devices, on='cooking_device', how='left')
+    # Merge in the emission factors
+    restaurants.food = restaurants.food.merge(ef, on=['device','food'], how='left')
+    # Calculate the annual emissions
+    restaurants.food['ann_value'] = (restaurants.food.food_tpy.fillna(0) *\
+      restaurants.food.ef.fillna(0)) / 2000.
+    cols = ['region_cd','lat','lon','name','sic_cuisine','device','poll']
+    restaurants.food = restaurants.food[cols+['ann_value',]].groupby(cols, as_index=False).sum()
+    fn = f'{comm_label}_emissions.csv'
+    print(f'Wrote emissions to {fn}')
+    restaurants.food[restaurants.food.ann_value.fillna(0) > 0].to_csv(fn, index=False)
+
+def get_fips(fips_shp, fips_id='GEOID'):
+    '''
+    Read in the FIPS shapefile, typically TIGER data
+    fips_id is the polygon column to read as the FIPS
+    '''
+    fips = gpd.read_file(fips_shp)
+    fips.geometry = fips.geometry.to_crs(epsg=5070)
+    fips.rename(columns={fips_id: 'region_cd'}, inplace=True)
+    # 5 character zero-padded string
+    fips.region_cd = fips.region_cd.str.zfill(5)
+    return fips[['region_cd','geometry']]
+
+def get_emission_factors(ef_table):
+    '''
+    Read in and reformat the emission factor table taken from the NEMO
+    Assume factors are in lb/ton
+    '''
+    ef = pd.read_csv(ef_table, usecols=['cooking_device','food','poll','ef'], dtype={'poll': str})
+    ef.cooking_device = ef.cooking_device.str.lower()
+    ef.food = ef.food.str.lower()
+    return ef
+
+if __name__ == '__main__':
+    main()
