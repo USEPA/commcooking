@@ -35,6 +35,10 @@ class Cooking:
           ['seafood',3.1,3.7,4.1,2.4,16.4],['other',0,1.1,7.1,1.5,0]]
         cols = ['food','ccb_tpy','ucb_tpy','dff_tpy','fg_tpy','cg_tpy']
         self.meat_tpy = pd.DataFrame(meats, columns=cols)
+        # Scale factors for commercial/retail meat consumption based on USDA food consumption data (table 23.7 of 2023NEI TSD)
+        comm_meat_scalars = [['steak', 0.2],['hamburger', 0.09],['poultry', 0.3],
+          ['pork', 0.74],['seafood', 0.08],['other', 0.01]]
+        self.cms = pd.DataFrame(comm_meat_scalars, columns=['food','scalar'])
         # Annual frozen potatoes used in food service (tons): 2988500 for 2020 NEI
         self.potato = 2988500
         # Fraction of these potatoes served at limited service (fast food) restaurants
@@ -58,7 +62,8 @@ class Cooking:
         tons = pd.melt(self.meat_tpy, id_vars='food', var_name='device', value_name='meat_tons')
         tons.device = tons.device.str.split('_').str[0]
         df = df.merge(tons, on='device', how='left')
-        df['food_tpy'] = df.dev_cnt.fillna(0) * df.meat_tons.fillna(0)
+        df = df.merge(self.cms, on='food', how='left')
+        df['food_tpy'] = df.dev_cnt.fillna(0) * df.meat_tons.fillna(0) * df.scalar.fillna(1)
         return df[['sic_cuisine','device','food','food_tpy']].copy()
 
     def calc_potato(self, df):
